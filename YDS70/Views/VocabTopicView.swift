@@ -11,7 +11,7 @@ struct VocabTopicView: View {
                 let words = VocabBank.shared.words(of: type)
                 let known = VocabProgressStore.shared.knownCount(among: words)
                 Button {
-                    path.append(Route.vocabPractice(words: words.shuffled(), title: type?.displayName ?? "Tüm Kelimeler"))
+                    path.append(VocabRoute.vocabPractice(words: words.shuffled(), title: type?.displayName ?? "Tüm Kelimeler"))
                 } label: {
                     HStack {
                         VStack(alignment: .leading, spacing: 4) {

@@ -1,17 +1,10 @@
 import Foundation
 
+/// Sorunun kaynak sınavı (yalnızca bilgi amaçlı; uygulama artık YDS/YÖKDİL ayrımı yapmıyor).
 enum QuestionExamTag: String, Codable, Hashable {
     case yds = "YDS"
     case yokdil = "YOKDIL"
     case both = "both"
-
-    func matches(_ examType: ExamType) -> Bool {
-        switch self {
-        case .both: return true
-        case .yds: return examType == .yds
-        case .yokdil: return examType == .yokdil
-        }
-    }
 }
 
 struct Question: Codable, Identifiable, Hashable {

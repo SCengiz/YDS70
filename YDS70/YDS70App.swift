@@ -4,7 +4,7 @@ import SwiftUI
 struct YDS70App: App {
     var body: some Scene {
         WindowGroup {
-            HomeView()
+            MainTabView()
         }
     }
 }

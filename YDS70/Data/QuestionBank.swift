@@ -18,22 +18,21 @@ final class QuestionBank {
         return questions
     }
 
-    func questions(category: QuestionCategory, examType: ExamType) -> [Question] {
-        allQuestions.filter { $0.category == category && $0.examType.matches(examType) }
+    func questions(category: QuestionCategory) -> [Question] {
+        allQuestions.filter { $0.category == category }
     }
 
-    func count(category: QuestionCategory, examType: ExamType) -> Int {
-        questions(category: category, examType: examType).count
+    func count(category: QuestionCategory) -> Int {
+        questions(category: category).count
     }
 
     /// Gerçek sınav dağılımına göre karma bir deneme sınavı oluşturur.
     /// Bir kategoride yeterli soru yoksa mevcut olan tüm sorular kullanılır.
-    func buildExam(for examType: ExamType) -> [Question] {
+    func buildExam() -> [Question] {
         var exam: [Question] = []
-        let distribution = ExamDistribution.distribution(for: examType)
-        for category in ExamDistribution.orderedCategories(for: examType) {
-            guard let needed = distribution[category] else { continue }
-            let pool = questions(category: category, examType: examType).shuffled()
+        for category in QuestionCategory.allCases {
+            guard let needed = QuestionDistribution.counts[category] else { continue }
+            let pool = questions(category: category).shuffled()
             exam.append(contentsOf: pool.prefix(needed))
         }
         return exam
