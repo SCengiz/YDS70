@@ -30,6 +30,7 @@
 		ABB005D84A82B3612D7224FC /* VocabProgressStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78A73918DF4E94A245EC5D9 /* VocabProgressStore.swift */; };
 		B161641421E2420D85BCD637 /* VocabWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC11476693C2D86CCE9A16A /* VocabWord.swift */; };
 		B5CA0FCB474E0F813574D31B /* ExamModeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF25FB548B28409788C23DE7 /* ExamModeView.swift */; };
+		B705B81EDC2B483F5BB927A4 /* VocabImportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E316696DAEC54000AFE2CBD /* VocabImportView.swift */; };
 		B972FCF9E215AD451764497B /* VocabBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97B89FB203A8B2C0630E792D /* VocabBank.swift */; };
 		C36E5557FF415CED35E117B3 /* EzberleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCE6E530AF8559D1729EEC7 /* EzberleView.swift */; };
 		C73EEF79DC2F21C81B5AFE33 /* StudyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5340298851903C74028C6560 /* StudyView.swift */; };
@@ -37,15 +38,18 @@
 		D3417A3378C233FD5B075C52 /* PracticeSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738DE2178D75247BC66308D9 /* PracticeSessionView.swift */; };
 		D5E2CE8281214984DDBF2AC4 /* QuestionCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58E5755D1CAE0A9CD16C3492 /* QuestionCategory.swift */; };
 		DDFA0E4D82A104B53A7BD172 /* ExamReviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C4BB1CB1488EF2459628B9 /* ExamReviewView.swift */; };
+		E5781DB81D69E19FDB2F2154 /* VocabImporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 093C9CD572039F7EDD6ED14C /* VocabImporter.swift */; };
 		F4A0D81A98EDAE82BFE69ABB /* FlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555A10416C109E6D061CC89D /* FlowLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0103CED90FF60BE4EEF6BD22 /* SolveRoute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolveRoute.swift; sourceTree = "<group>"; };
+		093C9CD572039F7EDD6ED14C /* VocabImporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabImporter.swift; sourceTree = "<group>"; };
 		130FB3D6810633464658955D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		13B56E190D83E09A689BA88A /* CategoryStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryStyle.swift; sourceTree = "<group>"; };
 		14275B88046F2FFCF8A96E9F /* QuestionDistribution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionDistribution.swift; sourceTree = "<group>"; };
 		1FA6A522E3B5B8518EBD336A /* YDS70App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YDS70App.swift; sourceTree = "<group>"; };
+		2E316696DAEC54000AFE2CBD /* VocabImportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabImportView.swift; sourceTree = "<group>"; };
 		3ED86D33B9CAE26ED6E3FD50 /* YDS70.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = YDS70.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F7FACDF7ECF824D0D676BBE /* TranslatableText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslatableText.swift; sourceTree = "<group>"; };
 		52C4BB1CB1488EF2459628B9 /* ExamReviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamReviewView.swift; sourceTree = "<group>"; };
@@ -105,6 +109,7 @@
 				7F66D0A3CD6EE62C34944570 /* real_questions.json */,
 				5461BE067A381B54F1E0B9F0 /* seed_questions.json */,
 				97B89FB203A8B2C0630E792D /* VocabBank.swift */,
+				093C9CD572039F7EDD6ED14C /* VocabImporter.swift */,
 				F78A73918DF4E94A245EC5D9 /* VocabProgressStore.swift */,
 				996CCE43FCB51458FC31FD11 /* vocabulary.json */,
 			);
@@ -136,6 +141,7 @@
 				5340298851903C74028C6560 /* StudyView.swift */,
 				F551B9CFF34942D97353551E /* TopicDetailView.swift */,
 				4F7FACDF7ECF824D0D676BBE /* TranslatableText.swift */,
+				2E316696DAEC54000AFE2CBD /* VocabImportView.swift */,
 				FFA29E9EC6416C2B46F5FEE9 /* VocabPracticeView.swift */,
 				F42C257E2A8167A17EFEECA1 /* VocabRoute.swift */,
 				DF57E3FC0345B1A272ACD2C7 /* VocabTopicView.swift */,
@@ -250,6 +256,8 @@
 				688B0508E05AD63FA45FDF5A /* TopicDetailView.swift in Sources */,
 				CBC42985122EE42C4CCE82FB /* TranslatableText.swift in Sources */,
 				B972FCF9E215AD451764497B /* VocabBank.swift in Sources */,
+				B705B81EDC2B483F5BB927A4 /* VocabImportView.swift in Sources */,
+				E5781DB81D69E19FDB2F2154 /* VocabImporter.swift in Sources */,
 				0C73507A0BA21B506DBF296F /* VocabPracticeView.swift in Sources */,
 				ABB005D84A82B3612D7224FC /* VocabProgressStore.swift in Sources */,
 				A6EB0B70155F4A2573C97277 /* VocabRoute.swift in Sources */,

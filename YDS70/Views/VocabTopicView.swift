@@ -3,6 +3,8 @@ import SwiftUI
 struct VocabTopicView: View {
     @Binding var path: NavigationPath
 
+    @State private var isShowingImportSheet = false
+
     private let options: [WordType?] = [nil] + WordType.allCases
 
     var body: some View {
@@ -43,5 +45,17 @@ struct VocabTopicView: View {
         }
         .navigationTitle("Kelime Ezberle")
         .navigationBarTitleDisplayMode(.inline)
+        .toolbar {
+            ToolbarItem(placement: .navigationBarTrailing) {
+                Button {
+                    isShowingImportSheet = true
+                } label: {
+                    Image(systemName: "plus")
+                }
+            }
+        }
+        .sheet(isPresented: $isShowingImportSheet) {
+            VocabImportView()
+        }
     }
 }
