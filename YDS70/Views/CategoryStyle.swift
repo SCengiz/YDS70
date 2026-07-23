@@ -14,6 +14,7 @@ enum CategoryStyle {
         case .restatement: return "arrow.triangle.2.circlepath"
         case .paragraphCompletion: return "text.badge.plus"
         case .irrelevantSentence: return "exclamationmark.triangle.fill"
+        case .custom: return "tray.and.arrow.down.fill"
         }
     }
 
@@ -29,6 +30,7 @@ enum CategoryStyle {
         case .restatement: return .red
         case .paragraphCompletion: return .yellow
         case .irrelevantSentence: return .mint
+        case .custom: return .brown
         }
     }
 }

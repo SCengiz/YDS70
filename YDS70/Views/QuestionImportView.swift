@@ -2,7 +2,7 @@ import SwiftUI
 import PhotosUI
 import UniformTypeIdentifiers
 
-struct VocabImportView: View {
+struct QuestionImportView: View {
     private enum Stage {
         case pickingMethod
         case reviewing
@@ -16,7 +16,7 @@ struct VocabImportView: View {
     @State private var isShowingFileImporter = false
     @State private var selectedPhotoItem: PhotosPickerItem?
     @State private var resultMessage: String?
-    @State private var skippedLines: [String] = []
+    @State private var skippedBlocks: [String] = []
 
     var body: some View {
         NavigationStack {
@@ -28,14 +28,14 @@ struct VocabImportView: View {
                     reviewScreen
                 }
             }
-            .navigationTitle("Kelime Listesi Ekle")
+            .navigationTitle("Soru Ekle")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
                     if stage == .reviewing {
                         Button("Geri") {
                             resultMessage = nil
-                            skippedLines = []
+                            skippedBlocks = []
                             stage = .pickingMethod
                         }
                     } else {
@@ -69,7 +69,7 @@ struct VocabImportView: View {
 
     private var methodPicker: some View {
         VStack(spacing: 16) {
-            Text("Kelime listesini nasıl eklemek istersin?")
+            Text("Kendi hazırladığın/derlediğin soruları nasıl eklemek istersin?")
                 .font(.subheadline)
                 .foregroundStyle(.secondary)
                 .padding(.top, 8)
@@ -77,7 +77,7 @@ struct VocabImportView: View {
             methodCard(
                 icon: "text.alignleft",
                 title: "Metin ile Yükle",
-                subtitle: "İngilizce - Türkçe kelime çiftlerini yapıştır",
+                subtitle: "Soruları yapıştır",
                 colors: [.blue, .indigo]
             ) {
                 pastedText = ""
@@ -97,11 +97,23 @@ struct VocabImportView: View {
                 methodCardLabel(
                     icon: "photo.badge.plus",
                     title: "Görsel ile Yükle",
-                    subtitle: "Bir kelime listesi ekran görüntüsü seç",
+                    subtitle: "Bir soru sayfası ekran görüntüsü seç",
                     colors: [.green, .teal]
                 )
             }
             .buttonStyle(.plain)
+            .padding(.horizontal)
+
+            VStack(alignment: .leading, spacing: 6) {
+                Text("Beklenen biçim")
+                    .font(.caption.weight(.semibold))
+                Text("1. Soru metni...\nA) seçenek\nB) seçenek\nC) seçenek\nDoğru Cevap: B\n\nya da sonda:\nCEVAP ANAHTARI\n1) B")
+                    .font(.caption2.monospaced())
+                    .foregroundStyle(.secondary)
+            }
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .padding()
+            .background(Color(.tertiarySystemBackground), in: RoundedRectangle(cornerRadius: 12))
             .padding(.horizontal)
 
             Spacer()
@@ -144,7 +156,7 @@ struct VocabImportView: View {
 
     private var reviewScreen: some View {
         VStack(alignment: .leading, spacing: 16) {
-            Text("Çıkarılan metni kontrol et, gerekirse düzelt. Her satırda bir kelime olmalı (terim ve anlam arasına tire, iki nokta veya sekme koyabilirsin).")
+            Text("Çıkarılan metni kontrol et, gerekirse düzelt. Her soru bir numarayla başlamalı, seçenekler A) B) C)... ile, doğru cevap \"Doğru Cevap: B\" satırıyla ya da sonda CEVAP ANAHTARI listesiyle belirtilmeli.")
                 .font(.caption)
                 .foregroundStyle(.secondary)
                 .padding(.horizontal)
@@ -160,13 +172,13 @@ struct VocabImportView: View {
                 VStack(alignment: .leading, spacing: 8) {
                     Text(resultMessage)
                         .font(.subheadline.weight(.medium))
-                    if !skippedLines.isEmpty {
-                        Text("Anlaşılamayan satırlar:")
+                    if !skippedBlocks.isEmpty {
+                        Text("Eklenemeyen sorular:")
                             .font(.caption.weight(.semibold))
                             .foregroundStyle(.secondary)
                             .padding(.top, 4)
-                        ForEach(skippedLines.prefix(10), id: \.self) { line in
-                            Text(line)
+                        ForEach(skippedBlocks.prefix(10), id: \.self) { block in
+                            Text(block)
                                 .font(.caption2)
                                 .foregroundStyle(.secondary)
                         }
@@ -182,7 +194,7 @@ struct VocabImportView: View {
             Button {
                 processImport()
             } label: {
-                Text("Listelere Ekle")
+                Text("Sorulara Ekle")
                     .frame(maxWidth: .infinity)
                     .padding()
                     .background(canImport ? Color.accentColor : Color.gray.opacity(0.3))
@@ -214,12 +226,12 @@ struct VocabImportView: View {
         if let text = DocumentTextExtractor.extractText(fromPDF: url) {
             pastedText = text
             resultMessage = nil
-            skippedLines = []
+            skippedBlocks = []
             stage = .reviewing
         } else {
             pastedText = ""
             resultMessage = "PDF içinden metin okunamadı."
-            skippedLines = []
+            skippedBlocks = []
             stage = .reviewing
         }
     }
@@ -232,7 +244,7 @@ struct VocabImportView: View {
               let uiImage = UIImage(data: data) else {
             pastedText = ""
             resultMessage = "Görsel okunamadı."
-            skippedLines = []
+            skippedBlocks = []
             stage = .reviewing
             return
         }
@@ -243,21 +255,18 @@ struct VocabImportView: View {
             pastedText = ""
             resultMessage = "Görselden metin okunamadı."
         }
-        skippedLines = []
+        skippedBlocks = []
         stage = .reviewing
     }
 
     private func processImport() {
-        let (words, skipped) = VocabImporter.parse(text: pastedText)
-        let result = VocabBank.shared.addWords(words)
-        skippedLines = skipped
+        let (questions, skipped) = QuestionImporter.parse(text: pastedText)
+        QuestionBank.shared.addUserQuestions(questions)
+        skippedBlocks = skipped
 
-        var message = "\(result.added) yeni kelime eklendi."
-        if result.duplicates > 0 {
-            message += " \(result.duplicates) kelime zaten listede olduğu için eklenmedi."
-        }
+        var message = "\(questions.count) soru eklendi."
         if !skipped.isEmpty {
-            message += " \(skipped.count) satır anlaşılamadı."
+            message += " \(skipped.count) soru anlaşılamadı."
         }
         resultMessage = message
     }

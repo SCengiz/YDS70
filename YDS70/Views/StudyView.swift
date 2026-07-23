@@ -38,7 +38,7 @@ struct StudyView: View {
                 }
 
                 Section("Konular") {
-                    ForEach(QuestionCategory.allCases) { category in
+                    ForEach(QuestionCategory.allCases.filter { $0 != .custom }) { category in
                         let count = QuestionBank.shared.count(category: category)
                         let color = CategoryStyle.color(for: category)
                         Button {

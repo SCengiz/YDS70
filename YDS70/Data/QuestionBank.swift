@@ -3,10 +3,26 @@ import Foundation
 final class QuestionBank {
     static let shared = QuestionBank()
 
-    let allQuestions: [Question]
+    private let bundledQuestions: [Question]
+    private var userQuestions: [Question]
+    private let userQuestionsFileURL: URL
+
+    var allQuestions: [Question] { bundledQuestions + userQuestions }
 
     private init() {
-        allQuestions = Self.loadQuestions(resource: "seed_questions") + Self.loadQuestions(resource: "real_questions")
+        bundledQuestions = Self.loadQuestions(resource: "seed_questions") + Self.loadQuestions(resource: "real_questions")
+
+        let supportDir = FileManager.default
+            .urls(for: .applicationSupportDirectory, in: .userDomainMask)[0]
+        try? FileManager.default.createDirectory(at: supportDir, withIntermediateDirectories: true)
+        userQuestionsFileURL = supportDir.appendingPathComponent("user_questions.json")
+
+        if let data = try? Data(contentsOf: userQuestionsFileURL),
+           let questions = try? JSONDecoder().decode([Question].self, from: data) {
+            userQuestions = questions
+        } else {
+            userQuestions = []
+        }
     }
 
     private static func loadQuestions(resource: String) -> [Question] {
@@ -36,5 +52,14 @@ final class QuestionBank {
             exam.append(contentsOf: pool.prefix(needed))
         }
         return exam
+    }
+
+    @discardableResult
+    func addUserQuestions(_ newQuestions: [Question]) -> Int {
+        userQuestions.append(contentsOf: newQuestions)
+        if let data = try? JSONEncoder().encode(userQuestions) {
+            try? data.write(to: userQuestionsFileURL)
+        }
+        return newQuestions.count
     }
 }

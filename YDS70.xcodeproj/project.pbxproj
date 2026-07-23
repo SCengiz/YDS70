@@ -22,6 +22,7 @@
 		5B7403A33B3EE07DF4029530 /* TopicContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE4DA5E892FA21F9E2C7526D /* TopicContent.swift */; };
 		688B0508E05AD63FA45FDF5A /* TopicDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F551B9CFF34942D97353551E /* TopicDetailView.swift */; };
 		76D3C07A7BE5BA6F91C9FA7D /* real_questions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7F66D0A3CD6EE62C34944570 /* real_questions.json */; };
+		7FE348C33C458FC9BED4387A /* DocumentTextExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55648BA6DA86AA871CE1383E /* DocumentTextExtractor.swift */; };
 		9425EB9C5A576C9117F10690 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C6759AB1054123E6AE17519 /* MainTabView.swift */; };
 		954E239E2F4584BC09D64AFE /* seed_questions.json in Resources */ = {isa = PBXBuildFile; fileRef = 5461BE067A381B54F1E0B9F0 /* seed_questions.json */; };
 		A5D122BAD7D0138040462560 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF6DCCF12455C0CF70B92BE3 /* Question.swift */; };
@@ -37,8 +38,10 @@
 		CBC42985122EE42C4CCE82FB /* TranslatableText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F7FACDF7ECF824D0D676BBE /* TranslatableText.swift */; };
 		D3417A3378C233FD5B075C52 /* PracticeSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738DE2178D75247BC66308D9 /* PracticeSessionView.swift */; };
 		D5E2CE8281214984DDBF2AC4 /* QuestionCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58E5755D1CAE0A9CD16C3492 /* QuestionCategory.swift */; };
+		D765EC50B23CB23701DA1428 /* QuestionImporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFD36D1A3E08A69517248AB4 /* QuestionImporter.swift */; };
 		DDFA0E4D82A104B53A7BD172 /* ExamReviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C4BB1CB1488EF2459628B9 /* ExamReviewView.swift */; };
 		E5781DB81D69E19FDB2F2154 /* VocabImporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 093C9CD572039F7EDD6ED14C /* VocabImporter.swift */; };
+		F4893E55704AD9D5C97201FD /* QuestionImportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA2EF5FD2577BB23A10B5C1F /* QuestionImportView.swift */; };
 		F4A0D81A98EDAE82BFE69ABB /* FlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555A10416C109E6D061CC89D /* FlowLayout.swift */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +59,7 @@
 		5340298851903C74028C6560 /* StudyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyView.swift; sourceTree = "<group>"; };
 		5461BE067A381B54F1E0B9F0 /* seed_questions.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = seed_questions.json; sourceTree = "<group>"; };
 		555A10416C109E6D061CC89D /* FlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowLayout.swift; sourceTree = "<group>"; };
+		55648BA6DA86AA871CE1383E /* DocumentTextExtractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentTextExtractor.swift; sourceTree = "<group>"; };
 		58E5755D1CAE0A9CD16C3492 /* QuestionCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionCategory.swift; sourceTree = "<group>"; };
 		66B58BFC74F597291D062E2E /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
 		6BCE6E530AF8559D1729EEC7 /* EzberleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EzberleView.swift; sourceTree = "<group>"; };
@@ -69,6 +73,8 @@
 		AC9604DDB5C2D3F930038BED /* SolveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolveView.swift; sourceTree = "<group>"; };
 		ADC11476693C2D86CCE9A16A /* VocabWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabWord.swift; sourceTree = "<group>"; };
 		AF6DCCF12455C0CF70B92BE3 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		BA2EF5FD2577BB23A10B5C1F /* QuestionImportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionImportView.swift; sourceTree = "<group>"; };
+		CFD36D1A3E08A69517248AB4 /* QuestionImporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionImporter.swift; sourceTree = "<group>"; };
 		D7B493EE522926DF64B3B6FB /* WordTypeStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordTypeStyle.swift; sourceTree = "<group>"; };
 		DC50E8BE1185E2C3CF3AD9AD /* QuestionBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionBank.swift; sourceTree = "<group>"; };
 		DF57E3FC0345B1A272ACD2C7 /* VocabTopicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabTopicView.swift; sourceTree = "<group>"; };
@@ -105,7 +111,9 @@
 		94B7CA854E9B930BC24B990C /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				55648BA6DA86AA871CE1383E /* DocumentTextExtractor.swift */,
 				DC50E8BE1185E2C3CF3AD9AD /* QuestionBank.swift */,
+				CFD36D1A3E08A69517248AB4 /* QuestionImporter.swift */,
 				7F66D0A3CD6EE62C34944570 /* real_questions.json */,
 				5461BE067A381B54F1E0B9F0 /* seed_questions.json */,
 				97B89FB203A8B2C0630E792D /* VocabBank.swift */,
@@ -134,6 +142,7 @@
 				555A10416C109E6D061CC89D /* FlowLayout.swift */,
 				6C6759AB1054123E6AE17519 /* MainTabView.swift */,
 				738DE2178D75247BC66308D9 /* PracticeSessionView.swift */,
+				BA2EF5FD2577BB23A10B5C1F /* QuestionImportView.swift */,
 				66B58BFC74F597291D062E2E /* ResultView.swift */,
 				0103CED90FF60BE4EEF6BD22 /* SolveRoute.swift */,
 				AC9604DDB5C2D3F930038BED /* SolveView.swift */,
@@ -237,6 +246,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				437CBAA9D0A4773FCBA552B9 /* CategoryStyle.swift in Sources */,
+				7FE348C33C458FC9BED4387A /* DocumentTextExtractor.swift in Sources */,
 				B5CA0FCB474E0F813574D31B /* ExamModeView.swift in Sources */,
 				DDFA0E4D82A104B53A7BD172 /* ExamReviewView.swift in Sources */,
 				C36E5557FF415CED35E117B3 /* EzberleView.swift in Sources */,
@@ -247,6 +257,8 @@
 				2D1F8384CB6F4D88B94FE7F6 /* QuestionBank.swift in Sources */,
 				D5E2CE8281214984DDBF2AC4 /* QuestionCategory.swift in Sources */,
 				194CE9F3415FFE9F1AC08BFD /* QuestionDistribution.swift in Sources */,
+				F4893E55704AD9D5C97201FD /* QuestionImportView.swift in Sources */,
+				D765EC50B23CB23701DA1428 /* QuestionImporter.swift in Sources */,
 				A610157FC2E5C5B1D93DE904 /* ResultView.swift in Sources */,
 				3B59F15CECA90E46CA9BDAE3 /* SolveRoute.swift in Sources */,
 				0AB6774474AF9AB39EC15636 /* SolveView.swift in Sources */,
