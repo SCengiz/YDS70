@@ -69,7 +69,6 @@ struct StudyView: View {
                     }
                 }
             }
-            .navigationTitle("Çalış")
             .navigationDestination(for: StudyRoute.self) { route in
                 switch route {
                 case .topicDetail(let category):

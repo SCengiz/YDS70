@@ -92,7 +92,6 @@ struct SolveView: View {
                 .buttonStyle(.plain)
                 .disabled(QuestionBank.shared.count(category: .custom) == 0)
             }
-            .navigationTitle("Çöz")
             .toolbar {
                 ToolbarItem(placement: .navigationBarTrailing) {
                     Button {

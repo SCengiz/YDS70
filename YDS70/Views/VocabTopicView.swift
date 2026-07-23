@@ -72,8 +72,6 @@ struct VocabTopicView: View {
                 .buttonStyle(.plain)
             }
         }
-        .navigationTitle("Kelime Ezberle")
-        .navigationBarTitleDisplayMode(.inline)
         .toolbar {
             ToolbarItem(placement: .navigationBarTrailing) {
                 Button {
