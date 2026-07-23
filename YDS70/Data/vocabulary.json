@@ -1,0 +1,5234 @@
+[
+  {
+    "id": "verb-1",
+    "term": "admit",
+    "meaning": "itiraf etmek, kabul etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-2",
+    "term": "abandon",
+    "meaning": "terk etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-3",
+    "term": "absorb",
+    "meaning": "emmek, soğurmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-4",
+    "term": "abuse",
+    "meaning": "kötüye kullanmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-5",
+    "term": "accelerate",
+    "meaning": "hızlanmak, hızlandırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-6",
+    "term": "accept",
+    "meaning": "kabul etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-7",
+    "term": "accommodate",
+    "meaning": "uyum sağlamak /yerleştirmek / yaşayacak yer temin etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-8",
+    "term": "accompany",
+    "meaning": "eşlik etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-9",
+    "term": "accomplish",
+    "meaning": "sonuçlandırmak,başarıyla tamamlamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-10",
+    "term": "accumulate",
+    "meaning": "bitirmek,biriktirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-11",
+    "term": "accuse",
+    "meaning": "suçlamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-12",
+    "term": "achieve",
+    "meaning": "başarmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-13",
+    "term": "acknowledge",
+    "meaning": "kabul etmek/ kabullenmek /itiraf etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-14",
+    "term": "address",
+    "meaning": "hitap etmek, söylev, adres",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-15",
+    "term": "adjust",
+    "meaning": "ayarlamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-16",
+    "term": "administer",
+    "meaning": "yönetmek, idare etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-17",
+    "term": "admire",
+    "meaning": "hayranlık duymak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-18",
+    "term": "adopt",
+    "meaning": "evlat edinmek, benimsemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-19",
+    "term": "aggravate",
+    "meaning": "kötüleştirmek, zorlaştırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-20",
+    "term": "agree",
+    "meaning": "kabul etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-21",
+    "term": "alienate",
+    "meaning": "yabancılaştırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-22",
+    "term": "alleviate",
+    "meaning": "hafifletmek,azaltmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-23",
+    "term": "allocate",
+    "meaning": "tahsis etmek, pay etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-24",
+    "term": "allow",
+    "meaning": "izin vermek/ müsaade etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-25",
+    "term": "alter",
+    "meaning": "değiştirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-26",
+    "term": "appear",
+    "meaning": "1. gibi görünmek / ortaya çıkmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-27",
+    "term": "apply",
+    "meaning": "başvurmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-28",
+    "term": "appoint",
+    "meaning": "atamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-29",
+    "term": "appraise",
+    "meaning": "değer biçmek, kıymet takdir etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-30",
+    "term": "appreciate",
+    "meaning": "takdir etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-31",
+    "term": "approve",
+    "meaning": "onaylamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-32",
+    "term": "arise",
+    "meaning": "meydana çıkmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-33",
+    "term": "articulate",
+    "meaning": "söylemek/ açıkça söylemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-34",
+    "term": "assess",
+    "meaning": "değerlendirmek, değer biçmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-35",
+    "term": "attach",
+    "meaning": "bağlamak, eklemek,iliştirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-36",
+    "term": "attain",
+    "meaning": "elde etmek,erişmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-37",
+    "term": "attribute",
+    "meaning": "atfetmek / dayandırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-38",
+    "term": "avoid",
+    "meaning": "kaçınmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-39",
+    "term": "become",
+    "meaning": "olmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-40",
+    "term": "begin",
+    "meaning": "başlamak, başlatmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-41",
+    "term": "block",
+    "meaning": "engellemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-42",
+    "term": "blur",
+    "meaning": "bulandırmak / lekelemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-43",
+    "term": "boost",
+    "meaning": "arttırmak / yükseltmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-44",
+    "term": "capture",
+    "meaning": "esir almak, ele geçirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-45",
+    "term": "celebrate",
+    "meaning": "kutlamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-46",
+    "term": "challenge",
+    "meaning": "karşı çıkmak, meydan okumak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-47",
+    "term": "change",
+    "meaning": "değişmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-48",
+    "term": "circulate",
+    "meaning": "deveran etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-49",
+    "term": "claim",
+    "meaning": "iddia etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-50",
+    "term": "collect",
+    "meaning": "toplamak, biriktirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-51",
+    "term": "commit",
+    "meaning": "işlemek ( suç vb.)",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-52",
+    "term": "compensate",
+    "meaning": "telafi etmek, tazmin etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-53",
+    "term": "compete",
+    "meaning": "rekabet etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-54",
+    "term": "compile",
+    "meaning": "derlemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-55",
+    "term": "complain",
+    "meaning": "şikayet etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-56",
+    "term": "comprise",
+    "meaning": "kapsamak, içermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-57",
+    "term": "conceal",
+    "meaning": "gizlemek, gizli tutmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-58",
+    "term": "concey",
+    "meaning": "iletmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-59",
+    "term": "conduct",
+    "meaning": "yönetmek / yürütmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-60",
+    "term": "confirm",
+    "meaning": "onaylamak / doğrulamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-61",
+    "term": "confront",
+    "meaning": "karşı karşıya olmak/ yüzleşmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-62",
+    "term": "confuse",
+    "meaning": "kafasını karıştırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-63",
+    "term": "conquer",
+    "meaning": "fethetmek /ele geçirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-64",
+    "term": "consider",
+    "meaning": "göz önünde bulundurmak, hesaba katmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-65",
+    "term": "constitute",
+    "meaning": "oluşturmak, teşkil etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-66",
+    "term": "constrain",
+    "meaning": "kısıtlamak, alıkoymak, engellemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-67",
+    "term": "construct",
+    "meaning": "inşa etmek, yapmak, kurmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-68",
+    "term": "consult",
+    "meaning": "başvurmak, danışmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-69",
+    "term": "contain",
+    "meaning": "kapsamak, içermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-70",
+    "term": "contend",
+    "meaning": "uğraşmak, çekişmek, yarışmak, çarpışmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-71",
+    "term": "contradict",
+    "meaning": "çelişmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-72",
+    "term": "control",
+    "meaning": "kontrol etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-73",
+    "term": "convert",
+    "meaning": "dönüştürmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-74",
+    "term": "convey",
+    "meaning": "iletmek, aktarmak, göstermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-75",
+    "term": "convince",
+    "meaning": "ikna etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-76",
+    "term": "counter",
+    "meaning": "karşı çıkmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-77",
+    "term": "create",
+    "meaning": "oluşturmak /yaratmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-78",
+    "term": "cultivate",
+    "meaning": "ekip biçmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-79",
+    "term": "curtail",
+    "meaning": "kısaltmak, azaltmak, engellemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-80",
+    "term": "decide",
+    "meaning": "karar vermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-81",
+    "term": "declare",
+    "meaning": "beyan etmek/ilan etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-82",
+    "term": "dedicate",
+    "meaning": "adamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-83",
+    "term": "defeat",
+    "meaning": "mağlup etmek / yenmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-84",
+    "term": "defend",
+    "meaning": "savunmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-85",
+    "term": "delay",
+    "meaning": "ertelemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-86",
+    "term": "delete",
+    "meaning": "silmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-87",
+    "term": "deliver",
+    "meaning": "teslim etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-88",
+    "term": "demand",
+    "meaning": "talep etmek/ istemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-89",
+    "term": "demonstrate",
+    "meaning": "göstermek, gösteri yapmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-90",
+    "term": "deny",
+    "meaning": "inkar etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-91",
+    "term": "derive",
+    "meaning": "türemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-92",
+    "term": "descend",
+    "meaning": "inmek, alçalmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-93",
+    "term": "designate",
+    "meaning": "atamak, belirlemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-94",
+    "term": "destroy",
+    "meaning": "tahrip etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-95",
+    "term": "detect",
+    "meaning": "keşfetmek, belirlemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-96",
+    "term": "deter",
+    "meaning": "caydırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-97",
+    "term": "deteriorate",
+    "meaning": "bozulmak, fenalaşmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-98",
+    "term": "determine",
+    "meaning": "belirlemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-99",
+    "term": "differ",
+    "meaning": "farklı olmak, değişik olmak, değişiklik göstermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-100",
+    "term": "differentiate",
+    "meaning": "farklılaştırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-101",
+    "term": "diminish",
+    "meaning": "azalmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-102",
+    "term": "disapprove",
+    "meaning": "onaylamamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-103",
+    "term": "discover",
+    "meaning": "keşfetmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-104",
+    "term": "discriminate",
+    "meaning": "ayırmak/ ayrımcılık yapmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-105",
+    "term": "dislike",
+    "meaning": "hoşlanmamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-106",
+    "term": "dismiss",
+    "meaning": "kovmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-107",
+    "term": "dispel",
+    "meaning": "dağıtmak, yok etmek, defetmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-108",
+    "term": "display",
+    "meaning": "göstermek/ sergilemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-109",
+    "term": "disrupt",
+    "meaning": "ayırmak,bozmak,aksatmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-110",
+    "term": "dissolve",
+    "meaning": "eritmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-111",
+    "term": "distinguish",
+    "meaning": "ayırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-112",
+    "term": "distract",
+    "meaning": "dikkatini dağıtmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-113",
+    "term": "disturb",
+    "meaning": "rahatsız etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-114",
+    "term": "divide",
+    "meaning": "bölmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-115",
+    "term": "elaborate",
+    "meaning": "detaylandırmak, ayrıntılandırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-116",
+    "term": "eliminate",
+    "meaning": "elemek, elimine etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-117",
+    "term": "embody",
+    "meaning": "somut örnek olmak,somutlaştırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-118",
+    "term": "emigrate",
+    "meaning": "göç etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-119",
+    "term": "employ",
+    "meaning": "kullanmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-120",
+    "term": "encompass",
+    "meaning": "kuşatmak, sarmak, çevresini sarmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-121",
+    "term": "endure",
+    "meaning": "katlanmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-122",
+    "term": "enforce",
+    "meaning": "zorlamak / zorla yaptırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-123",
+    "term": "enhance",
+    "meaning": "arttırmak,yükseltmek,geliştirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-124",
+    "term": "ensure",
+    "meaning": "sağlamak, garantiye almak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-125",
+    "term": "entertain",
+    "meaning": "eğlendirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-126",
+    "term": "entitle",
+    "meaning": "yetki vermek / isimlendirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-127",
+    "term": "envisage",
+    "meaning": "tahmin etmek,öngörmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-128",
+    "term": "eradicate",
+    "meaning": "yok etmek / kökünü kurutmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-129",
+    "term": "escalate",
+    "meaning": "yükselmek / artırmak / kızışmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-130",
+    "term": "estimate",
+    "meaning": "tahmin etmek, öngörmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-131",
+    "term": "evacuate",
+    "meaning": "tahliye etmet, götürmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-132",
+    "term": "evoke",
+    "meaning": "anımsatmak,uyandırmak,neden olmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-133",
+    "term": "exaggerate",
+    "meaning": "abartmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-134",
+    "term": "examine",
+    "meaning": "incelemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-135",
+    "term": "excavate",
+    "meaning": "kazı yapmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-136",
+    "term": "exceed",
+    "meaning": "aşmak, geçmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-137",
+    "term": "exchange",
+    "meaning": "takas etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-138",
+    "term": "exclude",
+    "meaning": "dışlamak, hariç tutmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-139",
+    "term": "exhaust",
+    "meaning": "yormak,kurutmak,çıkarmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-140",
+    "term": "exist",
+    "meaning": "var olmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-141",
+    "term": "expand",
+    "meaning": "genişletmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-142",
+    "term": "expire",
+    "meaning": "süresi dolmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-143",
+    "term": "explain",
+    "meaning": "açıklamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-144",
+    "term": "exploit",
+    "meaning": "kullanmak, sömürmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-145",
+    "term": "expose",
+    "meaning": "maruz bırakmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-146",
+    "term": "extend",
+    "meaning": "sunmak,genişletmek,uzatmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-147",
+    "term": "extract",
+    "meaning": "özünü çıkarmak / almak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-148",
+    "term": "facilitate",
+    "meaning": "hafifletmek,rahatlatmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-149",
+    "term": "fail",
+    "meaning": "başarısız olmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-150",
+    "term": "find",
+    "meaning": "bulmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-151",
+    "term": "fix",
+    "meaning": "onarmak, tamir etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-152",
+    "term": "fluctuate",
+    "meaning": "dalgalanmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-153",
+    "term": "focus",
+    "meaning": "odaklanmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-154",
+    "term": "force",
+    "meaning": "baskı yapmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-155",
+    "term": "foresee",
+    "meaning": "öngörmek, ileriyi görmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-156",
+    "term": "fortify",
+    "meaning": "desteklemek/ kuvvetlendirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-157",
+    "term": "foster",
+    "meaning": "teşvik etmek, sebep olmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-158",
+    "term": "fulfill",
+    "meaning": "yapmak / ifa etmek / yerine getirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-159",
+    "term": "grow",
+    "meaning": "büyümek, yetişmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-160",
+    "term": "guess",
+    "meaning": "tahmin etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-161",
+    "term": "halt",
+    "meaning": "durdurmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-162",
+    "term": "hamper",
+    "meaning": "engellemek, kösteklemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-163",
+    "term": "happen",
+    "meaning": "meydana gelmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-164",
+    "term": "help",
+    "meaning": "yardım etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-165",
+    "term": "herald",
+    "meaning": "müjdelemek / ilan etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-166",
+    "term": "highlight",
+    "meaning": "vurgulamak,belirtmek,altını çizmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-167",
+    "term": "hinder",
+    "meaning": "engellemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-168",
+    "term": "host",
+    "meaning": "ev sahipliği yapmak / ağırlamak/ barındırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-169",
+    "term": "identify",
+    "meaning": "kimliğini tespit etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-170",
+    "term": "ignore",
+    "meaning": "görmezden gelmek / göz ardı etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-171",
+    "term": "impair",
+    "meaning": "bozmak,zarar vermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-172",
+    "term": "implement",
+    "meaning": "uygulamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-173",
+    "term": "imply",
+    "meaning": "ima etmek,kast etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-174",
+    "term": "improve",
+    "meaning": "geliştirmek, gelişmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-175",
+    "term": "include",
+    "meaning": "içermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-176",
+    "term": "incorporate",
+    "meaning": "birleştirmek/ bir araya getirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-177",
+    "term": "induce",
+    "meaning": "ikna etmek, neden olmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-178",
+    "term": "influence",
+    "meaning": "etkilemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-179",
+    "term": "inhabit",
+    "meaning": "iskan etmek, ikamet etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-180",
+    "term": "inherit",
+    "meaning": "miras olarak almak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-181",
+    "term": "initiate",
+    "meaning": "başlatmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-182",
+    "term": "insist",
+    "meaning": "ısrar etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-183",
+    "term": "inspire",
+    "meaning": "ilham vermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-184",
+    "term": "interact",
+    "meaning": "etkileşmek, etkileşim",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-185",
+    "term": "interrupt",
+    "meaning": "lafa karışmak, engellemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-186",
+    "term": "introduce",
+    "meaning": "tanıtmak,tanıştırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-187",
+    "term": "involve",
+    "meaning": "içermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-188",
+    "term": "jeopardize",
+    "meaning": "tehlikeye atmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-189",
+    "term": "launch",
+    "meaning": "başlatmak, piyasaya sürmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-190",
+    "term": "lead",
+    "meaning": "önderlik etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-191",
+    "term": "leave",
+    "meaning": "bırakmak, ayrılmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-192",
+    "term": "lost",
+    "meaning": "kaybetmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-193",
+    "term": "lower",
+    "meaning": "düşürmek, alçaltmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-194",
+    "term": "magnify",
+    "meaning": "övmek, methetmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-195",
+    "term": "maintain",
+    "meaning": "sürdürmek, devam ettirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-196",
+    "term": "mandate",
+    "meaning": "emretmek, şart koşmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-197",
+    "term": "manifest",
+    "meaning": "açıkça göstermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-198",
+    "term": "mitigate",
+    "meaning": "rahatlatmak, azaltmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-199",
+    "term": "narrow",
+    "meaning": "daralmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-200",
+    "term": "neglect",
+    "meaning": "ihmal etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-201",
+    "term": "nourish",
+    "meaning": "büyütmek, bakmak, gütmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-202",
+    "term": "object (to)",
+    "meaning": "itiraz etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-203",
+    "term": "obtain",
+    "meaning": "edinmek,elde etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-204",
+    "term": "occupy",
+    "meaning": "işgal etmek, meşgul etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-205",
+    "term": "occur",
+    "meaning": "meydana gelmekk",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-206",
+    "term": "offend",
+    "meaning": "rencide etmek/ suç işlemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-207",
+    "term": "offer",
+    "meaning": "önermek, teklif vermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-208",
+    "term": "omit",
+    "meaning": "dahil etmemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-209",
+    "term": "open",
+    "meaning": "açmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-210",
+    "term": "operate",
+    "meaning": "işletmek,çalıştırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-211",
+    "term": "oppress",
+    "meaning": "eziyet etmek / baskı yapmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-212",
+    "term": "originate",
+    "meaning": "kaynaklanmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-213",
+    "term": "outweigh",
+    "meaning": "ağır basmak, daha ağır basmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-214",
+    "term": "overcome",
+    "meaning": "üstesinden gelmek, aşmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-215",
+    "term": "overestimate",
+    "meaning": "gözünde büyütmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-216",
+    "term": "overlook",
+    "meaning": "gözünden kaçmak,görmezden gelmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-217",
+    "term": "overtake",
+    "meaning": "yetişip geçmek,sollamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-218",
+    "term": "penetrate",
+    "meaning": "nüfuz etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-219",
+    "term": "perform",
+    "meaning": "uygulamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-220",
+    "term": "perpetuate",
+    "meaning": "idame etmek,devam ettirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-221",
+    "term": "persuade",
+    "meaning": "ikna etmek, razı etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-222",
+    "term": "pinpoint",
+    "meaning": "yerini belirlemek, tam yerini saptamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-223",
+    "term": "plunder",
+    "meaning": "yağmalamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-224",
+    "term": "pollute",
+    "meaning": "kirletmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-225",
+    "term": "postpone",
+    "meaning": "ertelemek,askıya almak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-226",
+    "term": "precede",
+    "meaning": "den önce gelmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-227",
+    "term": "predict",
+    "meaning": "tahmin etmek, öngörmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-228",
+    "term": "pretend",
+    "meaning": "gibi görünmek / -mış gibi yapmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-229",
+    "term": "prevent",
+    "meaning": "engellemek, önlemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-230",
+    "term": "progress",
+    "meaning": "gelişim göstermek, ilerlemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-231",
+    "term": "prohibit",
+    "meaning": "yasaklamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-232",
+    "term": "prolong",
+    "meaning": "uzatmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-233",
+    "term": "promise",
+    "meaning": "söz vermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-234",
+    "term": "promote",
+    "meaning": "desteklemek/ teşvik etmek /katkıda bulunmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-235",
+    "term": "protect",
+    "meaning": "korumak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-236",
+    "term": "provide",
+    "meaning": "sağlamak, temin etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-237",
+    "term": "provoke",
+    "meaning": "kışkırtmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-238",
+    "term": "purchase",
+    "meaning": "satın almak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-239",
+    "term": "qualify",
+    "meaning": "nitelendirmek / vasıflandırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-240",
+    "term": "quarrel",
+    "meaning": "tartışmak, münakaşa",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-241",
+    "term": "quit",
+    "meaning": "bırakmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-242",
+    "term": "raise",
+    "meaning": "artırmak, yükseltmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-243",
+    "term": "realise",
+    "meaning": "fark etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-244",
+    "term": "receive",
+    "meaning": "almak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-245",
+    "term": "recognise",
+    "meaning": "tanımak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-246",
+    "term": "recommend",
+    "meaning": "tavsiye etmek,önermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-247",
+    "term": "recount",
+    "meaning": "yeniden saymak,nakletmek,anlatmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-248",
+    "term": "recover",
+    "meaning": "kurtarmak, iyileşmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-249",
+    "term": "recruit",
+    "meaning": "işe almak, askere almak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-250",
+    "term": "recycle",
+    "meaning": "geri dönüştürmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-251",
+    "term": "reduce",
+    "meaning": "azaltmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-252",
+    "term": "regard",
+    "meaning": "saymak, hesaba katmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-253",
+    "term": "regret",
+    "meaning": "pişman olmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-254",
+    "term": "regulate",
+    "meaning": "düzenlemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-255",
+    "term": "rehearse",
+    "meaning": "prova yapmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-256",
+    "term": "reject",
+    "meaning": "reddetmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-257",
+    "term": "release",
+    "meaning": "yaymak, salmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-258",
+    "term": "relieve",
+    "meaning": "rahatlatmak, azaltmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-259",
+    "term": "remain",
+    "meaning": "sürdürmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-260",
+    "term": "remove",
+    "meaning": "kaldırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-261",
+    "term": "renew",
+    "meaning": "yenilemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-262",
+    "term": "replace",
+    "meaning": "yerine geçmek,yerine koymak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-263",
+    "term": "replenish",
+    "meaning": "doldurmak,tazelemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-264",
+    "term": "require",
+    "meaning": "gerekmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-265",
+    "term": "resign",
+    "meaning": "istifa etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-266",
+    "term": "resist",
+    "meaning": "direnmek,dayanmak,karşı koymak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-267",
+    "term": "resolve",
+    "meaning": "çözmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-268",
+    "term": "respect",
+    "meaning": "saygı göstermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-269",
+    "term": "respond",
+    "meaning": "cevap vermek/ tepki vermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-270",
+    "term": "restrain",
+    "meaning": "dizginlemek,engellemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-271",
+    "term": "restrict",
+    "meaning": "sınırlamak,kısıtlamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-272",
+    "term": "retain",
+    "meaning": "sürdürmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-273",
+    "term": "retrieve",
+    "meaning": "geri almak, telafi etmek, kavuşmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-274",
+    "term": "return",
+    "meaning": "geri dönmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-275",
+    "term": "reveal",
+    "meaning": "meydana çıkarmak, ortaya çıkarmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-276",
+    "term": "reverse",
+    "meaning": "ters, aksi, çevirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-277",
+    "term": "review",
+    "meaning": "gözden geçirmek/yeniden değerlendirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-278",
+    "term": "revive",
+    "meaning": "canlandırmak,dirilmek,diriltmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-279",
+    "term": "revolutionise",
+    "meaning": "köklü değişiklikler yapmak, ayaklandırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-280",
+    "term": "ruin",
+    "meaning": "mahvetmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-281",
+    "term": "seek",
+    "meaning": "aramak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-282",
+    "term": "seize",
+    "meaning": "kavramak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-283",
+    "term": "select",
+    "meaning": "seçmek/ elemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-284",
+    "term": "sentence",
+    "meaning": "mahkum etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-285",
+    "term": "show",
+    "meaning": "göstermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-286",
+    "term": "specify",
+    "meaning": "belirlemek, belirtmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-287",
+    "term": "speculate",
+    "meaning": "tahminde bulunmak, düşünmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-288",
+    "term": "spoil",
+    "meaning": "berbat etmek,bozmak,şımartmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-289",
+    "term": "spread",
+    "meaning": "yaymak, yayılmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-290",
+    "term": "start",
+    "meaning": "başlamak, başlatmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-291",
+    "term": "stimulate",
+    "meaning": "uyarmak,tetiklemek,teşvik etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-292",
+    "term": "stretch",
+    "meaning": "uzamak / yaymak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-293",
+    "term": "suffer",
+    "meaning": "acı çekmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-294",
+    "term": "suggest",
+    "meaning": "önermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-295",
+    "term": "suppress",
+    "meaning": "bastırmak, ortadan kaldırmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-296",
+    "term": "surpass",
+    "meaning": "aşmak,geçmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-297",
+    "term": "survive",
+    "meaning": "hayatta kalmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-298",
+    "term": "suspect",
+    "meaning": "şüphelenmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-299",
+    "term": "suspend",
+    "meaning": "askıya almak,ertelemek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-300",
+    "term": "sustain",
+    "meaning": "sürdürmek, devam ettirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-301",
+    "term": "switch",
+    "meaning": "değişiklik yapmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-302",
+    "term": "tackle",
+    "meaning": "ele almak(bir problemi),mücadele etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-303",
+    "term": "threaten",
+    "meaning": "tehdit etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-304",
+    "term": "transmit",
+    "meaning": "iletmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-305",
+    "term": "treat",
+    "meaning": "tedavi etmek, muamele etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-306",
+    "term": "trigger",
+    "meaning": "tetiklemek, neden olmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-307",
+    "term": "underestimate",
+    "meaning": "küçümsemek / önemsiz görmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-308",
+    "term": "undergo",
+    "meaning": "başından geçirmek/ maruz kalmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-309",
+    "term": "undermine",
+    "meaning": "baltalamak,kuyusunu kazmak,zarar vermek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-310",
+    "term": "underpin",
+    "meaning": "desteklemek, destek koymak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-311",
+    "term": "undertake",
+    "meaning": "yüklenmek,girişmek,üstlenmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-312",
+    "term": "unearth",
+    "meaning": "meydana çıkarmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-313",
+    "term": "unify",
+    "meaning": "birleştimek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-314",
+    "term": "upgrade",
+    "meaning": "geliştirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-315",
+    "term": "utilize",
+    "meaning": "kullanmak, faydalanmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-316",
+    "term": "vaccinate",
+    "meaning": "aşılamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-317",
+    "term": "validate",
+    "meaning": "doğrulamak, geçerli kılmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-318",
+    "term": "verify",
+    "meaning": "doğrulamak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-319",
+    "term": "violate",
+    "meaning": "ihlal etmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-320",
+    "term": "wander",
+    "meaning": "dolaşmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-321",
+    "term": "weaken",
+    "meaning": "zayıflatmak / güçsüzleştirmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-322",
+    "term": "withdraw",
+    "meaning": "geri çekilmek,geri çekmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-323",
+    "term": "worsen",
+    "meaning": "kötüleşmek",
+    "wordType": "verb"
+  },
+  {
+    "id": "verb-324",
+    "term": "yield",
+    "meaning": "sebep olmak",
+    "wordType": "verb"
+  },
+  {
+    "id": "phrasalVerb-325",
+    "term": "account for",
+    "meaning": "açıklamak / izahat etmek / sorumlu olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-326",
+    "term": "adhere to",
+    "meaning": "bağlı kalmak, sadık kalmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-327",
+    "term": "aggre upon",
+    "meaning": "hemfikir olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-328",
+    "term": "aim at",
+    "meaning": "hedeflemek, hedef almak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-329",
+    "term": "align with",
+    "meaning": "…ile uygun/uyumlu hale gelmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-330",
+    "term": "amount to",
+    "meaning": "anlamına gelmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-331",
+    "term": "back up",
+    "meaning": "desteklemek / arka çıkmak / yedeklemek (veri)",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-332",
+    "term": "bargain for",
+    "meaning": "pazarlık etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-333",
+    "term": "benefit from",
+    "meaning": "...den faydalanmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-334",
+    "term": "blow up",
+    "meaning": "patlatmak, şişirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-335",
+    "term": "break down",
+    "meaning": "bozulmak, bölmek,bozmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-336",
+    "term": "break in",
+    "meaning": "sözünü kesmek, zorla girmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-337",
+    "term": "break into",
+    "meaning": "zorla girmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-338",
+    "term": "break out",
+    "meaning": "patlamak / başlamak (savaş/yangın vb.)",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-339",
+    "term": "bring about",
+    "meaning": "sebep olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-340",
+    "term": "bring along",
+    "meaning": "neden olmak, sebep olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-341",
+    "term": "bring back",
+    "meaning": "geri getirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-342",
+    "term": "bring down",
+    "meaning": "indirmek / alt etmek / yenmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-343",
+    "term": "bring in",
+    "meaning": "işe almak/ getirmek / kazanç getirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-344",
+    "term": "bring out",
+    "meaning": "yapmak, ortaya çıkmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-345",
+    "term": "bring up",
+    "meaning": "kusmak / çocuk yetştirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-346",
+    "term": "build on",
+    "meaning": "dayandırmak, üstüne inşa etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-347",
+    "term": "build upon",
+    "meaning": "e dayalı olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-348",
+    "term": "bump into",
+    "meaning": "rast gelmek, çarpışmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-349",
+    "term": "call back",
+    "meaning": "hatırlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-350",
+    "term": "call for",
+    "meaning": "istemek, talep etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-351",
+    "term": "call off",
+    "meaning": "iptal etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-352",
+    "term": "carry away",
+    "meaning": "sürüklemek, alıp götürmek, coşturmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-353",
+    "term": "carry on",
+    "meaning": "ilişkisi olmak,devam etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-354",
+    "term": "carry out",
+    "meaning": "yerine getirmek, uygulamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-355",
+    "term": "catch up",
+    "meaning": "yakalamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-356",
+    "term": "center on",
+    "meaning": "merkezine oturmak, -e odaklanmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-357",
+    "term": "clean up",
+    "meaning": "düzeltmek, toparlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-358",
+    "term": "clear out",
+    "meaning": "tahliye etmek, ortadan kaldırmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-359",
+    "term": "come down with",
+    "meaning": "hastalığa yakalanmak, yatağa düşmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-360",
+    "term": "come in",
+    "meaning": "moda olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-361",
+    "term": "come out",
+    "meaning": "çıkmak, yayımlanmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-362",
+    "term": "come out of",
+    "meaning": "ortaya çıkmak / -den meydana gelmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-363",
+    "term": "come over",
+    "meaning": "yön değiştirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-364",
+    "term": "come through",
+    "meaning": "altından başarıyla kalkmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-365",
+    "term": "come up with",
+    "meaning": "bulmak (fikir vb.) / ileri sürmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-366",
+    "term": "compensate for",
+    "meaning": "telafi etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-367",
+    "term": "comply with",
+    "meaning": "kurallara uymak /uygun olmak/ uyum sağlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-368",
+    "term": "consist of",
+    "meaning": "den oluşmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-369",
+    "term": "cool down",
+    "meaning": "sakin olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-370",
+    "term": "cope with",
+    "meaning": "üstesinden gelmek / baş etmek / ele almak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-371",
+    "term": "count upon",
+    "meaning": "güvenmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-372",
+    "term": "credit with",
+    "meaning": "ile tanınmak,bilinmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-373",
+    "term": "cut down",
+    "meaning": "kısmak / azaltmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-374",
+    "term": "cut down on",
+    "meaning": "azaltmak / kısmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-375",
+    "term": "cut off",
+    "meaning": "kesmek / yok etmek / imha etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-376",
+    "term": "cut on",
+    "meaning": "yok etmek, kopartmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-377",
+    "term": "deal with",
+    "meaning": "1. anlam ile ilgili olmak / 2. anlam üstesinden gelmek/ mücadele etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-378",
+    "term": "depend on",
+    "meaning": "bağlı olmak / dayanmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-379",
+    "term": "depend upon",
+    "meaning": "bağlı olmak, güvenmek, dayanmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-380",
+    "term": "deprive of",
+    "meaning": "mahrum etmek, yoksun bırakmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-381",
+    "term": "derive from",
+    "meaning": "den türemek,den kaynaklanmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-382",
+    "term": "descend from",
+    "meaning": "soyundan gelmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-383",
+    "term": "dispense with",
+    "meaning": "vazgeçmek / bir şeyden vazgeçmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-384",
+    "term": "dispose of",
+    "meaning": "imha etmek , atmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-385",
+    "term": "divide by",
+    "meaning": "e bölmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-386",
+    "term": "divide into",
+    "meaning": "bölmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-387",
+    "term": "do away with",
+    "meaning": "yürürlükten kaldırmak / yok etmek / fesh etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-388",
+    "term": "double up",
+    "meaning": "ikiye katlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-389",
+    "term": "draw on",
+    "meaning": "faydalanmak / yararlanmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-390",
+    "term": "draw up",
+    "meaning": "kaleme almak,ayarlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-391",
+    "term": "emerge from",
+    "meaning": "den çıkmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-392",
+    "term": "end up with",
+    "meaning": "sonlandırmak/ ortadan kaldırmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-393",
+    "term": "engage in",
+    "meaning": "kalkışmak,meşgul etmek,uğraşmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-394",
+    "term": "expose to",
+    "meaning": "maruz kalmak, maruz bırakmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-395",
+    "term": "fade away",
+    "meaning": "solup gitmek / yok olmak/ ortadan kaybolmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-396",
+    "term": "fall apart",
+    "meaning": "parçalara ayrılmak, hayatı kararmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-397",
+    "term": "fall behind",
+    "meaning": "gerisinde kalmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-398",
+    "term": "fall behind with",
+    "meaning": "gerisinde kalmak / gecikmek / sürüncemede kalmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-399",
+    "term": "fall down",
+    "meaning": "yalvararak diz çökmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-400",
+    "term": "fall for",
+    "meaning": "bağlanmak,bitmek,bayılmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-401",
+    "term": "fall into",
+    "meaning": "akmak, yer almak, dökülmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-402",
+    "term": "fight back against",
+    "meaning": "bir şeye karşı savaşmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-403",
+    "term": "fight down",
+    "meaning": "savaşmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-404",
+    "term": "figure out",
+    "meaning": "anlamak / çözmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-405",
+    "term": "fill out",
+    "meaning": "doldurmak (form vb)",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-406",
+    "term": "find out",
+    "meaning": "anlamak,çözmek,bulmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-407",
+    "term": "get along",
+    "meaning": "biriyle geçinmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-408",
+    "term": "get along with",
+    "meaning": "iyi geçinmek/ anlaşmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-409",
+    "term": "get away",
+    "meaning": "kurtulmak, atlatmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-410",
+    "term": "get away from",
+    "meaning": "uzak tutmak/ bir şeyden uzak tutmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-411",
+    "term": "get away with",
+    "meaning": "yapılan iş yanına kar kalmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-412",
+    "term": "get back to",
+    "meaning": "geri dönmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-413",
+    "term": "get into",
+    "meaning": "kaçmak,arabaya binmek,giyinmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-414",
+    "term": "get off",
+    "meaning": "yırtmak, inmek(otobüs/tren/uçak), çıkmak,çıkarmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-415",
+    "term": "get on",
+    "meaning": "binmek, azarlamak, giyinmek, geçinmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-416",
+    "term": "get over",
+    "meaning": "atlatmak, kurtulmak, iletmek, başa çıkmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-417",
+    "term": "get rid of",
+    "meaning": "kurtulmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-418",
+    "term": "get through",
+    "meaning": "zor bir zaman geçirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-419",
+    "term": "get up",
+    "meaning": "kalkmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-420",
+    "term": "give away",
+    "meaning": "hibe etmek, hediye etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-421",
+    "term": "give in",
+    "meaning": "pes etmek, teslim olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-422",
+    "term": "give off",
+    "meaning": "koku vb. yaymak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-423",
+    "term": "give up",
+    "meaning": "bırakmak,vazgeçmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-424",
+    "term": "go along with",
+    "meaning": "ile beraber gitmek / desteklemek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-425",
+    "term": "go in for",
+    "meaning": "bir işe girişmek / kalkışmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-426",
+    "term": "go off",
+    "meaning": "bozulmek / kesilmek /",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-427",
+    "term": "go on",
+    "meaning": "devam etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-428",
+    "term": "go through",
+    "meaning": "zor bir zaman geçirmek, yaşamak, geçirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-429",
+    "term": "grow apart",
+    "meaning": "bir ilişkide ayrı düşmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-430",
+    "term": "hand down",
+    "meaning": "karar vermek / kuşaktan kuşağa iletmek, aktarmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-431",
+    "term": "hand in",
+    "meaning": "teslim etmek (ödev,proje vs)",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-432",
+    "term": "hand out",
+    "meaning": "dağıtmak, ücretsiz dağıtmak, bedava vermek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-433",
+    "term": "hand over",
+    "meaning": "iletmek,teslim etmek, bağışlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-434",
+    "term": "heat up",
+    "meaning": "kızdırmak, ısıtmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-435",
+    "term": "hold up",
+    "meaning": "göstermek,soymak,gecikmek,tutmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-436",
+    "term": "interfere with",
+    "meaning": "engellemek, araya girmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-437",
+    "term": "keep away",
+    "meaning": "uzak kalmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-438",
+    "term": "keep off",
+    "meaning": "uzak durmak / yaklaşmamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-439",
+    "term": "keep on",
+    "meaning": "devam etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-440",
+    "term": "keep up",
+    "meaning": "yetişmek, seviyesine ulaşmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-441",
+    "term": "keep up with",
+    "meaning": "ayak uydurmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-442",
+    "term": "lay out",
+    "meaning": "düzenlemek / tasarlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-443",
+    "term": "lead to",
+    "meaning": "neden olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-444",
+    "term": "lead up to",
+    "meaning": "yolunu yapmak, zemin hazırlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-445",
+    "term": "leave behind",
+    "meaning": "arkasında bırakmak, iz bırakmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-446",
+    "term": "leave out",
+    "meaning": "hariç tutmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-447",
+    "term": "lie in",
+    "meaning": "e dayanmak, den kaynaklanmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-448",
+    "term": "like to",
+    "meaning": "hoşlanmak, sevmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-449",
+    "term": "look after",
+    "meaning": "ile ilgilenmek, göz kulak olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-450",
+    "term": "look around for",
+    "meaning": "bakınmak, araştırmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-451",
+    "term": "look down on",
+    "meaning": "küçümsemek / tepeden bakmak/ hor görmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-452",
+    "term": "look for",
+    "meaning": "aramak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-453",
+    "term": "look into",
+    "meaning": "bakmak, araştırmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-454",
+    "term": "look up",
+    "meaning": "yukarı bakmak / araştırmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-455",
+    "term": "look up to",
+    "meaning": "hayran olmak, gıpta etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-456",
+    "term": "make out",
+    "meaning": "anlamak / çözmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-457",
+    "term": "make up",
+    "meaning": "oluşturmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-458",
+    "term": "make up for",
+    "meaning": "telafi etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-459",
+    "term": "move on",
+    "meaning": "yaşamına devam etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-460",
+    "term": "paid for",
+    "meaning": "ödemek / parasını ödemek / bedelini ödemek ( hata suç vb)",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-461",
+    "term": "pass away",
+    "meaning": "ölmek, yok olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-462",
+    "term": "pass down",
+    "meaning": "nesilden nesile geçmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-463",
+    "term": "pass for",
+    "meaning": "diye kabul edilmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-464",
+    "term": "pass into",
+    "meaning": "barışmak, harmanlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-465",
+    "term": "pass over",
+    "meaning": "aşmak / aldırmamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-466",
+    "term": "pertain to",
+    "meaning": "ile ilgili olmak / -e özgü olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-467",
+    "term": "pin down",
+    "meaning": "zorunlu kılmak / mecbur etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-468",
+    "term": "point out",
+    "meaning": "ifade etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-469",
+    "term": "pull down",
+    "meaning": "düşürmek,aşağı çekmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-470",
+    "term": "pull out",
+    "meaning": "söndürmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-471",
+    "term": "pull over",
+    "meaning": "çekmek/kenara çekmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-472",
+    "term": "pull through",
+    "meaning": "iyileşmek,iyileştirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-473",
+    "term": "pull up",
+    "meaning": "kaldırmak / yukarı çekmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-474",
+    "term": "put across",
+    "meaning": "kabul ettirmek / taşımak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-475",
+    "term": "put aside",
+    "meaning": "askıya almak / ertelemek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-476",
+    "term": "put away",
+    "meaning": "öldürmek / ortadan kaldırmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-477",
+    "term": "put back",
+    "meaning": "geri koymak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-478",
+    "term": "put down",
+    "meaning": "eleştirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-479",
+    "term": "put forward",
+    "meaning": "ileri sürmek,ortaya atmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-480",
+    "term": "put in",
+    "meaning": "yerleşmek, ilave etmek, eklemek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-481",
+    "term": "put off",
+    "meaning": "ertelemek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-482",
+    "term": "put on",
+    "meaning": "kilo almak/ giyinmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-483",
+    "term": "put out",
+    "meaning": "söndürmek, kapamak (ışığı)",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-484",
+    "term": "put through",
+    "meaning": "bitirmek, telefona bağlamak, gerçekleştirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-485",
+    "term": "put up with",
+    "meaning": "katlanmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-486",
+    "term": "refer to",
+    "meaning": "atıfta bulunmak / atfetmek / ima etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-487",
+    "term": "reflect on",
+    "meaning": "ayıplamak,kusur bulmak,yansıtmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-488",
+    "term": "refrain from",
+    "meaning": "kaçınmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-489",
+    "term": "relate to",
+    "meaning": "ile ilgili olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-490",
+    "term": "relieve of",
+    "meaning": "kurtarmak, elinden almak, den kurtarmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-491",
+    "term": "rely on",
+    "meaning": "güvenmek,dayanmak,bel bağlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-492",
+    "term": "rest on",
+    "meaning": "güvenmek, dayanmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-493",
+    "term": "restrict to",
+    "meaning": "sınırlamak,kısıtlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-494",
+    "term": "result in",
+    "meaning": "sebep olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-495",
+    "term": "root out",
+    "meaning": "kökünü kazımak / kökünden sökmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-496",
+    "term": "rule out",
+    "meaning": "çıkarmak, hariç bırakmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-497",
+    "term": "run away from",
+    "meaning": "kaçmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-498",
+    "term": "run into",
+    "meaning": "rast gelmek,karşılaşmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-499",
+    "term": "run out",
+    "meaning": "uzatmak, genişletmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-500",
+    "term": "run out of",
+    "meaning": "bitirmek, tükenmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-501",
+    "term": "rush into",
+    "meaning": "akın etmek, dalmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-502",
+    "term": "scale down",
+    "meaning": "azaltmak, azalmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-503",
+    "term": "search for",
+    "meaning": "aramak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-504",
+    "term": "sell off",
+    "meaning": "tümünü satmak / tasfiye etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-505",
+    "term": "send out",
+    "meaning": "yaymak, göndermek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-506",
+    "term": "set back",
+    "meaning": "geri bırakmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-507",
+    "term": "set down",
+    "meaning": "indirmek, alt etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-508",
+    "term": "set off",
+    "meaning": "tetiklemek, oluşturmak, ateşlemek, patlatmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-509",
+    "term": "set out",
+    "meaning": "yola çıkmak, düzenlemek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-510",
+    "term": "set up",
+    "meaning": "kurmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-511",
+    "term": "settle down",
+    "meaning": "sakinleşmek,yola gelmek,uslanmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-512",
+    "term": "show off",
+    "meaning": "hava atmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-513",
+    "term": "slow down",
+    "meaning": "yavaşlatmak, yavaşlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-514",
+    "term": "speed up",
+    "meaning": "hızlandırmak, hız vermek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-515",
+    "term": "split up",
+    "meaning": "bölünmek, ayrılmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-516",
+    "term": "stand for",
+    "meaning": "simgelemek / temsil etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-517",
+    "term": "stand out",
+    "meaning": "fırlamak, atılmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-518",
+    "term": "stand up to",
+    "meaning": "karşı koymak,karşı gelmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-519",
+    "term": "stay out",
+    "meaning": "dışarıda kalmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-520",
+    "term": "stem from",
+    "meaning": "den kaynaklanmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-521",
+    "term": "substitute for",
+    "meaning": "yerini tutmak, yerini almak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-522",
+    "term": "sum up",
+    "meaning": "özetlemek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-523",
+    "term": "switch off",
+    "meaning": "kapatmak (devreyi)",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-524",
+    "term": "switch on",
+    "meaning": "çalıştırmak, devreyi açmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-525",
+    "term": "switch to",
+    "meaning": "çevirmek, değiştirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-526",
+    "term": "take after",
+    "meaning": "biri gibi davranmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-527",
+    "term": "take apart",
+    "meaning": "parçalara ayırmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-528",
+    "term": "take away",
+    "meaning": "götürmek /uzaklaştırmak / dışarıya çıkarmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-529",
+    "term": "take down",
+    "meaning": "azaltmak, küçültmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-530",
+    "term": "take in",
+    "meaning": "içeri almak, dolandırmak, anlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-531",
+    "term": "take off",
+    "meaning": "kalkış yapmak (uçak), başarılı olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-532",
+    "term": "take on",
+    "meaning": "benimsemek / üstlenmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-533",
+    "term": "take out",
+    "meaning": "çıkarmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-534",
+    "term": "take over",
+    "meaning": "devralmak / üstlenmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-535",
+    "term": "take up",
+    "meaning": "bir hobi yada mesleğe başlamak, meşgul olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-536",
+    "term": "tear apart",
+    "meaning": "yırtarak ayrılmak/ eleştirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-537",
+    "term": "throw away",
+    "meaning": "atmak, ziyan etmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-538",
+    "term": "throw up",
+    "meaning": "kusmak / yetiştirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-539",
+    "term": "turn against",
+    "meaning": "aleyhine dönmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-540",
+    "term": "turn back",
+    "meaning": "geri dönmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-541",
+    "term": "turn down",
+    "meaning": "reddetmek, geri çevirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-542",
+    "term": "turn in",
+    "meaning": "çevirmek,teslim etmek, ihbar etmek, dağıtmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-543",
+    "term": "turn into",
+    "meaning": "dönüşmek, dönüştürmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-544",
+    "term": "turn out",
+    "meaning": "ters yüz olmak,söndürmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-545",
+    "term": "turn over",
+    "meaning": "alabora olmak,devretmek,devirmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-546",
+    "term": "turun down",
+    "meaning": "geri çevirmek, reddetmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-547",
+    "term": "ward off",
+    "meaning": "uzaklaştırmak, defetmek, engellemek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-548",
+    "term": "watch over",
+    "meaning": "göz kulak olmak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-549",
+    "term": "wear out",
+    "meaning": "yıpratmak, eskitmek",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-550",
+    "term": "wipe out",
+    "meaning": "öldürmek, yok etmk",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "phrasalVerb-551",
+    "term": "work out",
+    "meaning": "başarılı olmak / idman yapmak /anlamak",
+    "wordType": "phrasalVerb"
+  },
+  {
+    "id": "adjective-552",
+    "term": "abrupt",
+    "meaning": "ani,birdenbire",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-553",
+    "term": "abundant",
+    "meaning": "bol, çok, dolu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-554",
+    "term": "accessible",
+    "meaning": "ulaşılabilir,erişilebilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-555",
+    "term": "accidental",
+    "meaning": "tesadüfi",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-556",
+    "term": "achievable",
+    "meaning": "başarılabilir, yapılabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-557",
+    "term": "adaptable",
+    "meaning": "uyumlu, uyarlanabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-558",
+    "term": "additional",
+    "meaning": "ek, ilave",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-559",
+    "term": "adequate",
+    "meaning": "yeterli, kafi",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-560",
+    "term": "admired",
+    "meaning": "hayran olunan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-561",
+    "term": "admiring",
+    "meaning": "hayran",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-562",
+    "term": "altered",
+    "meaning": "değiştirilmiş",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-563",
+    "term": "ambiguous",
+    "meaning": "muğlak / belirsiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-564",
+    "term": "ancient",
+    "meaning": "antik, eski",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-565",
+    "term": "anxious",
+    "meaning": "endişeli, kaygılı, huzursuz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-566",
+    "term": "appealing",
+    "meaning": "gzüel,çekici,sempatik",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-567",
+    "term": "applicable",
+    "meaning": "uygulanabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-568",
+    "term": "appropriate",
+    "meaning": "uygun, münasip",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-569",
+    "term": "arbitrary",
+    "meaning": "keyfi",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-570",
+    "term": "arduous",
+    "meaning": "ağır,güç",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-571",
+    "term": "artificial",
+    "meaning": "yapay, suni",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-572",
+    "term": "astonished",
+    "meaning": "şaşmış, şaşkın, afallaşmış",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-573",
+    "term": "attributable",
+    "meaning": "dayandırılabilir,atfolunabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-574",
+    "term": "available",
+    "meaning": "elde edilbilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-575",
+    "term": "avoidable",
+    "meaning": "kaçınılabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-576",
+    "term": "beneficial",
+    "meaning": "yararlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-577",
+    "term": "bizarre",
+    "meaning": "garip, tuhaf",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-578",
+    "term": "blind",
+    "meaning": "kör",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-579",
+    "term": "calm",
+    "meaning": "soğukkanlı, sakin",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-580",
+    "term": "cautionary",
+    "meaning": "dikkatli,uyaran,tedbirli,ihtiyatlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-581",
+    "term": "ceaseless",
+    "meaning": "durmayan, sonu gelmeyen",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-582",
+    "term": "challenging",
+    "meaning": "zorlu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-583",
+    "term": "changeable",
+    "meaning": "değişken",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-584",
+    "term": "chronic",
+    "meaning": "kronik, devamlı, sürekli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-585",
+    "term": "close",
+    "meaning": "yakın",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-586",
+    "term": "communal",
+    "meaning": "toplumsal",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-587",
+    "term": "comparable",
+    "meaning": "kıyaslanabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-588",
+    "term": "compatible",
+    "meaning": "uyumlu, uyuşur, bağdaşan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-589",
+    "term": "compelling",
+    "meaning": "zorlu / zorlayıcı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-590",
+    "term": "competitive",
+    "meaning": "rekabetçi,hırslı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-591",
+    "term": "complementary",
+    "meaning": "tamamlayıcı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-592",
+    "term": "complete",
+    "meaning": "tam, bütün",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-593",
+    "term": "complicating",
+    "meaning": "karışık",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-594",
+    "term": "comprehensible",
+    "meaning": "kavranabilir,anlaşılır",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-595",
+    "term": "comprehensive",
+    "meaning": "kapsamlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-596",
+    "term": "compulsory",
+    "meaning": "zorunlu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-597",
+    "term": "confidential",
+    "meaning": "güvenilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-598",
+    "term": "conflicting",
+    "meaning": "çelişkili, tutarsız, çelişen",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-599",
+    "term": "consequent",
+    "meaning": "netice, sonuç, tutarlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-600",
+    "term": "considerable",
+    "meaning": "kayda değer",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-601",
+    "term": "consistent",
+    "meaning": "sürekli, tutarlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-602",
+    "term": "constant",
+    "meaning": "sürekli,sabit",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-603",
+    "term": "constructive",
+    "meaning": "yapıcı, olumlu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-604",
+    "term": "contaminated",
+    "meaning": "kirletilmiş",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-605",
+    "term": "controversial",
+    "meaning": "karşılıklı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-606",
+    "term": "convenient",
+    "meaning": "uygun,elverişli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-607",
+    "term": "convertible",
+    "meaning": "dönüştürülebilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-608",
+    "term": "corrupt",
+    "meaning": "yozlaşmış,yolsuz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-609",
+    "term": "corruptible",
+    "meaning": "bozulabilir, yozlaşabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-610",
+    "term": "credible",
+    "meaning": "inandırıcı, güvenilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-611",
+    "term": "crucial",
+    "meaning": "çok önemli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-612",
+    "term": "current",
+    "meaning": "güncel",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-613",
+    "term": "damaged",
+    "meaning": "bozuk, hasar verilmiş",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-614",
+    "term": "damaging",
+    "meaning": "zarar verici",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-615",
+    "term": "dampening",
+    "meaning": "...geçirmeyen",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-616",
+    "term": "debatable",
+    "meaning": "tartışılabilir, kuşkulu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-617",
+    "term": "deceptive",
+    "meaning": "aldatıcı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-618",
+    "term": "decisive",
+    "meaning": "kararlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-619",
+    "term": "defensive",
+    "meaning": "savunan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-620",
+    "term": "definite",
+    "meaning": "belirli, belli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-621",
+    "term": "deliberate",
+    "meaning": "kasti",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-622",
+    "term": "delicate",
+    "meaning": "hassas/ narin/ kırılgan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-623",
+    "term": "demanding",
+    "meaning": "talepkar",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-624",
+    "term": "deniable",
+    "meaning": "inkar, edilebilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-625",
+    "term": "dependent",
+    "meaning": "bağımlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-626",
+    "term": "descriptive",
+    "meaning": "betimsel",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-627",
+    "term": "desirable",
+    "meaning": "beğenilen",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-628",
+    "term": "detailed",
+    "meaning": "ayrıntılı, detaylı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-629",
+    "term": "detectable",
+    "meaning": "tespit edilebilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-630",
+    "term": "deterrent",
+    "meaning": "caydırıcı, engelleyici",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-631",
+    "term": "detrimental",
+    "meaning": "zararlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-632",
+    "term": "devastating",
+    "meaning": "yıkıcı, harap etmek",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-633",
+    "term": "devoted",
+    "meaning": "sadakatli, adanmış",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-634",
+    "term": "disapproving",
+    "meaning": "kınama belirten",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-635",
+    "term": "disastrous",
+    "meaning": "feci, talihsiz, korkunç",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-636",
+    "term": "dislocated",
+    "meaning": "yerinden çıkmış, çıkık",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-637",
+    "term": "disposable",
+    "meaning": "elden çıkarılması mümkün, tek kullanımlık, harcanabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-638",
+    "term": "disruptive",
+    "meaning": "yıkıcı / bozucu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-639",
+    "term": "dissatisfied",
+    "meaning": "tatminsiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-640",
+    "term": "distinct",
+    "meaning": "belirgin,açık,bariz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-641",
+    "term": "distinctive",
+    "meaning": "farklı, belirgin, ayırıcı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-642",
+    "term": "diverse",
+    "meaning": "çeşit çeşit",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-643",
+    "term": "dormant",
+    "meaning": "faal olmayan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-644",
+    "term": "doubtful",
+    "meaning": "şüpheli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-645",
+    "term": "dramatic",
+    "meaning": "kayda değer, önemli ölçüde",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-646",
+    "term": "dubious",
+    "meaning": "şüpheci,müphem",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-647",
+    "term": "eager",
+    "meaning": "istekli, sabırsız, arzulu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-648",
+    "term": "early",
+    "meaning": "erken",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-649",
+    "term": "efficient",
+    "meaning": "etkili, verimli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-650",
+    "term": "elaborate",
+    "meaning": "ayrıntılı/ dikkatle işlenmiş",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-651",
+    "term": "eligible",
+    "meaning": "elverişli, seçkin",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-652",
+    "term": "empirical",
+    "meaning": "deneysel",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-653",
+    "term": "endurable",
+    "meaning": "dayanılabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-654",
+    "term": "entitle",
+    "meaning": "yetkilendirilmiş / görevlendirilmiş",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-655",
+    "term": "equivalent",
+    "meaning": "eşit",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-656",
+    "term": "erroneous",
+    "meaning": "hatalı / yanlış",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-657",
+    "term": "essential",
+    "meaning": "ana, esas",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-658",
+    "term": "eventual",
+    "meaning": "olası, muhtemel",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-659",
+    "term": "evident",
+    "meaning": "beli,açık,aşikar",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-660",
+    "term": "exceptional",
+    "meaning": "istisnai",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-661",
+    "term": "excessive",
+    "meaning": "aşırı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-662",
+    "term": "exhausted",
+    "meaning": "aşırı yorgun/ tükenmiş",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-663",
+    "term": "exhausting",
+    "meaning": "yorucu, zahmetl",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-664",
+    "term": "explicable",
+    "meaning": "açıklanabilir,",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-665",
+    "term": "explicit",
+    "meaning": "açık,belirgin",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-666",
+    "term": "exploratory",
+    "meaning": "keşifçi, keşif türünden, araştırma",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-667",
+    "term": "familiar",
+    "meaning": "aşina, tanıdık",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-668",
+    "term": "faulty",
+    "meaning": "kabahatli kusurlu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-669",
+    "term": "favorable",
+    "meaning": "elverişli, uygun",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-670",
+    "term": "fierce",
+    "meaning": "sert",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-671",
+    "term": "flexible",
+    "meaning": "esnek",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-672",
+    "term": "foreign",
+    "meaning": "yabancı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-673",
+    "term": "fragile",
+    "meaning": "narin, kırılgan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-674",
+    "term": "frequent",
+    "meaning": "sık",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-675",
+    "term": "frozen",
+    "meaning": "dondurulmuş",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-676",
+    "term": "frustrating",
+    "meaning": "moral bozucu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-677",
+    "term": "fulfilling",
+    "meaning": "karşılayıcı, doyurucu, tahmin edici",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-678",
+    "term": "functional",
+    "meaning": "kullanışlı, işlevsel",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-679",
+    "term": "futile",
+    "meaning": "nafile, beyhude",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-680",
+    "term": "genetic",
+    "meaning": "genetik",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-681",
+    "term": "habitable",
+    "meaning": "yaşanabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-682",
+    "term": "harmful",
+    "meaning": "zararlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-683",
+    "term": "hazardous",
+    "meaning": "tehlikeli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-684",
+    "term": "hectic",
+    "meaning": "telaşlı, ateşli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-685",
+    "term": "hesitant",
+    "meaning": "tereddütlü, kararsız",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-686",
+    "term": "hidden",
+    "meaning": "gizli, saklı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-687",
+    "term": "hospitable",
+    "meaning": "konuksever",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-688",
+    "term": "hostile",
+    "meaning": "düşmanca",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-689",
+    "term": "identical",
+    "meaning": "özdeş,aynı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-690",
+    "term": "identifiable",
+    "meaning": "teşhis edilebilir, tanınabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-691",
+    "term": "ignorant",
+    "meaning": "bilgisiz, cahil",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-692",
+    "term": "immeasurable",
+    "meaning": "ölçülemez /sonsuz/ sınırsız",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-693",
+    "term": "immense",
+    "meaning": "muazzam / engin / kocaman",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-694",
+    "term": "immobile",
+    "meaning": "hareketsiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-695",
+    "term": "impatient",
+    "meaning": "sabırsız",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-696",
+    "term": "imperfect",
+    "meaning": "bozuk, kusur, defolu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-697",
+    "term": "impermissible",
+    "meaning": "yasak, müsaade edilemez",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-698",
+    "term": "implicit",
+    "meaning": "imalı/ üstü kapalı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-699",
+    "term": "impoverished",
+    "meaning": "fakirleşmiş",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-700",
+    "term": "inaccessible",
+    "meaning": "yaklaşılmaz,erişilmez,ulaşılmaz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-701",
+    "term": "inactive",
+    "meaning": "pasif, hareketsiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-702",
+    "term": "inadequate",
+    "meaning": "yetersiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-703",
+    "term": "incessant",
+    "meaning": "aralıksız, devamlı, sürekli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-704",
+    "term": "inconclusive",
+    "meaning": "neticesiz / sonuçsuz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-705",
+    "term": "inconsistent",
+    "meaning": "tutarsız",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-706",
+    "term": "inconvenient",
+    "meaning": "uygun olmayan / elverişsiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-707",
+    "term": "independent",
+    "meaning": "bağımsız",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-708",
+    "term": "indescribable",
+    "meaning": "anlatılmaz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-709",
+    "term": "indestructible",
+    "meaning": "bozulmaz / yıkılmaz / yok edilmez",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-710",
+    "term": "indicative",
+    "meaning": "belirten,gösteren",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-711",
+    "term": "indifferent",
+    "meaning": "ilgisiz, kayıtsız",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-712",
+    "term": "indispensable",
+    "meaning": "vazgeçilmez, zaruri, zorunlu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-713",
+    "term": "individual",
+    "meaning": "bireysel",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-714",
+    "term": "inevitable",
+    "meaning": "kaçınılmaz, malum",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-715",
+    "term": "inexplicable",
+    "meaning": "açıklanamaz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-716",
+    "term": "infrequent",
+    "meaning": "az bulunur /seyrek/ nadir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-717",
+    "term": "inhumane",
+    "meaning": "acımasız,insafsız",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-718",
+    "term": "initial",
+    "meaning": "ilk",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-719",
+    "term": "inseparable",
+    "meaning": "ayırd edilemez",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-720",
+    "term": "insignificant",
+    "meaning": "önemsiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-721",
+    "term": "instantaneous",
+    "meaning": "ani,anlık",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-722",
+    "term": "instructive",
+    "meaning": "öğretici, eğitici",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-723",
+    "term": "insufficient",
+    "meaning": "yetersiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-724",
+    "term": "intact",
+    "meaning": "el değmemiş / dokunulmamış",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-725",
+    "term": "intentional",
+    "meaning": "kasıtlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-726",
+    "term": "intolerable",
+    "meaning": "dayanılmaz, çekilmez",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-727",
+    "term": "intricate",
+    "meaning": "karmaşık",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-728",
+    "term": "intuitive",
+    "meaning": "sezgisel",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-729",
+    "term": "invaluable",
+    "meaning": "paha biçilmez",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-730",
+    "term": "invisible",
+    "meaning": "görünmez,görünmez kimse",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-731",
+    "term": "irregular",
+    "meaning": "düzensiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-732",
+    "term": "irrelevant",
+    "meaning": "ilgisiz,alakasız, konu dışı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-733",
+    "term": "irresistible",
+    "meaning": "karşı konulmaz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-734",
+    "term": "irreversible",
+    "meaning": "kesin, geri alınamaz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-735",
+    "term": "legitimate",
+    "meaning": "meşru",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-736",
+    "term": "likely",
+    "meaning": "mantıklı,olası",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-737",
+    "term": "limiting",
+    "meaning": "sınırlayıcı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-738",
+    "term": "main",
+    "meaning": "temel / ana / esas",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-739",
+    "term": "manageable",
+    "meaning": "idare edilebilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-740",
+    "term": "mandatory",
+    "meaning": "zorunlu, mandater",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-741",
+    "term": "massive",
+    "meaning": "büyük,devasa",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-742",
+    "term": "mediocre",
+    "meaning": "vasat,bayağı,sıradan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-743",
+    "term": "memorable",
+    "meaning": "hatırlanmaya değer",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-744",
+    "term": "misleading",
+    "meaning": "yanıltıcı, aldatıcı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-745",
+    "term": "missing",
+    "meaning": "noksan, eksik",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-746",
+    "term": "neglected",
+    "meaning": "bakımsız, ihmal edilen",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-747",
+    "term": "negligible",
+    "meaning": "ihmal edilebilir, önemsiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-748",
+    "term": "neutral",
+    "meaning": "tarafsız, yansız",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-749",
+    "term": "notable",
+    "meaning": "önemli / kayda değer",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-750",
+    "term": "notorious",
+    "meaning": "kötü şöhretli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-751",
+    "term": "obligatory",
+    "meaning": "zorunlu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-752",
+    "term": "observable",
+    "meaning": "gözlemlenebilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-753",
+    "term": "obsolete",
+    "meaning": "eski, modası geçmiş",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-754",
+    "term": "offensive",
+    "meaning": "saldırgan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-755",
+    "term": "optimistic",
+    "meaning": "iyimser",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-756",
+    "term": "outdated",
+    "meaning": "modası geçmiş, miadını doldurmuş",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-757",
+    "term": "outdoor",
+    "meaning": "açık, dışarıda",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-758",
+    "term": "overt",
+    "meaning": "açık, aleni",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-759",
+    "term": "peculiar",
+    "meaning": "tuhaf / garip",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-760",
+    "term": "penetrable",
+    "meaning": "nüfus edebilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-761",
+    "term": "perishable",
+    "meaning": "ölümlü,kolay bozulur,dayanıksız",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-762",
+    "term": "permanent",
+    "meaning": "kalıcı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-763",
+    "term": "pervasive",
+    "meaning": "yaygın",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-764",
+    "term": "precious",
+    "meaning": "değerli, kıymetli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-765",
+    "term": "precise",
+    "meaning": "kesin",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-766",
+    "term": "predictable",
+    "meaning": "tahmin edilebilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-767",
+    "term": "preliminary",
+    "meaning": "ilk,ön",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-768",
+    "term": "prevalent",
+    "meaning": "yaygın, yaygın olan şey",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-769",
+    "term": "preventable",
+    "meaning": "önlenebillir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-770",
+    "term": "preventive",
+    "meaning": "önleyici",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-771",
+    "term": "previous",
+    "meaning": "önceki",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-772",
+    "term": "profitable",
+    "meaning": "kar edilebilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-773",
+    "term": "profound",
+    "meaning": "engin, çok derin",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-774",
+    "term": "prominent",
+    "meaning": "seşkin",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-775",
+    "term": "proper",
+    "meaning": "uygun",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-776",
+    "term": "protective",
+    "meaning": "koruyucu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-777",
+    "term": "provable",
+    "meaning": "kanıtlanabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-778",
+    "term": "questionable",
+    "meaning": "sorgulanabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-779",
+    "term": "ransacked",
+    "meaning": "yağmalanmış",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-780",
+    "term": "rare",
+    "meaning": "nadir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-781",
+    "term": "reactive",
+    "meaning": "duyarlı / tepkili",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-782",
+    "term": "reasonable",
+    "meaning": "makul,uygun,mantıksal",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-783",
+    "term": "redundant",
+    "meaning": "lüzumsuz,gereksiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-784",
+    "term": "refutable",
+    "meaning": "çürütülebilir / aksi ispatlanabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-785",
+    "term": "regular",
+    "meaning": "düzenli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-786",
+    "term": "relevant",
+    "meaning": "ilgili, alakalı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-787",
+    "term": "reliable",
+    "meaning": "güvenilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-788",
+    "term": "reluctant",
+    "meaning": "gönülsüz,isteksiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-789",
+    "term": "remarkable",
+    "meaning": "dikkat çekici,göze çarpan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-790",
+    "term": "reminiscent",
+    "meaning": "hatırlatan, andıran, anımsatıcı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-791",
+    "term": "repetitive",
+    "meaning": "tekrarlayan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-792",
+    "term": "respectable",
+    "meaning": "saygı değer",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-793",
+    "term": "respective",
+    "meaning": "ayrı ayrı, şahsi, herkes kendi",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-794",
+    "term": "responsive",
+    "meaning": "duyarlı, hassas",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-795",
+    "term": "restraining",
+    "meaning": "kısıtlayıcı / sınırlayıcı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-796",
+    "term": "restricted",
+    "meaning": "sınırlı, kısıtlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-797",
+    "term": "reversible",
+    "meaning": "ters çevrilebilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-798",
+    "term": "risky",
+    "meaning": "riskli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-799",
+    "term": "sarcastic",
+    "meaning": "kinayeli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-800",
+    "term": "scarce",
+    "meaning": "kıt, seyrek",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-801",
+    "term": "sceptical",
+    "meaning": "kuşkucu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-802",
+    "term": "selective",
+    "meaning": "seçici, seçmeli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-803",
+    "term": "sensitive",
+    "meaning": "hassas, duyarlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-804",
+    "term": "sentenced",
+    "meaning": "hükümlü",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-805",
+    "term": "separate",
+    "meaning": "ayrı, ayırma",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-806",
+    "term": "severe",
+    "meaning": "haşin,sert,şiddetli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-807",
+    "term": "significant",
+    "meaning": "önemli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-808",
+    "term": "simply",
+    "meaning": "sade, yalın",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-809",
+    "term": "simultaneous",
+    "meaning": "eş zamanlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-810",
+    "term": "speculatıve",
+    "meaning": "kurgusal",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-811",
+    "term": "spiritual",
+    "meaning": "ruhsal, ruhani, manevi",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-812",
+    "term": "strict",
+    "meaning": "sıkı, katı, otoriter, şiddetli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-813",
+    "term": "substantial",
+    "meaning": "önemli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-814",
+    "term": "subtle",
+    "meaning": "hemen göze çarpmayan,sinsi",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-815",
+    "term": "sufficient",
+    "meaning": "yeterli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-816",
+    "term": "suitable",
+    "meaning": "uygun, elverişli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-817",
+    "term": "superfluous",
+    "meaning": "fazla, gereksiz, yersiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-818",
+    "term": "supportive",
+    "meaning": "destekleyici",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-819",
+    "term": "susceptible",
+    "meaning": "duyarlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-820",
+    "term": "suspicious",
+    "meaning": "kuşkulu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-821",
+    "term": "sustainable",
+    "meaning": "sürdürülebilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-822",
+    "term": "swift",
+    "meaning": "hızlı/ süratli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-823",
+    "term": "sympathetic",
+    "meaning": "anlayışlı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-824",
+    "term": "tedious",
+    "meaning": "sıkıcı",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-825",
+    "term": "temporary",
+    "meaning": "geçici",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-826",
+    "term": "thin",
+    "meaning": "ince, zayıf",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-827",
+    "term": "thorough",
+    "meaning": "derin,bütün",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-828",
+    "term": "threatening",
+    "meaning": "tehditkar, korkutucu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-829",
+    "term": "tolerable",
+    "meaning": "dayanılabilir / katlanılır",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-830",
+    "term": "total",
+    "meaning": "toplam",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-831",
+    "term": "tough",
+    "meaning": "zorlu, çetin",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-832",
+    "term": "transparent",
+    "meaning": "saydam, şeffaf",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-833",
+    "term": "tremendous",
+    "meaning": "büyük,devasa",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-834",
+    "term": "trivial",
+    "meaning": "önemsiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-835",
+    "term": "unattainable",
+    "meaning": "ele geçirilmez,elde edilmez",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-836",
+    "term": "unavailable",
+    "meaning": "elde edilemez/ bulunmayan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-837",
+    "term": "unavoidable",
+    "meaning": "kaçınılmaz, sakınılmaz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-838",
+    "term": "unbearable",
+    "meaning": "katlanılmaz/ çekilmez",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-839",
+    "term": "unconvincing",
+    "meaning": "ikna edici olmayan, inandırıcı olmayan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-840",
+    "term": "undeniable",
+    "meaning": "inkar edilemez",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-841",
+    "term": "uneven",
+    "meaning": "düz olmayan,eşitsiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-842",
+    "term": "unfamiliar",
+    "meaning": "alışılmadık",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-843",
+    "term": "uninhabitable",
+    "meaning": "yaşama elverişsiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-844",
+    "term": "unintelligible",
+    "meaning": "anlaşılmaz,anlaşılamayan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-845",
+    "term": "unintentional",
+    "meaning": "kasıtlı yapılmayan /bilerek yapılmayan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-846",
+    "term": "unlimited",
+    "meaning": "sınırsız",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-847",
+    "term": "unprecedented",
+    "meaning": "eşi benzeri görülmemiş",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-848",
+    "term": "unreasonable",
+    "meaning": "mantıksız",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-849",
+    "term": "unreliable",
+    "meaning": "güvenilmez",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-850",
+    "term": "unremarkable",
+    "meaning": "önemsiz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-851",
+    "term": "unresolved",
+    "meaning": "kararsız,çözünmemiş",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-852",
+    "term": "unsophisticated",
+    "meaning": "doğal / saf",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-853",
+    "term": "unstable",
+    "meaning": "istikrarsız,sabit olmayan",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-854",
+    "term": "urgent",
+    "meaning": "acil",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-855",
+    "term": "utilised",
+    "meaning": "değerlendirilen",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-856",
+    "term": "vacant",
+    "meaning": "boş, boşta",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-857",
+    "term": "vague",
+    "meaning": "şüpheli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-858",
+    "term": "valid",
+    "meaning": "geçerli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-859",
+    "term": "variable",
+    "meaning": "değişken",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-860",
+    "term": "various",
+    "meaning": "çeşitli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-861",
+    "term": "viable",
+    "meaning": "uygulanabilir / yaşayabilir",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-862",
+    "term": "vigorous",
+    "meaning": "dinç, enerjik, coşkulu",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-863",
+    "term": "virtual",
+    "meaning": "sanal",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-864",
+    "term": "visible",
+    "meaning": "görünür",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-865",
+    "term": "vital",
+    "meaning": "çok önemli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-866",
+    "term": "vulnerable",
+    "meaning": "savunmasız / hassas / korunmasız",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-867",
+    "term": "weak",
+    "meaning": "güçsüz",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-868",
+    "term": "wealth",
+    "meaning": "varlıklı, zengin",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-869",
+    "term": "widespread",
+    "meaning": "yaygın,geniş çapta",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-870",
+    "term": "willful",
+    "meaning": "kasıtlı,kasti",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-871",
+    "term": "willing",
+    "meaning": "istekli, hevesli",
+    "wordType": "adjective"
+  },
+  {
+    "id": "adjective-872",
+    "term": "worthwhile",
+    "meaning": "değerli / faydalı",
+    "wordType": "adjective"
+  }
+]

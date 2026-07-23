@@ -7,15 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0247018DDEA90F43864A2C74 /* VocabTopicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF57E3FC0345B1A272ACD2C7 /* VocabTopicView.swift */; };
+		0C73507A0BA21B506DBF296F /* VocabPracticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFA29E9EC6416C2B46F5FEE9 /* VocabPracticeView.swift */; };
+		18DCD6AD8BC5D9ACCAA8C957 /* vocabulary.json in Resources */ = {isa = PBXBuildFile; fileRef = 996CCE43FCB51458FC31FD11 /* vocabulary.json */; };
 		2C3467A92017D5E17F0A641D /* ExamDistribution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2337CA2C6DC74E7824097815 /* ExamDistribution.swift */; };
 		2D1D0CEDC169E90CAD3B44A3 /* TopicListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57414EE00F50D1920900A95B /* TopicListView.swift */; };
 		2D1F8384CB6F4D88B94FE7F6 /* QuestionBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC50E8BE1185E2C3CF3AD9AD /* QuestionBank.swift */; };
 		32E33A4477ECD237C23D7735 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84BED74718A08FD596045AB0 /* Assets.xcassets */; };
 		4A7B16E6A49768E3436C7939 /* YDS70App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FA6A522E3B5B8518EBD336A /* YDS70App.swift */; };
 		61B447062046B468CAF16CAF /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D782A041D60A0927031EED0D /* HomeView.swift */; };
+		76D3C07A7BE5BA6F91C9FA7D /* real_questions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7F66D0A3CD6EE62C34944570 /* real_questions.json */; };
 		954E239E2F4584BC09D64AFE /* seed_questions.json in Resources */ = {isa = PBXBuildFile; fileRef = 5461BE067A381B54F1E0B9F0 /* seed_questions.json */; };
 		A5D122BAD7D0138040462560 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF6DCCF12455C0CF70B92BE3 /* Question.swift */; };
 		A610157FC2E5C5B1D93DE904 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B58BFC74F597291D062E2E /* ResultView.swift */; };
+		ABB005D84A82B3612D7224FC /* VocabProgressStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78A73918DF4E94A245EC5D9 /* VocabProgressStore.swift */; };
+		B161641421E2420D85BCD637 /* VocabWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC11476693C2D86CCE9A16A /* VocabWord.swift */; };
+		B972FCF9E215AD451764497B /* VocabBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97B89FB203A8B2C0630E792D /* VocabBank.swift */; };
 		BC5D8314182B7FD4C536C164 /* ExamType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2287DDBE61D9ACBDA64F4A1 /* ExamType.swift */; };
 		D3417A3378C233FD5B075C52 /* PracticeSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738DE2178D75247BC66308D9 /* PracticeSessionView.swift */; };
 		D5E2CE8281214984DDBF2AC4 /* QuestionCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58E5755D1CAE0A9CD16C3492 /* QuestionCategory.swift */; };
@@ -32,12 +39,19 @@
 		58E5755D1CAE0A9CD16C3492 /* QuestionCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionCategory.swift; sourceTree = "<group>"; };
 		66B58BFC74F597291D062E2E /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
 		738DE2178D75247BC66308D9 /* PracticeSessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeSessionView.swift; sourceTree = "<group>"; };
+		7F66D0A3CD6EE62C34944570 /* real_questions.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = real_questions.json; sourceTree = "<group>"; };
 		84BED74718A08FD596045AB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		97B89FB203A8B2C0630E792D /* VocabBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabBank.swift; sourceTree = "<group>"; };
+		996CCE43FCB51458FC31FD11 /* vocabulary.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = vocabulary.json; sourceTree = "<group>"; };
+		ADC11476693C2D86CCE9A16A /* VocabWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabWord.swift; sourceTree = "<group>"; };
 		AF6DCCF12455C0CF70B92BE3 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		C9E54B79ECA8038DD6F4AD9E /* Route.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Route.swift; sourceTree = "<group>"; };
 		D782A041D60A0927031EED0D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		DC50E8BE1185E2C3CF3AD9AD /* QuestionBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionBank.swift; sourceTree = "<group>"; };
+		DF57E3FC0345B1A272ACD2C7 /* VocabTopicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabTopicView.swift; sourceTree = "<group>"; };
 		F2287DDBE61D9ACBDA64F4A1 /* ExamType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamType.swift; sourceTree = "<group>"; };
+		F78A73918DF4E94A245EC5D9 /* VocabProgressStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabProgressStore.swift; sourceTree = "<group>"; };
+		FFA29E9EC6416C2B46F5FEE9 /* VocabPracticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabPracticeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -66,7 +80,11 @@
 			isa = PBXGroup;
 			children = (
 				DC50E8BE1185E2C3CF3AD9AD /* QuestionBank.swift */,
+				7F66D0A3CD6EE62C34944570 /* real_questions.json */,
 				5461BE067A381B54F1E0B9F0 /* seed_questions.json */,
+				97B89FB203A8B2C0630E792D /* VocabBank.swift */,
+				F78A73918DF4E94A245EC5D9 /* VocabProgressStore.swift */,
+				996CCE43FCB51458FC31FD11 /* vocabulary.json */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -87,6 +105,8 @@
 				66B58BFC74F597291D062E2E /* ResultView.swift */,
 				C9E54B79ECA8038DD6F4AD9E /* Route.swift */,
 				57414EE00F50D1920900A95B /* TopicListView.swift */,
+				FFA29E9EC6416C2B46F5FEE9 /* VocabPracticeView.swift */,
+				DF57E3FC0345B1A272ACD2C7 /* VocabTopicView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -98,6 +118,7 @@
 				F2287DDBE61D9ACBDA64F4A1 /* ExamType.swift */,
 				AF6DCCF12455C0CF70B92BE3 /* Question.swift */,
 				58E5755D1CAE0A9CD16C3492 /* QuestionCategory.swift */,
+				ADC11476693C2D86CCE9A16A /* VocabWord.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -163,7 +184,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				32E33A4477ECD237C23D7735 /* Assets.xcassets in Resources */,
+				76D3C07A7BE5BA6F91C9FA7D /* real_questions.json in Resources */,
 				954E239E2F4584BC09D64AFE /* seed_questions.json in Resources */,
+				18DCD6AD8BC5D9ACCAA8C957 /* vocabulary.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -184,6 +207,11 @@
 				A610157FC2E5C5B1D93DE904 /* ResultView.swift in Sources */,
 				FD55CEF69D9158C54D46C20F /* Route.swift in Sources */,
 				2D1D0CEDC169E90CAD3B44A3 /* TopicListView.swift in Sources */,
+				B972FCF9E215AD451764497B /* VocabBank.swift in Sources */,
+				0C73507A0BA21B506DBF296F /* VocabPracticeView.swift in Sources */,
+				ABB005D84A82B3612D7224FC /* VocabProgressStore.swift in Sources */,
+				0247018DDEA90F43864A2C74 /* VocabTopicView.swift in Sources */,
+				B161641421E2420D85BCD637 /* VocabWord.swift in Sources */,
 				4A7B16E6A49768E3436C7939 /* YDS70App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

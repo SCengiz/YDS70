@@ -38,6 +38,17 @@ struct HomeView: View {
                         )
                     }
                     .buttonStyle(.plain)
+
+                    Button {
+                        path.append(Route.vocabTopics)
+                    } label: {
+                        HomeMenuCard(
+                            title: "Kelime Ezberle",
+                            subtitle: "Sınav Kampı kelime, phrasal verb ve sıfat listeleri",
+                            systemImage: "text.book.closed"
+                        )
+                    }
+                    .buttonStyle(.plain)
                 }
                 .padding(.horizontal)
 
@@ -53,6 +64,10 @@ struct HomeView: View {
                     PracticeSessionView(questions: questions, title: title) {
                         path = NavigationPath()
                     }
+                case .vocabTopics:
+                    VocabTopicView(path: $path)
+                case .vocabPractice(let words, let title):
+                    VocabPracticeView(words: words, title: title)
                 }
             }
         }

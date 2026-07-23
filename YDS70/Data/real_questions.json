@@ -1,0 +1,3504 @@
+[
+  {
+    "id": "adjective-1",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "In some countries, such as Brazil and Russia, codes have been put in place to promote ---logging of forest ecosystems.",
+    "options": [
+      "applicable",
+      "penetrable",
+      "notable",
+      "sustainable",
+      "provable"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2013 YDS SONBAHAR · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-2",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Because trade among nations is so important in economic development, most countries are --- to be able to sell their goods and services in foreign markets.",
+    "options": [
+      "insufficient",
+      "inconsistent",
+      "entitled",
+      "vulnerable",
+      "eager"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2014 YDS İLKBAHAR · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-3",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "As video-gaming has become a ---- industry that attracts huge investment and intense competition, there are numerous ideas concerning its characteristics.",
+    "options": [
+      "massive",
+      "constant",
+      "challenging",
+      "repetitive",
+      "complementary"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2014 YDS SONBAHAR · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-4",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Since a modern company cannot survive without information and computer technologies, they have become an ---- part of any commercial venture or worldwide business system.",
+    "options": [
+      "unavailable",
+      "infrequent",
+      "intact",
+      "unbearable",
+      "inseparable"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2015 YDS İLKBAHAR · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-5",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Although including children with special needs in learning environments with their typical peers presents many obstacles, the rewards, benefits and teamwork make it ----.",
+    "options": [
+      "worthwhile",
+      "legitimate",
+      "obligatory",
+      "questionable",
+      "implicit"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2015 YDS SONBAHAR · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-6",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The speed of wind is measured by using the Beaufort Scale, based on easily ---- factors such as tree movement, smoke behaviour and damage incurred.",
+    "options": [
+      "hostile",
+      "irrelevant",
+      "misleading",
+      "additional",
+      "observable"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2016 YDS İLKBAHAR · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-7",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "From the early 1800s scientists began to gather ---- amounts of data about marine life, paving the way for future knowledge about the importance of the planet's oceans.",
+    "options": [
+      "immense",
+      "predictable",
+      "equivalent",
+      "relevant",
+      "sustainable"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2016 YDS SONBAHAR · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-8",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The tendency towards increasingly bitter chocolate has its origins in the ---- fall in cocoa prices in the 1980s.",
+    "options": [
+      "dramatic",
+      "permanent",
+      "empirical",
+      "subtle",
+      "hectic"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2017 YDS İLKBAHAR · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-9",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "During the investigation of a lethal or an easily transmitted disease, the necessary precautions must be taken to protect health staff, because they are ---- to catching the disease in question.",
+    "options": [
+      "committed",
+      "adaptable",
+      "entitled",
+      "vulnerable",
+      "accessible"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2018 YDS-3 · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-13",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Although Thomas Edison was not the first to create the light bulb, his model was more commercially ---- because it was long-lasting and formed part of a whole lighting system.",
+    "options": [
+      "reactive",
+      "urgent",
+      "excessive",
+      "peculiar",
+      "visible"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2017 YDS SONBAHAR · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-10",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "An important reason to re-evaluate how we are raising the next generation grows out of an incredibly exciting discovery about brain development: during adolescence, the brain's potential to change through experience is ----.",
+    "options": [
+      "tremendous",
+      "frustrating",
+      "debatable",
+      "redundant",
+      "exhausted"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2019 YDS-1 · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-14",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Although empirical studies into the brain's left and right hemispheric participation in language acquisition are ---- and differ from each other, some observational studies indicate that adults might benefit from right-brainoriented activities in the foreign language classroom.",
+    "options": [
+      "unavailable",
+      "indispensible",
+      "indestructible",
+      "inconclusive",
+      "unprecedented"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2018 YDS İLKBAHAR · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-11",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The thin, invisible layer of gas surrounding the Earth, which is called the atmosphere, shields us from the vacuum of space and protects us from ---- solar radiation.",
+    "options": [
+      "delicate",
+      "excessive",
+      "vigorous",
+      "elaborate",
+      "swift"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2018 YDS SONBAHAR · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-12",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Scholars and historians have offered possible locations for the mythical island Atlantis, even in the face of ---- scientific evidence that it does not exist.",
+    "options": [
+      "compelling",
+      "doubtful",
+      "erroneous",
+      "refutable",
+      "ambiguous"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2019 YDS-2 · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-15",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Because the functions and disturbances of smell and taste are nearly ----, disturbances of one affect the other.",
+    "options": [
+      "inconvenient",
+      "unremarkable",
+      "inexplicable",
+      "unsophisticated",
+      "inseperable"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2019 YDS-3 · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-16",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The importance of numbers in Chinese design stems from the ---- influence of the harmonious principles of ying and yang, repeatedly seen in architectural designs.",
+    "options": [
+      "pervasive",
+      "restraining",
+      "insignificant",
+      "disruptive",
+      "dampening"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2020 YDS · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-17",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "While newspapers have been in dramatic decline in much of the developed West, the industry is ---- and still growing in many of Asia's booming cities.",
+    "options": [
+      "fragile",
+      "profitable",
+      "confidential",
+      "peculiar",
+      "notorious"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2022 YDS-2 · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-21",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The term 'nutrient potential' means the amount of plant nutrients in the rooting depth of soils being directly or indirectly ----- to plant roots.",
+    "options": [
+      "adaptable",
+      "accessible",
+      "vulnerable",
+      "comparable",
+      "applicable"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2021 YDS-1 · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-18",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Heating and cooling of the Earth are not ----, as it takes time for land, water, and air to either absorb heat and warm up or release stored heat and cool down.",
+    "options": [
+      "hospitable",
+      "convertible",
+      "instantaneous",
+      "detrimental",
+      "preliminary"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2023 YDS-1 · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-22",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Because some African proverbs are often ---- to listeners unfamiliar with African cultures, they are sometimes used as a secretive type of language to keep outsiders from understanding.",
+    "options": [
+      "undeniable",
+      "irreversible",
+      "inconsistent",
+      "unintelligible",
+      "insufficient"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2021 YDS-2 · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-19",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The reasons for an urban climate are heat storage, trapping of radiation, increasing roughness and less evaporation, which are seen in cities worldwide but are most ---- in densely built-up megacities.",
+    "options": [
+      "evident",
+      "arbitrary",
+      "convenient",
+      "constructive",
+      "mediocre"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2022 YDS-1 · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-20",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Cortisol, a hormone that increases in response to stress, contributes to the fight-orflight reflex that helps the body to respond to ----situations.",
+    "options": [
+      "explicable",
+      "challenging",
+      "reversible",
+      "fulfilling",
+      "superfluous"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2023 YDS-2 · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-23",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The digital age has provided an ----- richness of new sources of information, diversity of views, and a variety of perspectives that cannot be obstructed by geographic or political barriers.",
+    "options": [
+      "inaccessible",
+      "unattainable",
+      "unprecedented",
+      "impermissible",
+      "unresolved"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2024 YDS-1 · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-24",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "One question that has not yet been answered concerning Internet addiction is whether it is a ---- type of addiction or simply an instance of a new technology being used to support other addictions.",
+    "options": [
+      "restricted",
+      "sustainable",
+      "convenient",
+      "distinctive",
+      "constructive"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adjective-25",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Some sociologists suggest that cultural identity is such an ---- concept that it is hard to precisely define; rather, they prefer to list cultural elements unique to a particular society.",
+    "options": [
+      "ambiguous",
+      "overt",
+      "intuitive",
+      "abrupt",
+      "incessant"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · Adjective — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-1",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Before they are allowed to be used, all medicines, including vaccines, are ---- tested to assess how safe and effective they are.",
+    "options": [
+      "incidentally",
+      "hazardously",
+      "thoroughly",
+      "fatally",
+      "offensively"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2013 YDS SONBAHAR · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-2",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Paracetamol, one of the most effective painkillers used today, was discovered in the 1890s, but ---- how it relieves pain remains a mystery.",
+    "options": [
+      "adversely",
+      "precisely",
+      "increasingly",
+      "comparatively",
+      "mistakenly"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2014 YDS İLKBAHAR · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-3",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "When compared with petrol, hydrogen is ---clean and does not produce carbon emissions when it is burned.",
+    "options": [
+      "severely",
+      "fundamentally",
+      "promptly",
+      "gradually",
+      "relatively"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2014 YDS SONBAHAR · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-4",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Without knowing distances ----, it can be difficult to plan a journey, so maps are very beneficial tools for people to find their way easily.",
+    "options": [
+      "accurately",
+      "suspiciously",
+      "innovatively",
+      "rapidly",
+      "controversially"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2015 YDS İLKBAHAR · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-5",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Herbal treatment administered in a medical context has been shown to induce relief from symptoms in an ---- wide range of illnesses including allergies, asthma, cancer, depression, diabetes and migraine.",
+    "options": [
+      "impressively",
+      "accurately",
+      "eventually",
+      "unbearably",
+      "exclusively"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2015 YDS SONBAHAR · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-6",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Today, contagious diseases rarely kill in developed countries, where improvements in sanitation and nutrition have ---- reduced premature deaths.",
+    "options": [
+      "favourably",
+      "separately",
+      "significantly",
+      "dangerously",
+      "cautiously"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2016 YDS İLKBAHAR · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-7",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Reduction in cholesterol, body fat and oxidation is believed to help slow the ageing process ----.",
+    "options": [
+      "doubtfully",
+      "reflectively",
+      "externally",
+      "obscurely",
+      "considerably"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2016 YDS SONBAHAR · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-8",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "An understanding of the physiology of stress does not ---- clarify its meaning, thus several models have been constructed in an attempt to better define and explain it.",
+    "options": [
+      "arguably",
+      "jointly",
+      "eventually",
+      "completely",
+      "desperately"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2017 YDS İLKBAHAR · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-9",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "IQ tests are often faulted for ignoring cultural or social biases, particularly with regard to schoolchildren, and critics claim they cannot ---- predict a person's future performance.",
+    "options": [
+      "initially",
+      "accurately",
+      "conventionally",
+      "narrowly",
+      "strictly"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2017 YDS SONBAHAR · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-10",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Children and adolescents with attention deficit or hyperactivity disorder frequently experience difficulties in school settings, most --- in the areas of academic achievement and interpersonal relationships.",
+    "options": [
+      "appropriately",
+      "urgently",
+      "subtly",
+      "compulsorily",
+      "notably"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2018 YDS İLKBAHAR · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-11",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Architectural analysis is not only a ---academic pursuit, done for its own sake, but it can be informative and entertaining as well.",
+    "options": [
+      "mutually",
+      "convincingly",
+      "drastically",
+      "purely",
+      "deniably"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2018 YDS SONBAHAR · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-12",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The relationship between sport and aggression been studied ---- for decades, yet researchers still have a limited understanding of the link between the two.",
+    "options": [
+      "severely",
+      "suspiciously",
+      "uniquely",
+      "extensively",
+      "instantly"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2018 YDS-3 · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-13",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The revolutions and wars of the 20th century ---- affected people’s views of these times and the histories they wrote.",
+    "options": [
+      "decently",
+      "recklessly",
+      "offensively",
+      "arbitrarily",
+      "profoundly"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2019 YDS-1 · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-14",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The foundations offer national law as it is understood today tie ---- in the development of Western culture and political organisation.",
+    "options": [
+      "eligibly",
+      "instantly",
+      "adequately",
+      "firmly",
+      "convertibly"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2019 YDS-2 · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-15",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Maps of the ocean are rare as the vastness and depth of the ocean make it ---- difficult to study.",
+    "options": [
+      "admirably",
+      "notoriously",
+      "questionably",
+      "properly",
+      "incidentally"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2019 YDS-3 · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-16",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The most sophisticated of Cook Islands handicrafts are considered to be tivaevae: brightly coloured, ----embroidered ceremonial cloths, which require a great number of months to make.",
+    "options": [
+      "tediously",
+      "intricately",
+      "persistently",
+      "incidentally",
+      "objectively"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2020 YDS · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-17",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "As the DNA of two unrelated people only differs by about one in every 1,000 base pairs, humans show ---- little genetic diversity.",
+    "options": [
+      "remarkably",
+      "elaborately",
+      "ambiguously",
+      "sufficiently",
+      "promptly"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2021 YDS-1 · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-18",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Since the mid-20th century, plastic pollution has increased ----, and resulting pollution has become a global environmental issue.",
+    "options": [
+      "exponentially",
+      "conveniently",
+      "alternatively",
+      "precisely",
+      "fruitfully"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2021 YDS-2 · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-19",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The population of koalas dropped ---- during the early part of the 20th century because they were over-hunted for their fur.",
+    "options": [
+      "strictly",
+      "drastically",
+      "cautiously",
+      "ardently",
+      "merely"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2022 YDS-1 · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-20",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "An electric conductor is any material that can ---- conduct electricity, such as a metal, ionic solution, or ionised gas.",
+    "options": [
+      "adversely",
+      "innately",
+      "devastatingly",
+      "efficiently",
+      "accidentally"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2022 YDS-2 · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-21",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Wales and England are two different countries that look, sound and feel alike, but often the greatest offence to Welsh people is when those very obvious differences are ----disregarded or patronised.",
+    "options": [
+      "admirably",
+      "conclusively",
+      "overtly",
+      "feasibly",
+      "sufficiently"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2023 YDS-1 · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-22",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Today we take the appearance of dinosaurs for granted, but it has taken centuries of careful study to learn how to ---- read the clues in the fossil record.",
+    "options": [
+      "disputably",
+      "incidentally",
+      "reluctantly",
+      "accurately",
+      "implicitly"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2023 YDS-2 · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-23",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Although climate change is a global phenomenon, its consequences will not be ---- distributed; scientists agree that developing countries will be the first and hardest hit.",
+    "options": [
+      "abundantly",
+      "conclusively",
+      "superficially",
+      "delicately",
+      "eccentrically"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "adverb-25",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The social benefits of technologies are ---distributed across the United States as there are still rural communities and individuals with disabilities facing out-ofreach costs or lacking access to products that meet their needs.",
+    "options": [
+      "undeniably",
+      "invariably",
+      "unevenly",
+      "irreversibly",
+      "inseparably"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · Adverb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-1",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Many scientists believe that our sanitized surroundings are --- allergic disorders in children, which have doubled in the last decade.",
+    "options": [
+      "extracting",
+      "fulfilling",
+      "unifying",
+      "ensuring",
+      "fostering"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2013 YDS SONBAHAR · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-2",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The rapid growth of English as an international language has ---- a number of interesting discussions about the status of English today.",
+    "options": [
+      "confirmed",
+      "postponed",
+      "stimulated",
+      "weakened",
+      "distinguished"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2014 YDS İLKBAHAR · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-3",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "People seem to forget that an e-mail says so much about them, but it can even ---personality characteristics.",
+    "options": [
+      "receive",
+      "eliminate",
+      "overcome",
+      "convey",
+      "abandon"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2014 YDS SONBAHAR · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-4",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Exposure to sunshine enables the production of vitamin D in our skin, and this ---- the growth and maintenance of healthy bones and teeth.",
+    "options": [
+      "deteriorates",
+      "declares",
+      "promotes",
+      "articulates",
+      "differentiates"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2015 YDS İLKBAHAR · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-5",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Total world population seems to have ---around a level of approximately half a billion people until the modern period, when it began to climb steadily.",
+    "options": [
+      "appeared",
+      "expired",
+      "qualified",
+      "fluctuated",
+      "weakened"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2015 YDS SONBAHAR · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-6",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "With mankind ---- by an energy crisis and climate change, nuclear power is back on the scene.",
+    "options": [
+      "confronted",
+      "responded",
+      "surpassed",
+      "initiated",
+      "allowed"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2016 YDS İLKBAHAR · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-7",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Trade between people depends on a uniform set of weights and measures that can be used by both sides of the transaction to ---- that the amount obtained or handed over is correct.",
+    "options": [
+      "disapprove",
+      "pretend",
+      "ensure",
+      "realise",
+      "estimate"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2016 YDS SONBAHAR · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-8",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "That we have the ability to detect and ---minute differences in the fat content of food suggests that this ability must have had considerable evolutionary importance.",
+    "options": [
+      "discriminate",
+      "hinder",
+      "undermine",
+      "tackle",
+      "protect"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2017 YDS İLKBAHAR · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-9",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Parents who are responsive, nonauthoritarian, and who manifest empathetic and caring behaviours can ---- the development of empathy in their children.",
+    "options": [
+      "delay",
+      "acknowledge",
+      "relieve",
+      "enhance",
+      "surpass"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2017 YDS SONBAHAR · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-10",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Children who grow up in two-parent homes where the parents are non-traditional in their own gender roles ---- less gender-stereotypic behaviour than do children whose parents are traditional in their role enactment.",
+    "options": [
+      "display",
+      "alter",
+      "achieve",
+      "reject",
+      "eradicate"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2018 YDS İLKBAHAR · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-11",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Childcare is a broad term that ---- services which protect the health, safety, and well-being of children who require custodial care by adults other than their own parents for a temporary period of time.",
+    "options": [
+      "hinders",
+      "encompasses",
+      "creates",
+      "eliminates",
+      "suspends"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2018 YDS SONBAHAR · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-12",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The Big Bang theory is the explanation most commonly ---- by astronomers for the origin of the universe.",
+    "options": [
+      "discovered",
+      "accepted",
+      "regulated",
+      "conducted",
+      "influenced"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2018 YDS-3 · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-13",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Just as television and mass media had done before the growth of the Internet in the 1990s and early 2000s ---- a new era for business.",
+    "options": [
+      "heralded",
+      "jeopardised",
+      "reversed",
+      "enforced",
+      "protected"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2019 YDS-1 · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-14",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "There is a link between sunlight and the chemical serotonin, which ---- our mood and is important in reducing anxiety disorders.",
+    "options": [
+      "initiates",
+      "detects",
+      "reveals",
+      "hinders",
+      "boosts"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2019 YDS-2 · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-15",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Children with autism spectrum conditions often have trouble ---- the emotional states of people around them, struggling to distinguish a happy face Trom a sad one, for example.",
+    "options": [
+      "overcoming",
+      "ignoring",
+      "provoking",
+      "identifying",
+      "improving"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2019 YDS-3 · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-16",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Starting in 1640, Evliya Çelebi began a career of travel into the far reaches of the Ottoman Empire, which at that time ---- from Hungary in the north to Egypt and Sudan in the south.",
+    "options": [
+      "wandered",
+      "escalated",
+      "stretched",
+      "emigrated",
+      "circulated"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2020 YDS · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-17",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Biologists have created a molecule that ---the connections between brain cells, called neurons, acting exactly like the steel bars in reinforced concrete.",
+    "options": [
+      "penetrates",
+      "overcomes",
+      "implements",
+      "fortifies",
+      "receives"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2022 YDS-2 · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-21",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Snoring that is thought to be caused by excessive weight may be ---- by a sensible weight loss and exercise program.",
+    "options": [
+      "released",
+      "exceeded",
+      "curtailed",
+      "ensured",
+      "revived"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2021 YDS-1 · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-18",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The most basic path to computer literacy is to ---- competence in using computers to perform personal or vocational tasks.",
+    "options": [
+      "exclude",
+      "relieve",
+      "deteriorate",
+      "restrict",
+      "attain"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2023 YDS-1 · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-22",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Among the problems stemming from space activity, 'space junk' is a growing concern as disused satellites and other objects ---- in our planet's orbit.",
+    "options": [
+      "perpetuate",
+      "overtake",
+      "accumulate",
+      "facilitate",
+      "precede"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2021 YDS-2 · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-19",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "When neurological issues like aphasia and dyslexia arise, they often ---- themselves in the things we say and how we say them.",
+    "options": [
+      "alienate",
+      "improve",
+      "manifest",
+      "diminish",
+      "receive"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2022 YDS-1 · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-20",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Sinkholes are natural, circular depressions that form when water erodes easily dissolved or soluble rock located beneath the ground surface, but they are also ---- by human activities.",
+    "options": [
+      "hindered",
+      "suppressed",
+      "induced",
+      "violated",
+      "evacuated"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2023 YDS-2 · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-23",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The world-famous explorer Marco Polo is credited with many things, but perhaps the greatest one is ---- one of the world's first best-selling travelogues.",
+    "options": [
+      "hindering",
+      "validating",
+      "alienating",
+      "compiling",
+      "predicting"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2024 YDS-1 · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-24",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Psychologists believe friendships ---many different types of associations, from casual relationships to more intimate, collaborative, and enduring bonds.",
+    "options": [
+      "comprise",
+      "dispel",
+      "constrain",
+      "contend",
+      "allocate"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "verb-25",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Environmental monitoring, which is often carried out to promote the sustainability of marine or terrestrial wildlife, has ---- public understanding of the relation between people and the environment.",
+    "options": [
+      "retained",
+      "exceeded",
+      "enhanced",
+      "mitigated",
+      "fulfilled"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-1",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "China's rapid growth --- trade is seen as a plus for the Southeast Asian nations because it helps to spur development --- the region.",
+    "options": [
+      "of / without",
+      "by / about",
+      "upon / over",
+      "at / under",
+      "in / across"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2013 YDS İLKBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-2",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "As Antarctic glaciers collapse --- the sea, scientists struggle to find out what that means -- the rise of sea levels.",
+    "options": [
+      "against / in",
+      "over / to",
+      "around / along",
+      "on / for",
+      "from / behind"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2013 YDS SONBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-3",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Dolphins use half their brain --- sleep, as it gives them the ability to be on the lookout --danger while still technically sleeping.",
+    "options": [
+      "during / for",
+      "in / by",
+      "at / into",
+      "on / against",
+      "through / from"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2013 YDS SONBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-4",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "---- all the essential amino acids for health and an excellent source of vitamin D, cheese is a highly nutritious food which should be included ---- any healthy diet.",
+    "options": [
+      "For / at",
+      "Under / to",
+      "Of / from",
+      "With / in",
+      "Upon / by"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2014 YDS İLKBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-5",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Diseases and injuries that result from alcohol consumption are usually attributed --- lower socio-economic status, and this seems to be true --- individuals, countries and regions.",
+    "options": [
+      "to / for",
+      "at / with",
+      "into / across",
+      "by / in",
+      "upon / along"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2014 YDS İLKBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-6",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "--- all the roles of the state --- the modern world, none should be underestimated or ignored.",
+    "options": [
+      "At / by",
+      "To / across",
+      "Of / in",
+      "From / upon",
+      "Within / for"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2014 YDS SONBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-7",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The study of visual illusions is critical ---understanding the basic mechanisms of sensory perception and advancing cures ---- neurological diseases.",
+    "options": [
+      "off / toward",
+      "at / with",
+      "in / about",
+      "to / for",
+      "on / from"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2014 YDS SONBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-8",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "--- the chaos that arose after the political and economic changes in the Union of Soviet Socialist Republics, the newly formed republics were anxious to make deals --- foreign investors.",
+    "options": [
+      "During / with",
+      "After / upon",
+      "Through / off",
+      "Before / into",
+      "Until / from"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2015 YDS İLKBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-9",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "As a young officer, Mustafa Kemal Atatürk was critical --- the government of the Ottoman Empire and became involved --- the Committee of Union and Progress.",
+    "options": [
+      "to / for",
+      "of / with",
+      "at / upon",
+      "from / in",
+      "toward / under"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2015 YDS İLKBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-10",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The ultimate goal --- medical profession is not to replace whole organs but to repair damaged organs --- healthy cells.",
+    "options": [
+      "of / over",
+      "to / on",
+      "for / with",
+      "against / into",
+      "behind / towards"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2015 YDS SONBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-11",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Governments, organizations and businesses are becoming increasingly concerned ---- social responsibility and ethical issues surrounding the problem ---- maintaining economic growth.",
+    "options": [
+      "with / of",
+      "on / by",
+      "into / from",
+      "for / beyond",
+      "at / behind"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2015 YDS SONBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-12",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Personality psychology focuses on the consistency in people’ s behavior ---- time and the traits that differentiate one person ---another.",
+    "options": [
+      "at / for",
+      "over / from",
+      "in / of",
+      "within / by",
+      "around / to"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2016 YDS İLKBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-13",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "In 1971, construction began on a vast hydroelectric project to dam the rivers that flow --- James Bay and Hudson Bay, generating electricity --- use in Canada and the US.",
+    "options": [
+      "through / in",
+      "by / with",
+      "along / about",
+      "at / on",
+      "into / for"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2016 YDS İLKBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-14",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "By the middle of the 1gth century, the growing acceptance that microbes can kill us had once more focused people's attention --- a world only visible --- a microscope.",
+    "options": [
+      "on / through",
+      "to / upon",
+      "by / over",
+      "against / in",
+      "of / for"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2016 YDS SONBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-15",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Education plays an important role ---improving people’s health, and educated people are more likely to be informed consumers of health care, gathering information ---- diseases and potential treatments.",
+    "options": [
+      "to /upon",
+      "in / on",
+      "at / about",
+      "with / from",
+      "for / over"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2016 YDS SONBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-16",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Excluding minor skin cancers, breast cancer is the single most common type of cancer ---women based ---- American Cancer Society data.",
+    "options": [
+      "in / from",
+      "with / for",
+      "among / upon",
+      "within / about",
+      "on / of"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2017 YDS İLKBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-17",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "More than 80 percent of the dry land will be affected if temperatures continue to increase --- the present rate, but ---- very different extents.",
+    "options": [
+      "on / for",
+      "at / to",
+      "by / with",
+      "in / about",
+      "from / over"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2017 YDS İLKBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-18",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Starting --- 800 AD, many agricultural communities emerged --- the Mississippi and in other fertile river valleys in North America.",
+    "options": [
+      "for / by",
+      "over / about",
+      "on / with",
+      "at / in",
+      "around / along"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2017 YDS SONBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-19",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Early mastery of fire offered many benefits to humankind, including protection --- wild animals, heat that enabled them to spread --cooler regions, and the ability to cook food.",
+    "options": [
+      "against / into",
+      "from / by",
+      "to / over",
+      "for / along",
+      "on / towards"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2017 YDS SONBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-20",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Anschluss, the political union of Germany and Austria, was specifically prohibited ---- the Versailles Treaty, but was carried out by Hitler in March 1938 ---- any resistance from the victors of the First World War.",
+    "options": [
+      "across / through",
+      "under / without",
+      "for / on",
+      "from / behind",
+      "to / about"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2018 YDS İLKBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-21",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Dramatists and scriptwriters could place their characters ---- the centre of a terrifying human conflict, and may allow us to watch these characters suffer the pains of avoiding a collision ---- the conflict.",
+    "options": [
+      "on / for",
+      "over / in",
+      "at / with",
+      "to / about",
+      "by / from"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2018 YDS İLKBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-22",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "---- the problems of obesity and disordered eating growing around the world, public health professionals have focused research efforts on identifying potential causes and treatments ---these related problems.",
+    "options": [
+      "About / in",
+      "On / towards",
+      "With / for",
+      "Through / from",
+      "Among / at"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2018 YDS SONBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-23",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Research ---- media has primarily examined the effects of media on children ---- a developmental perspective with a psychological focus on the correlation or casual variables between the media and chidren’ s behaviour.",
+    "options": [
+      "against / under",
+      "on / from",
+      "through / across",
+      "in / beyond",
+      "at / over"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2018 YDS SONBAHAR · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-24",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Identifying the specific effects of beneficial microbes that thrive ---- the surface of our bodies and deep ---- our tissues, researchers are gaining a new view of how our bodies function.",
+    "options": [
+      "at / over",
+      "in / along",
+      "by / down",
+      "on / within",
+      "from / through"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2018 YDS-3 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-25",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The world’s first complex societies arose in the Near East --- the fertile area, known as Mesopotamia, --- the Tigris and Euphrates rivers.",
+    "options": [
+      "around / to",
+      "within / between",
+      "about / with",
+      "for / along",
+      "at / among"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2018 YDS-3 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-26",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "---- rapid advances in biotechnology, genetic manipulation of crops accelerated in the 1990s and is expected to have a significant impact ---food production.",
+    "options": [
+      "Through / to",
+      "In / over",
+      "With / on",
+      "Within / from",
+      "For / behind"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2019 YDS-1 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-27",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The geographical spread of English is unique --- the languages of the world, and it is an official language in about 50 countries, where it is used in addition to the indigenous first languages ---- a variety of public and personal functions.",
+    "options": [
+      "from / at",
+      "to / on",
+      "through / with",
+      "among / for",
+      "about / in"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2019 YDS-1 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-28",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Weather is defined as the state of the atmosphere --- a given location and --- a relatively short period of time.",
+    "options": [
+      "along / on",
+      "towards / in",
+      "at / over",
+      "from / against",
+      "for / about"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2019 YDS-2 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-29",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "---- the 17th century, committed Anglicans produced a steady flow of religious and devotional literature that aimed to inspire holiness ---- readers.",
+    "options": [
+      "By / about",
+      "During / through",
+      "Throughout / among",
+      "From / against",
+      "Across / over"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2019 YDS-2 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-30",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The word adolescence is Latin ---- origin, derived from the verb adolescere, which means 'to grow ---- adulthood'.",
+    "options": [
+      "through / on",
+      "from / to",
+      "at / beyond",
+      "in / into",
+      "with / over"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2020 YDS · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-33",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "A compound called ‘hyloins’ that can be found in the frog's lymph and skin glands increases the frog's brightness --- around 20 percent --- a full moon.",
+    "options": [
+      "by / during",
+      "in / under",
+      "at / over",
+      "to / along",
+      "from / through"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2019 YDS-3 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-31",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The Common European Framework of Reference for Languages (CEFR) is intended to overcome the barriers to communication, --professionals working in the field of modern languages arising ----the different educational systems in Europe.",
+    "options": [
+      "between / to",
+      "through / into",
+      "with / upon",
+      "among / from",
+      "about / against"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2019 YDS-3 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-34",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The scientific study of the dynamic relationship ---- the celestial bodies of the solar system and the motion of human-made objects ---- outer space, such as spacecraft and satellites, is called orbital mechanics.",
+    "options": [
+      "about / on",
+      "between / at",
+      "with / of",
+      "among / in",
+      "beyond / without"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2019 YDS-3 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-32",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "People in some countries are brainwashed -- an early age to love junk food and fast food --advertising on television and many other mechanisms.",
+    "options": [
+      "by / about",
+      "from / through",
+      "in / to",
+      "on / for",
+      "with / over"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2021 YDS-1 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-35",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Anorexia nervosa is a severe eating disorder, usually involving excessive weight loss --- selfstarvation, most often found ---- teenage girls.",
+    "options": [
+      "at / with",
+      "from / of",
+      "for / between",
+      "by / on",
+      "through / among"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2021 YDS-1 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-36",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "With concerns ---- the rate of energy demand, the role of renewable energy, which is generated ---- sources that are naturally replenished, such as wind and sunlight, is becoming increasingly significant.",
+    "options": [
+      "at / upon",
+      "in / for",
+      "to / through",
+      "about / from",
+      "over / into"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2021 YDS-2 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-37",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "People intuitively tend to equate happines -- freedom, however without obstacles --- our desires it is harder to know what we really want, let alone fulfilling them.",
+    "options": [
+      "between / on",
+      "with / to",
+      "at / into",
+      "in / among",
+      "for / from"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2021 YDS-2 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-38",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "People who feel strongly that they do not want to be awake and alert ---- certain procedures may not be good candidates --- local or regional anaesthesia.",
+    "options": [
+      "through / at",
+      "by / with",
+      "during / for",
+      "upon / to",
+      "against / about"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2022 YDS-1 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-39",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The electricity produced by a generator travels ---- cables to a transformer, which changes electricity from low voltage to high voltage, and electricity can be transmitted ---long distances using high voltage.",
+    "options": [
+      "against / to",
+      "along /over",
+      "into / with",
+      "for / at",
+      "between / on"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2022 YDS-1 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-40",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Fashion dolls wore miniature examples of the latest fashions and, ---- the late medieval period onwards, were a favourite way of disseminating the latest information ---- fabric, colour, cut, and decoration.",
+    "options": [
+      "from / on",
+      "with / in",
+      "over / between",
+      "about / to",
+      "at/ across"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2022 YDS-2 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-41",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Nutrients enter cells lining the intestine and then are drawn into underlying cells, where they may enter either the lymph or bloodstream ---- distribution to tissues ---- the body.",
+    "options": [
+      "about / by",
+      "for / throughout",
+      "at / over",
+      "under / within",
+      "into / across"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2022 YDS-2 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-42",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "By extracting the clay component ---- soil and mixing it with sodium silicate, researchers were able to produce a material that could flow easily ---- a 3D printer, but hardens quickly to form a strong, load-bearing structure.",
+    "options": [
+      "for / with",
+      "into / upon",
+      "from / through",
+      "beyond / towards",
+      "within / over"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2023 YDS-1 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-43",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Adolescents and adults ---- insecure patterns of attachment exhibit higher rates of affective disorders than securely attached peers, and this insecure attachment is also seen as a risk factor for poor relational quality ---- marriage.",
+    "options": [
+      "for / at",
+      "against / to",
+      "under / on",
+      "with / in",
+      "about / through"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2023 YDS-1 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-44",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Foundations ---- linguistics in the ontological sense are established ---identifying and describing the ultimate constituents or aspects of reality which linguistic theories seek to refer to and to characterise.",
+    "options": [
+      "about / from",
+      "for / through",
+      "in / against",
+      "at / by",
+      "beyond / into"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2023 YDS-2 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-45",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "----- each scroll or connection ----- social media, users are reminded of the accomplishments of others which they themselves have not achieved, and this may lead to anxiety.",
+    "options": [
+      "Over / for",
+      "Towards / about",
+      "Onto / in",
+      "With / through",
+      "Off / at"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2023 YDS-2 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-46",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Aicardi syndrome, a rare genetic disorder that causes defects of the eyes and brain, is not associated with any particular subpopulations and appears ----- equal frequency in all races and ----- all geographies.",
+    "options": [
+      "by / along",
+      "in / upon",
+      "with / across",
+      "from / towards",
+      "about / to"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2024 YDS-1 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-47",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The anthropologist Bronisław Malinowski forged a unique method ---- the discipline of anthropology ---- the definition of participant observation, which is widely used in other social sciences as well today.",
+    "options": [
+      "for / with",
+      "about / into",
+      "at / towards",
+      "along / over",
+      "against / on"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2024 YDS-1 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-48",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Pidgin and creole languages are distributed mainly, though not exclusively, ---- the equatorial belt around the world, usually in places ---- direct or easy access to the oceans.",
+    "options": [
+      "for / about",
+      "in / with",
+      "on / off",
+      "across / over",
+      "towards / from"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-49",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Behaviourist psychologists claim that language is learned ----- the mechanism of reinforcing the contingent association between stimulus and response - the same general - purpose mechanism invoked to explain other learning processes ----humans.",
+    "options": [
+      "about / at",
+      "with / on",
+      "for / among",
+      "through / in",
+      "from / to"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "preposition-50",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Swiss physicist Jean-Daniel Colladon demonstrated that light could be trapped by total internal reflection inside a tube, allowing it to travel ----- a curved path, which is a core principle ----- modern-day optical fibres.",
+    "options": [
+      "across / through",
+      "in / by",
+      "along / behind",
+      "from / towards",
+      "over / with"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · Preposition — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-1",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "In non-literate societies, valuable information about the past is often enshrined in oral tradition- poems, hymns or sayings ---- from generation to generation by word of mouth.",
+    "options": [
+      "taken off",
+      "handed down",
+      "thrown up",
+      "kept off",
+      "rooted out"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2013 YDS İLKBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-2",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "By mapping equatorial rainfall since 800 AD, scientists have ---- how tropical weather may change over the next century.",
+    "options": [
+      "taken out",
+      "put aside",
+      "brought down",
+      "figured out",
+      "counted upon"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2013 YDS SONBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-3",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Parents should teach their children that being patient with someone does not necessarily mean they have to ---- their inappropriate behaviour.",
+    "options": [
+      "do away with",
+      "look down on",
+      "put up with",
+      "get up to",
+      "come out of"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2013 YDS SONBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-4",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "There is a wide range of theories that attempt to ---- the differences in left- and righthandedness, some with much more empirical support than others.",
+    "options": [
+      "carry out",
+      "take over",
+      "refer to",
+      "account for",
+      "give away"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2014 YDS İLKBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-5",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Children's power to understand and reflect on their experiences ---- their ability to use verbal symbols.",
+    "options": [
+      "depends on",
+      "looks into",
+      "complies with",
+      "brings about",
+      "sends out"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2014 YDS İLKBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-6",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Famous Brazilian photographer Sebastião Salgado ---- photography after a brief career as an economist in the 1970s.",
+    "options": [
+      "gave off",
+      "took up",
+      "called for",
+      "pulled over",
+      "handed in"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2014 YDS SONBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-7",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "How a person ---- stress is more important than the number of stressors in that person's life.",
+    "options": [
+      "copes with",
+      "relies on",
+      "leads to",
+      "puts aside",
+      "pertains to"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2014 YDS SONBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-8",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "A stroke occurs when the blood supply of an area of brain cells is ---- for a long period of time, resulting in the death of the cells from lack of oxygen and nutrients.",
+    "options": [
+      "set up",
+      "cut off",
+      "put down",
+      "left out",
+      "taken over"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2015 YDS İLKBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-9",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "By 2008, the UK had begun to return to nuclear power by ---- the construction of new reactors.",
+    "options": [
+      "calling for",
+      "turning over",
+      "putting off",
+      "taking apart",
+      "pulling up"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2015 YDS İLKBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-10",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "From the ancient pyramids to today's hitech skyscrapers, powerful people have always --- their status through impressive buildings.",
+    "options": [
+      "put on",
+      "laid out",
+      "shown off",
+      "given in",
+      "passed over"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2015 YDS SONBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-11",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "People have always been fascinated by the stars and planets in the night sky, but they had to ---- just the naked eye to make them out until the telescope was invented in 1609.",
+    "options": [
+      "rely on",
+      "look up",
+      "put off",
+      "take up",
+      "bring back"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2015 YDS SONBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-12",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Blood type has been linked with a variety of mental disorders, but associations are weak; many other factors are more important in determining who ---- a particular illness.",
+    "options": [
+      "runs out of",
+      "ends up with",
+      "makes up for",
+      "gets back to",
+      "cuts down on"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2016 YDS İLKBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-13",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Despite its problems, the Space Shuttle has been a major step forward in spaceflight, ---more than one hundred successful missions and pointing the way for future reusable spacecraft.",
+    "options": [
+      "standing for",
+      "carrying out",
+      "running into",
+      "calling for",
+      "putting aside"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2016 YDS İLKBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-14",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "From the beginning of human history, innovators have experimented with all kinds of elements, from the ordinary to the invisible, trying to ---- new, improved materials.",
+    "options": [
+      "come up with",
+      "do away with",
+      "cut down on",
+      "get along with",
+      "make up for"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2016 YDS SONBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-15",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Children who are securely attached to their mother by the time they enter their second year of life are better equipped to ---- new experiences and relationships.",
+    "options": [
+      "depend on",
+      "turn down",
+      "refrain from",
+      "cope with",
+      "carry out"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2016 YDS SONBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-16",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "The success of advertising ultimately ---whether it influences consumer behaviour.",
+    "options": [
+      "breaks in",
+      "disposes of",
+      "gives away",
+      "rests on",
+      "tears apart"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2017 YDS İLKBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-17",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "World War Il is an important turning point in that it ---- the beginning of the end of colonial empires.",
+    "options": [
+      "made out",
+      "handed down",
+      "brought about",
+      "took over",
+      "put back"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2017 YDS SONBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-18",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "When Columbus sailed west from Spain in 1492 in pursuit of the riches of the Far East, he --- recent advances in navigation and age-old geographical knowledge.",
+    "options": [
+      "kept off",
+      "drew on",
+      "put forward",
+      "gave away",
+      "brought about"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2018 YDS İLKBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-19",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Taking a break, and distracting your mind for a while, not only gives you the spare time to be creative, but it can also give your brain the space it needs to ---- creative solutions to problems you have been struggling with.",
+    "options": [
+      "make up for",
+      "get away from",
+      "fight back against",
+      "look up to",
+      "come up with"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2018 YDS SONBAHAR · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-20",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Sense of control refers to the degree to which people believe that they can deliberately ---- desired outcomes and avoid undesirable ones in their environment.",
+    "options": [
+      "fill out",
+      "bring about",
+      "switch off",
+      "turn down",
+      "hand over"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2018 YDS-3 · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-21",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "As the distribution of radio and TV programming began migrating to a digital format in the late 1990s, broadcasters, over time, have had to ---- their old analogue frequencies for the new digital channels and invest hundreds of millions of dollars in new equipment.",
+    "options": [
+      "give up",
+      "take on",
+      "work out",
+      "turn down",
+      "go through"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2019 YDS-1 · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-22",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Parkinson's disease is a movement disorder that ---- the death of neurons producing dopamine, a neurochemical that dispatches messages to parts of the brain that control motor skills and coordination.",
+    "options": [
+      "takes over",
+      "stems from",
+      "makes up",
+      "pins down",
+      "gets through"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2019 YDS-2 · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-23",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Human accomplishments ---- our ability to acquire knowledge from others and to use that communal store of experience to devise novel solutions to life's challenges.",
+    "options": [
+      "call off",
+      "stem from",
+      "bring down",
+      "take out",
+      "figure out"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2019 YDS-3 · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-24",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Assimilation is a voluntary or involuntary process by which individuals or groups completely ---- the traits of another culture, leaving their original cultural and linguistic identities behind.",
+    "options": [
+      "break into",
+      "put away",
+      "make out",
+      "take on",
+      "bring about"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2020 YDS · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-25",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Internet users are increasingly ---cyberchondria, a mental condition in which easy access to information on medical issues causes increased feelings of anxiety over health.",
+    "options": [
+      "making up for",
+      "cutting down on",
+      "getting away with",
+      "looking around for",
+      "coming down with"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2021 YDS-1 · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-26",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Making videos should be a lot of fun, but it can also be a bit of a minefield, as lots of people ---- problems and lose momentum before they even get started.",
+    "options": [
+      "hand over",
+      "look for",
+      "turn down",
+      "give up",
+      "run into"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2021 YDS-2 · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-27",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "When you cook meat, a chemical reaction turns creatine into a group of compounds called heterocyclic amines and there is some evidence that these compounds ---- cancer in high concentrations.",
+    "options": [
+      "rely on",
+      "break into",
+      "pass for",
+      "call off",
+      "lead to"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2022 YDS-1 · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-28",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Like the Romans, the Aztec were a warlike people who founded a great empire and who ---- knowledge of other peoples to further their civilisation.",
+    "options": [
+      "pulled through",
+      "drew on",
+      "called off",
+      "rushed into",
+      "turned down"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2022 YDS-2 · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-29",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Customs are those activities that have been approved by a social group and have been ---from generation to generation until they have become habitual.",
+    "options": [
+      "handed down",
+      "stood out",
+      "carried away",
+      "brought in",
+      "come over"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2023 YDS-1 · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-30",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Chlorophylls are complex molecules exquisitely suited to the light absorption, energy transfer, and electron transfer functions that they ----- in photosynthesis.",
+    "options": [
+      "pull down",
+      "carry out",
+      "take up",
+      "draw up",
+      "get off"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2023 YDS-2 · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-31",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "The belief that individuals have virtually unlimited potential for growth is particularly attractive to educators seeking to ---- the best that adult learners can achieve.",
+    "options": [
+      "bring out",
+      "call off",
+      "get over",
+      "interfere with",
+      "pass down"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2024 YDS-1 · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-32",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "Such nutrients as beta-carotene, vitamin C, folic acid, and vitamin E boost the immune system and the intestinal immune cells to ---attacks to the body.",
+    "options": [
+      "speed up",
+      "hand out",
+      "get on",
+      "ward off",
+      "pin down"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "phrasal-verb-33",
+    "examType": "YDS",
+    "category": "Kelime ve Phrasal Verb",
+    "passage": null,
+    "promptText": "As people feel more secure and knowledgeable when they become a member of a group, they often tend to adjust their behaviours in order to ----- the norms of the group.",
+    "options": [
+      "bargain for",
+      "interfere with",
+      "call for",
+      "descend from",
+      "align with"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · Phrasal Verb — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-1",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "When modern coastal fish-farming began 30 years ago, no one was doing things right, ---- for the environment ---- the industry's long-term sustainability.",
+    "options": [
+      "whether / or",
+      "such / as",
+      "so / that",
+      "either / or",
+      "as / as"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2015 YDS İLKBAHAR · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-5",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Japan is enormously centralized, and Tokyo, the capital city, hosts ---- the national government ---- the stock market and the world's largest companies.",
+    "options": [
+      "not only / but also",
+      "whether / or",
+      "neither / nor",
+      "such / that",
+      "the more / the less"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2013 YDS SONBAHAR · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-2",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Adopting a positive attitude to a terrible experience can ---- enhance accuracy in emotional memories ----diminish their negative overtones.",
+    "options": [
+      "just / as",
+      "both / and",
+      "as / as",
+      "rather / than",
+      "so / that"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2015 YDS SONBAHAR · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-6",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Scientists do research in natural forces ---- for the sake of new discoveries ---- to use the findings for the advantage of mankind.",
+    "options": [
+      "not only / but also",
+      "so / that",
+      "the more / the more",
+      "such / that",
+      "whether / or"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2014 YDS İLKBAHAR · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-3",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "As with other chronic illnesses, asthma affects ----patients ---- their families.",
+    "options": [
+      "not only / but also",
+      "the more / the more",
+      "neither / nor",
+      "such / that",
+      "less / than"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2014 YDS SONBAHAR · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-4",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "One central question in acupuncture is ---the needles reduce pain ---- patients are simply responding to suggestions.",
+    "options": [
+      "whether / or",
+      "neither / nor",
+      "either / or",
+      "so / that",
+      "as / as"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2016 YDS İLKBAHAR · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-7",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The basic principles of good diets are ---simple ---- one can summarize them in just ten words: eat less, move more, eat lots of fruits and vegetables.",
+    "options": [
+      "neither / nor",
+      "the more / the less",
+      "whether / or",
+      "such / as",
+      "so / that"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2016 YDS SONBAHAR · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-8",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Leonardo da Vinci's drawings for machines are ---- accurate ---- it has been possible for modern engineers to build some of them.",
+    "options": [
+      "so / that",
+      "as / as",
+      "either / or",
+      "more / than",
+      "neither / nor"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2017 YDS İLKBAHAR · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-9",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Wheat, which has been a staple food for centuries, can turn out to be bad for some people ---- because they are allergic to it ---because they have an autoimmune disorder.",
+    "options": [
+      "so / that",
+      "neither / nor",
+      "as / as",
+      "the more / the more",
+      "either / or"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2017 YDS SONBAHAR · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-10",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "19th-century scientists fell into a bitter debate as to ---- intelligence lay in anatomy ---a vital force was responsible for thoughts.",
+    "options": [
+      "as / as",
+      "neither / nor",
+      "so / that",
+      "whether / or",
+      "not only / but also"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2018 YDS İLKBAHAR · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-11",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "In statistics, ---- the standard deviation allows us to see how much individuals vary within a sample, ---- the standard error allows us to estimate how much samples will vary within a population.",
+    "options": [
+      "whether / or",
+      "no sooner / than",
+      "rather / than",
+      "hardly / when",
+      "just as / so"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2018 YDS SONBAHAR · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-12",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Animals are hunted by humans ---- for their meat ---- for parts of their bodies that are used to create medicines, clothes, and jewellery.",
+    "options": [
+      "neither / nor",
+      "such / that",
+      "not only / but also",
+      "the more / the more",
+      "as / as"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2018 YDS-3 · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-13",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Known as the 'Lady with the Lamp' during the Crimean War, Florence Nightingale, the most famous nurse in history, focused her efforts ---- on the prevention of disease ---- the promotion of healthy living in a more positive way.",
+    "options": [
+      "the more / the more",
+      "not only / but also",
+      "whether / or",
+      "such / that",
+      "as / as"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2019 YDS-1 · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-14",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Music is a very small word to encompass something that takes ---- many forms ---- there are cultural and subcultural identities.",
+    "options": [
+      "either / or",
+      "both / and",
+      "as / as",
+      "such / that",
+      "not only / but also"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2019 YDS-2 · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-15",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Personality is ---- a crucial aspect of psychology ---- every main branch of psychological research has attempted to contribute to the existing knowledge in this area.",
+    "options": [
+      "such / that",
+      "whether / or",
+      "as much / as",
+      "the more / the more",
+      "neither / nor"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2019 YDS-3 · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-16",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The management of farms in the future will be influenced ---- by climate ---- by global demand and agricultural practices, so the winners will be farmers who modernise their methods and diversify their fields.",
+    "options": [
+      "neither / nor",
+      "as / as",
+      "not only / but also",
+      "rather / than",
+      "so / that"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2020 YDS · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-17",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Finding ammonia on the surface of Pluto could be a hint of more complex organic chemistry on the planet, although it is ---- cold --- there is almost definitely no life there.",
+    "options": [
+      "not only / but also",
+      "both / and",
+      "neither / nor",
+      "such / that",
+      "so / that"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2021 YDS-1 · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-18",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The conventional view of dinosaur origins holds that they were endowed with ---- superior speed, agility, metabolism and intelligence --- as soon as they debuted they quickly spread across the globe.",
+    "options": [
+      "either / or",
+      "both / and",
+      "the more / the more",
+      "whether / or",
+      "such / that"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2021 YDS-2 · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-19",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "--- you are a long-time fan --- casual follower of the series of Street Fighter, you are already well-aware that it is constantly updated with new characters, costumes, and story content.",
+    "options": [
+      "Both / and",
+      "Neither / nor",
+      "Rather / than",
+      "Whether / or",
+      "Not only / but also"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2022 YDS-1 · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-20",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Economic activity is the source of wealth for any country, so government control and regulation of the economy has a significant effect ---- on prosperity and growth ---- on political well-being.",
+    "options": [
+      "the more / the less",
+      "neither / nor",
+      "not only / but also",
+      "so / that",
+      "whether / or"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2022 YDS-2 · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-21",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Culture can be defined as the integrated pattern of human knowledge, belief, and behaviour that is ----- a result of ----- integral to the human capacity for learning and transmitting knowledge to succeeding generations.",
+    "options": [
+      "both / and",
+      "the more / the more",
+      "so / that",
+      "whether / or",
+      "such / that"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2023 YDS-1 · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-22",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Air conditioning and heating systems today ---- change the temperature of a room, ----remove dust, pollen, and other particles that may cause respiratory problems for humans.",
+    "options": [
+      "no sooner / than",
+      "as / as",
+      "whether / or",
+      "not only / but also",
+      "the more / the more"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2023 YDS-2 · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-23",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Sociology enables us to understand ----society as a whole ----- our individual place within it because this is a matter of where we are located within social structures.",
+    "options": [
+      "both / and",
+      "whether / or",
+      "neither / nor",
+      "such / that",
+      "the more / the less"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2024 YDS-1 · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-24",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Extensive scientific literature shows that people who closely follow a Mediterranean diet are ----- less likely to develop heartrelated issues, ------- have a reduced risk of cognitive impairment.",
+    "options": [
+      "neither / nor",
+      "not only / but also",
+      "as / as",
+      "no sooner / than",
+      "so / that"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "ikili-baglac-25",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Many people who would benefit from psychotherapy may be hesitant to get it because ----- they do not know how to access it ----- they feel that they will be stigmatised and embarrassed if they seek help.",
+    "options": [
+      "neither / nor",
+      "as / as",
+      "either / or",
+      "the more / the less",
+      "so / that"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · İkili Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-1",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "---- deriving two-thirds of its power supply from fossil fuels, power producers in India cannot get enough pipeline space to distribute natural gas.",
+    "options": [
+      "Despite",
+      "Besides",
+      "As a result of",
+      "By means of",
+      "Rather than"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2015 YDS İLKBAHAR · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-5",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Prejudice may be expressed by people who have developed generally negative personalities, perhaps ---- being raised in harsh and restrictive families.",
+    "options": [
+      "as a result of",
+      "in terms of",
+      "rather than",
+      "in contrast with",
+      "in place of"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2013 YDS SONBAHAR · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-2",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The crimes of the rich and the powerful can be explained ---- the same motives as any other criminal act.",
+    "options": [
+      "in terms of",
+      "prior to",
+      "apart from",
+      "in spite of",
+      "instead of"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2015 YDS SONBAHAR · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-6",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "One way to reduce the negative impact people have on the environment is to make sure that as much garbage as possible is recycled ---- being put in a landfill.",
+    "options": [
+      "because of",
+      "in terms of",
+      "for the sake of",
+      "instead of",
+      "in case of"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2014 YDS İLKBAHAR · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-3",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "---- children and older people, who suffer most of their unintentional injuries at home, young and middle-aged adults are often injured in the workplace.",
+    "options": [
+      "In contrast to",
+      "Instead of",
+      "Due to",
+      "Thanks to",
+      "In case of"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2014 YDS SONBAHAR · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-4",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Being very significant ---- economical and geopolitical aspects, control of the Bosphorus was always demanded by many countries.",
+    "options": [
+      "in spite of",
+      "rather than",
+      "instead of",
+      "regardless of",
+      "in terms of"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2016 YDS İLKBAHAR · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-7",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The henna, which may have spiritual significance in various cultures, is applied ---different graphic rules, with different symbolic relations.",
+    "options": [
+      "due to",
+      "except for",
+      "unlike",
+      "according to",
+      "prior to"
+    ],
+    "correctIndex": 3,
+    "explanation": null,
+    "sourceNote": "2016 YDS SONBAHAR · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-8",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "---- the promising prospects that carbon capture and storage technology offer to prevent air pollution, it is still a rather new technique requiring much more research before it can be utilized on a large scale.",
+    "options": [
+      "Owing to",
+      "Rather than",
+      "In spite of",
+      "Similar to",
+      "Except for"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2017 YDS İLKBAHAR · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-9",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "---- its similarities with other Italian cities, it is important to emphasise that Venice's aquatic environment and associations with foreign lands via the sea endowed it with a uniqueness.",
+    "options": [
+      "Due to",
+      "By means of",
+      "In terms of",
+      "In case of",
+      "Despite"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2017 YDS SONBAHAR · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-10",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "In most cultures around the world, men and women typically differ in a number of ways ---physical appearance, personality traits, and occupational preferences.",
+    "options": [
+      "in case of",
+      "in spite of",
+      "such as",
+      "similar to",
+      "as well as"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2018 YDS-3 · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-13",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "---- expansion west across the Mississippi River to the Pacific coast, settlers from Europe were brought into conflict with Native American tribes who lived in the area, upon whose lands the settlers were encroaching.",
+    "options": [
+      "Rather than",
+      "Along with",
+      "As opposed to",
+      "Unlike",
+      "Due to"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2019 YDS-1 · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-14",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Although genetically modified seed is more expensive than conventional equivalents, the extra cost can be seen as an insurance policy against crop losses ---- weeds or pests.",
+    "options": [
+      "contrary to",
+      "due to",
+      "in terms of",
+      "despite",
+      "along with"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2018 YDS İLKBAHAR · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-11",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The idea of the Internet was initially to provide redundancy of communications ---- a catastrophic event like a nuclear blast, which might destroy a single connection or computer but not the entire network.",
+    "options": [
+      "such as",
+      "on behalf of",
+      "in terms of",
+      "in addition to",
+      "in case of"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2019 YDS-2 · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-15",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Having a geopolitical significance ----unique aspect of dividing two continents, the Bosphorus stands among distinguished landmarks of Istanbul.",
+    "options": [
+      "similar to",
+      "thanks to",
+      "in place of",
+      "in spite of",
+      "contrary to"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2018 YDS SONBAHAR · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-12",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "---- its notoriety as a naval weapon, the first modern torpedo was developed in landlocked Austria, or rather in what was then the Austrian Empire stretching down to the Adriatic.",
+    "options": [
+      "Along with",
+      "In terms of",
+      "Despite",
+      "Due to",
+      "Instead of"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2019 YDS-3 · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-16",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "---- connecting distant empires into an integrated web of commerce, the Silk Road carried infectious diseases that severely affected immunity-free victims.",
+    "options": [
+      "In case of",
+      "Apart from",
+      "In terms of",
+      "On behalf of",
+      "For the purpose of"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2020 YDS · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-17",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "---- the Sun's constant stream of energy, water molecules are continually evaporating from the surfaces of oceans and lakes, adding to the water vapour in the air.",
+    "options": [
+      "Rather than",
+      "Thanks to",
+      "As opposed to",
+      "In terms of",
+      "Unlike"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2022 YDS-2 · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-21",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "In many countries today, professions that traditionally were dominated by males, such as law, medicine, and engineering, are becoming more balanced ----- gender",
+    "options": [
+      "in case of",
+      "in terms of",
+      "as a result of",
+      "as opposed to",
+      "thanks to"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2021 YDS-1 · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-18",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "Books continue to be a major medium for communicating scholarly works in the field of history, ---- many other social sciences, where journal articles are far more important.",
+    "options": [
+      "with the help of",
+      "in contrast to",
+      "due to",
+      "such as",
+      "on the basis of"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2023 YDS-1 · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-22",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "----- the red haemoglobin in human blood, which has an iron atom in its molecule, lobsters and other large crustaceans have blue blood containing hemocyanin.",
+    "options": [
+      "Such as",
+      "Instead of",
+      "By means of",
+      "In conjunction with",
+      "As a result of"
+    ],
+    "correctIndex": 1,
+    "explanation": null,
+    "sourceNote": "2021 YDS-2 · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-19",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "---- many individual cases of malicious data leaks online that have caught the public eye, there has been very little research examining the scale of the problem.",
+    "options": [
+      "Similar to",
+      "Due to",
+      "As a result of",
+      "In accordance with",
+      "Despite"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2023 YDS-2 · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-23",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "----- its impact on civilisation, the transition of communities from hunter-gatherer to farmer has been described as the most important technological development ever to occur in human history.",
+    "options": [
+      "Irrespective of",
+      "Similar to",
+      "Owing to",
+      "By means of",
+      "Contrary to"
+    ],
+    "correctIndex": 2,
+    "explanation": null,
+    "sourceNote": "2022 YDS-1 · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-20",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "The science says that products grown organically contain higher levels of the antioxidant compounds linked to good health ---- lower levels of pesticides and toxic metals.",
+    "options": [
+      "as well as",
+      "prior to",
+      "in terms of",
+      "on behalf of",
+      "as a result of"
+    ],
+    "correctIndex": 0,
+    "explanation": null,
+    "sourceNote": "2024 YDS-1 · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  },
+  {
+    "id": "kalip-baglac-25",
+    "examType": "YDS",
+    "category": "Gramer",
+    "passage": null,
+    "promptText": "During the early periods in northern China, wheat seems to have been treated as a crop of desperation ---- a culinary delight, and was grown in an attempt to tackle starvation.",
+    "options": [
+      "on the basis of",
+      "by means of",
+      "with reference to",
+      "as a result of",
+      "rather than"
+    ],
+    "correctIndex": 4,
+    "explanation": null,
+    "sourceNote": "2024 YDS-2 · Kalıp Bağlaç — Sınav Kampı materyali (gerçek YDS sorusu)"
+  }
+]

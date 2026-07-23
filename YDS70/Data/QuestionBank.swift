@@ -6,13 +6,16 @@ final class QuestionBank {
     let allQuestions: [Question]
 
     private init() {
-        guard let url = Bundle.main.url(forResource: "seed_questions", withExtension: "json"),
+        allQuestions = Self.loadQuestions(resource: "seed_questions") + Self.loadQuestions(resource: "real_questions")
+    }
+
+    private static func loadQuestions(resource: String) -> [Question] {
+        guard let url = Bundle.main.url(forResource: resource, withExtension: "json"),
               let data = try? Data(contentsOf: url),
               let questions = try? JSONDecoder().decode([Question].self, from: data) else {
-            allQuestions = []
-            return
+            return []
         }
-        allQuestions = questions
+        return questions
     }
 
     func questions(category: QuestionCategory, examType: ExamType) -> [Question] {
