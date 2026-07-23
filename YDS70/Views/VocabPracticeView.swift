@@ -1,126 +1,160 @@
 import SwiftUI
 
+/// Çoktan seçmeli kelime ezberleme: rastgele bir kelime ve 4 anlam seçeneği gösterir.
+/// Bir kelime 20 kez doğru cevaplanınca ezberlenmiş sayılır ve havuzdan çıkar.
 struct VocabPracticeView: View {
     let words: [VocabWord]
     let title: String
 
-    @State private var currentIndex = 0
-    @State private var isRevealed = false
-    @State private var knownCount = 0
-    @State private var isFinished = false
+    @State private var currentWord: VocabWord?
+    @State private var options: [VocabWord] = []
+    @State private var selectedIndex: Int?
+    @State private var isAnswerRevealed = false
+    @State private var isPoolExhausted = false
 
     var body: some View {
         Group {
             if words.isEmpty {
                 ContentUnavailableView("Bu kategoride henüz kelime yok", systemImage: "text.book.closed")
-            } else if isFinished {
+            } else if isPoolExhausted {
                 finishedView
+            } else if let currentWord {
+                quizBody(for: currentWord)
             } else {
-                cardView
+                Color.clear
             }
         }
         .navigationTitle(title)
         .navigationBarTitleDisplayMode(.inline)
+        .onAppear {
+            if currentWord == nil && !isPoolExhausted {
+                pickNextWord()
+            }
+        }
     }
 
-    private var currentWord: VocabWord { words[currentIndex] }
+    private var remainingPool: [VocabWord] {
+        words.filter { !VocabProgressStore.shared.isMastered($0.id) }
+    }
 
-    private var cardView: some View {
-        VStack(spacing: 24) {
-            Text("\(currentIndex + 1)/\(words.count)")
-                .font(.caption)
-                .foregroundStyle(.secondary)
-                .padding(.top, 24)
+    private var masteredCount: Int {
+        words.count - remainingPool.count
+    }
 
-            Spacer()
+    private func pickNextWord() {
+        guard let next = remainingPool.randomElement() else {
+            currentWord = nil
+            isPoolExhausted = true
+            return
+        }
+        currentWord = next
+        options = makeOptions(for: next)
+        selectedIndex = nil
+        isAnswerRevealed = false
+    }
 
-            VStack(spacing: 16) {
-                Text(currentWord.term)
+    private func makeOptions(for word: VocabWord) -> [VocabWord] {
+        var distractorPool = words.filter { $0.id != word.id && $0.wordType == word.wordType }
+        if distractorPool.count < 3 {
+            distractorPool = words.filter { $0.id != word.id }
+        }
+        let distractors = Array(distractorPool.shuffled().prefix(3))
+        return ([word] + distractors).shuffled()
+    }
+
+    private func quizBody(for word: VocabWord) -> some View {
+        ScrollView {
+            VStack(spacing: 24) {
+                Text("\(masteredCount)/\(words.count) ezberlendi")
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
+                    .padding(.top, 16)
+
+                Text(word.term)
                     .font(.system(size: 34, weight: .bold))
                     .multilineTextAlignment(.center)
+                    .padding(.top, 24)
+                    .padding(.horizontal)
 
-                if isRevealed {
-                    Text(currentWord.meaning)
-                        .font(.title3)
-                        .foregroundStyle(.secondary)
-                        .multilineTextAlignment(.center)
+                VStack(spacing: 12) {
+                    ForEach(Array(options.enumerated()), id: \.element.id) { index, option in
+                        optionButton(index: index, option: option, correctID: word.id)
+                    }
+                }
+                .padding(.horizontal)
+
+                if isAnswerRevealed {
+                    Button {
+                        pickNextWord()
+                    } label: {
+                        Text("Sonraki Kelime")
+                            .frame(maxWidth: .infinity)
+                            .padding()
+                            .background(Color.accentColor)
+                            .foregroundStyle(.white)
+                            .clipShape(RoundedRectangle(cornerRadius: 12))
+                    }
+                    .buttonStyle(.plain)
+                    .padding(.horizontal)
+                }
+            }
+            .padding(.bottom, 24)
+        }
+        .id(word.id)
+    }
+
+    private func optionButton(index: Int, option: VocabWord, correctID: String) -> some View {
+        let isSelected = selectedIndex == index
+        let isCorrectOption = option.id == correctID
+
+        let backgroundColor: Color = {
+            guard isAnswerRevealed else {
+                return Color(.secondarySystemBackground)
+            }
+            if isCorrectOption { return Color.green.opacity(0.25) }
+            if isSelected { return Color.red.opacity(0.25) }
+            return Color(.secondarySystemBackground)
+        }()
+
+        return Button {
+            guard !isAnswerRevealed else { return }
+            selectedIndex = index
+            isAnswerRevealed = true
+            if isCorrectOption {
+                VocabProgressStore.shared.registerCorrectAnswer(for: correctID)
+            }
+        } label: {
+            HStack {
+                Text(option.meaning)
+                Spacer()
+                if isAnswerRevealed && isCorrectOption {
+                    Image(systemName: "checkmark.circle.fill").foregroundStyle(.green)
+                } else if isAnswerRevealed && isSelected {
+                    Image(systemName: "xmark.circle.fill").foregroundStyle(.red)
                 }
             }
             .padding()
-            .frame(maxWidth: .infinity)
-            .frame(minHeight: 160)
-            .background(Color(.secondarySystemBackground), in: RoundedRectangle(cornerRadius: 20))
-            .padding(.horizontal)
-            .onTapGesture { isRevealed = true }
-
-            Spacer()
-
-            if !isRevealed {
-                Button {
-                    isRevealed = true
-                } label: {
-                    Text("Anlamı Göster")
-                        .frame(maxWidth: .infinity)
-                        .padding()
-                        .background(Color.accentColor)
-                        .foregroundStyle(.white)
-                        .clipShape(RoundedRectangle(cornerRadius: 12))
-                }
-                .buttonStyle(.plain)
-                .padding(.horizontal)
-            } else {
-                HStack(spacing: 12) {
-                    Button {
-                        VocabProgressStore.shared.markUnknown(currentWord.id)
-                        advance()
-                    } label: {
-                        Text("Bilmiyorum")
-                            .frame(maxWidth: .infinity)
-                            .padding()
-                            .background(Color.red.opacity(0.15))
-                            .foregroundStyle(.red)
-                            .clipShape(RoundedRectangle(cornerRadius: 12))
-                    }
-                    .buttonStyle(.plain)
-
-                    Button {
-                        VocabProgressStore.shared.markKnown(currentWord.id)
-                        knownCount += 1
-                        advance()
-                    } label: {
-                        Text("Biliyorum")
-                            .frame(maxWidth: .infinity)
-                            .padding()
-                            .background(Color.green.opacity(0.15))
-                            .foregroundStyle(.green)
-                            .clipShape(RoundedRectangle(cornerRadius: 12))
-                    }
-                    .buttonStyle(.plain)
-                }
-                .padding(.horizontal)
-            }
+            .background(backgroundColor, in: RoundedRectangle(cornerRadius: 12))
+            .foregroundStyle(.primary)
         }
-        .padding(.bottom)
+        .buttonStyle(.plain)
+        .disabled(isAnswerRevealed)
     }
 
     private var finishedView: some View {
         VStack(spacing: 16) {
-            Text("\(knownCount)/\(words.count)")
-                .font(.system(size: 48, weight: .bold))
-            Text("Bildiğin Kelime")
+            Image(systemName: "checkmark.seal.fill")
+                .font(.system(size: 48))
+                .foregroundStyle(.green)
+            Text("Tebrikler!")
+                .font(.title2.bold())
+            Text("Bu kategorideki tüm kelimeleri ezberledin.")
                 .font(.subheadline)
                 .foregroundStyle(.secondary)
+                .multilineTextAlignment(.center)
+                .padding(.horizontal)
             Spacer()
         }
         .padding(.top, 64)
-    }
-
-    private func advance() {
-        isRevealed = false
-        if currentIndex == words.count - 1 {
-            isFinished = true
-        } else {
-            currentIndex += 1
-        }
     }
 }

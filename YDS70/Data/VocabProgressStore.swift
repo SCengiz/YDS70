@@ -1,34 +1,38 @@
 import Foundation
 
+/// Bir kelime, doğru cevaplanma sayısı eşiğe ulaşınca "ezberlenmiş" sayılır
+/// ve pratik havuzundan çıkarılır.
 final class VocabProgressStore {
     static let shared = VocabProgressStore()
+    static let masteryThreshold = 20
 
-    private let key = "yds70.knownWordIDs"
-    private var knownIDs: Set<String>
+    private let key = "yds70.vocabCorrectCounts"
+    private var correctCounts: [String: Int]
 
     private init() {
-        knownIDs = Set(UserDefaults.standard.stringArray(forKey: key) ?? [])
+        correctCounts = UserDefaults.standard.dictionary(forKey: key) as? [String: Int] ?? [:]
     }
 
-    func isKnown(_ id: String) -> Bool {
-        knownIDs.contains(id)
+    func correctCount(for id: String) -> Int {
+        correctCounts[id] ?? 0
     }
 
-    func markKnown(_ id: String) {
-        knownIDs.insert(id)
+    func isMastered(_ id: String) -> Bool {
+        correctCount(for: id) >= Self.masteryThreshold
+    }
+
+    func registerCorrectAnswer(for id: String) {
+        let current = correctCounts[id] ?? 0
+        guard current < Self.masteryThreshold else { return }
+        correctCounts[id] = current + 1
         persist()
     }
 
-    func markUnknown(_ id: String) {
-        knownIDs.remove(id)
-        persist()
-    }
-
-    func knownCount(among words: [VocabWord]) -> Int {
-        words.filter { knownIDs.contains($0.id) }.count
+    func masteredCount(among words: [VocabWord]) -> Int {
+        words.filter { isMastered($0.id) }.count
     }
 
     private func persist() {
-        UserDefaults.standard.set(Array(knownIDs), forKey: key)
+        UserDefaults.standard.set(correctCounts, forKey: key)
     }
 }

@@ -9,16 +9,16 @@ struct VocabTopicView: View {
         List {
             ForEach(options, id: \.self) { type in
                 let words = VocabBank.shared.words(of: type)
-                let known = VocabProgressStore.shared.knownCount(among: words)
+                let mastered = VocabProgressStore.shared.masteredCount(among: words)
                 Button {
-                    path.append(VocabRoute.vocabPractice(words: words.shuffled(), title: type?.displayName ?? "Tüm Kelimeler"))
+                    path.append(VocabRoute.vocabPractice(words: words, title: type?.displayName ?? "Tüm Kelimeler"))
                 } label: {
                     HStack {
                         VStack(alignment: .leading, spacing: 4) {
                             Text(type?.displayName ?? "Tüm Kelimeler")
                                 .font(.body)
                                 .foregroundStyle(.primary)
-                            Text("\(known)/\(words.count) öğrenildi")
+                            Text("\(mastered)/\(words.count) ezberlendi")
                                 .font(.caption)
                                 .foregroundStyle(.secondary)
                         }
