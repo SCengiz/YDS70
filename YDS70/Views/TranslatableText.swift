@@ -8,6 +8,7 @@ struct TranslatableText: View {
     var font: Font = .body
 
     @State private var configuration: TranslationSession.Configuration?
+    @State private var session: TranslationSession?
     @State private var pressedWordKey: Int?
     @State private var translation: String?
 
@@ -22,16 +23,14 @@ struct TranslatableText: View {
             }
         }
         .translationTask(configuration) { session in
-            guard let pressedWordKey, pressedWordKey < words.count else { return }
-            let cleaned = cleanWord(words[pressedWordKey])
-            guard !cleaned.isEmpty else { return }
-            do {
-                let response = try await session.translate(cleaned)
-                if self.pressedWordKey == pressedWordKey {
-                    translation = response.targetText
-                }
-            } catch {
-                translation = nil
+            self.session = session
+        }
+        .onAppear {
+            if configuration == nil {
+                configuration = TranslationSession.Configuration(
+                    source: Locale.Language(identifier: "en"),
+                    target: Locale.Language(identifier: "tr")
+                )
             }
         }
     }
@@ -59,7 +58,8 @@ struct TranslatableText: View {
                         if pressedWordKey != key {
                             pressedWordKey = key
                             translation = nil
-                            requestTranslation()
+                            let cleaned = cleanWord(word)
+                            Task { await performTranslation(of: cleaned, for: key) }
                         }
                     }
                     .onEnded { _ in
@@ -69,18 +69,21 @@ struct TranslatableText: View {
             )
     }
 
-    private func cleanWord(_ word: String) -> String {
-        word.trimmingCharacters(in: CharacterSet.punctuationCharacters)
+    private func performTranslation(of word: String, for key: Int) async {
+        guard !word.isEmpty, let session else { return }
+        do {
+            let response = try await session.translate(word)
+            if pressedWordKey == key {
+                translation = response.targetText
+            }
+        } catch {
+            if pressedWordKey == key {
+                translation = "?"
+            }
+        }
     }
 
-    private func requestTranslation() {
-        if configuration == nil {
-            configuration = TranslationSession.Configuration(
-                source: Locale.Language(identifier: "en"),
-                target: Locale.Language(identifier: "tr")
-            )
-        } else {
-            configuration?.invalidate()
-        }
+    private func cleanWord(_ word: String) -> String {
+        word.trimmingCharacters(in: CharacterSet.punctuationCharacters)
     }
 }
