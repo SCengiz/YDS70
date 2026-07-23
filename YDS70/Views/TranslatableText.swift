@@ -52,21 +52,18 @@ struct TranslatableText: View {
                 }
             }
             .contentShape(Rectangle())
-            .gesture(
-                DragGesture(minimumDistance: 0)
-                    .onChanged { _ in
-                        if pressedWordKey != key {
-                            pressedWordKey = key
-                            translation = nil
-                            let cleaned = cleanWord(word)
-                            Task { await performTranslation(of: cleaned, for: key) }
-                        }
-                    }
-                    .onEnded { _ in
-                        pressedWordKey = nil
-                        translation = nil
-                    }
-            )
+            .onLongPressGesture(minimumDuration: 0.15, maximumDistance: 30, pressing: { isPressing in
+                if isPressing {
+                    guard pressedWordKey != key else { return }
+                    pressedWordKey = key
+                    translation = nil
+                    let cleaned = cleanWord(word)
+                    Task { await performTranslation(of: cleaned, for: key) }
+                } else if pressedWordKey == key {
+                    pressedWordKey = nil
+                    translation = nil
+                }
+            }, perform: {})
     }
 
     private func performTranslation(of word: String, for key: Int) async {
