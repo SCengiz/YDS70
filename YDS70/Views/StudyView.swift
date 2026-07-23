@@ -69,6 +69,11 @@ struct StudyView: View {
                     }
                 }
             }
+            .toolbar {
+                ToolbarItem(placement: .navigationBarTrailing) {
+                    Color.clear.frame(width: 1, height: 1)
+                }
+            }
             .navigationDestination(for: StudyRoute.self) { route in
                 switch route {
                 case .topicDetail(let category):
