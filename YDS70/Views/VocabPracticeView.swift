@@ -63,22 +63,33 @@ struct VocabPracticeView: View {
     }
 
     private func quizBody(for word: VocabWord) -> some View {
-        ScrollView {
+        let color = WordTypeStyle.color(for: word.wordType)
+        return ScrollView {
             VStack(spacing: 24) {
                 Text("\(masteredCount)/\(words.count) ezberlendi")
                     .font(.caption)
                     .foregroundStyle(.secondary)
                     .padding(.top, 16)
 
-                Text(word.term)
-                    .font(.system(size: 34, weight: .bold))
-                    .multilineTextAlignment(.center)
-                    .padding(.top, 24)
-                    .padding(.horizontal)
+                VStack(spacing: 12) {
+                    Image(systemName: WordTypeStyle.icon(for: word.wordType))
+                        .font(.system(size: 22))
+                        .foregroundStyle(.white)
+                        .frame(width: 48, height: 48)
+                        .background(color.gradient, in: Circle())
+                    Text(word.term)
+                        .font(.system(size: 32, weight: .bold))
+                        .multilineTextAlignment(.center)
+                }
+                .padding(.vertical, 28)
+                .padding(.horizontal)
+                .frame(maxWidth: .infinity)
+                .background(color.opacity(0.1), in: RoundedRectangle(cornerRadius: 20))
+                .padding(.horizontal)
 
                 VStack(spacing: 12) {
                     ForEach(Array(options.enumerated()), id: \.element.id) { index, option in
-                        optionButton(index: index, option: option, correctID: word.id)
+                        optionButton(index: index, option: option, correctID: word.id, color: color)
                     }
                 }
                 .padding(.horizontal)
@@ -90,7 +101,7 @@ struct VocabPracticeView: View {
                         Text("Sonraki Kelime")
                             .frame(maxWidth: .infinity)
                             .padding()
-                            .background(Color.accentColor)
+                            .background(color.gradient)
                             .foregroundStyle(.white)
                             .clipShape(RoundedRectangle(cornerRadius: 12))
                     }
@@ -103,7 +114,7 @@ struct VocabPracticeView: View {
         .id(word.id)
     }
 
-    private func optionButton(index: Int, option: VocabWord, correctID: String) -> some View {
+    private func optionButton(index: Int, option: VocabWord, correctID: String, color: Color) -> some View {
         let isSelected = selectedIndex == index
         let isCorrectOption = option.id == correctID
 

@@ -9,16 +9,32 @@ struct ExamReviewView: View {
         questions.indices.filter { selections[$0] == questions[$0].correctIndex }.count
     }
 
+    private var percentage: Double {
+        questions.isEmpty ? 0 : Double(correctCount) / Double(questions.count)
+    }
+
     var body: some View {
         ScrollView {
             VStack(spacing: 24) {
-                VStack(spacing: 8) {
-                    Text("\(correctCount)/\(questions.count)")
-                        .font(.system(size: 48, weight: .bold))
-                    Text("Doğru Cevap")
-                        .font(.subheadline)
-                        .foregroundStyle(.secondary)
+                ZStack {
+                    Circle()
+                        .stroke(Color(.secondarySystemBackground), lineWidth: 14)
+                    Circle()
+                        .trim(from: 0, to: percentage)
+                        .stroke(
+                            LinearGradient(colors: [.indigo, .purple], startPoint: .topLeading, endPoint: .bottomTrailing),
+                            style: StrokeStyle(lineWidth: 14, lineCap: .round)
+                        )
+                        .rotationEffect(.degrees(-90))
+                    VStack(spacing: 2) {
+                        Text("\(correctCount)/\(questions.count)")
+                            .font(.system(size: 34, weight: .bold))
+                        Text("Doğru Cevap")
+                            .font(.caption)
+                            .foregroundStyle(.secondary)
+                    }
                 }
+                .frame(width: 160, height: 160)
                 .padding(.top, 32)
 
                 VStack(spacing: 16) {
@@ -32,7 +48,7 @@ struct ExamReviewView: View {
                     Text("Ana Sayfaya Dön")
                         .frame(maxWidth: .infinity)
                         .padding()
-                        .background(Color.accentColor)
+                        .background(LinearGradient(colors: [.indigo, .purple], startPoint: .leading, endPoint: .trailing))
                         .foregroundStyle(.white)
                         .clipShape(RoundedRectangle(cornerRadius: 12))
                 }
@@ -50,9 +66,9 @@ struct ExamReviewView: View {
         let selected = selections[index]
         let isCorrect = selected == question.correctIndex
         return VStack(alignment: .leading, spacing: 8) {
-            Text("Soru \(index + 1) · \(question.category.rawValue)")
+            Label("Soru \(index + 1) · \(question.category.rawValue)", systemImage: CategoryStyle.icon(for: question.category))
                 .font(.caption)
-                .foregroundStyle(.secondary)
+                .foregroundStyle(CategoryStyle.color(for: question.category))
             Text(question.promptText)
                 .font(.subheadline)
             if let selected {

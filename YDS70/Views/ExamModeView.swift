@@ -30,9 +30,22 @@ struct ExamModeView: View {
     private var examBody: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: 20) {
-                Text("Soru \(currentIndex + 1)/\(questions.count) · \(currentQuestion.category.rawValue)")
-                    .font(.caption)
-                    .foregroundStyle(.secondary)
+                VStack(alignment: .leading, spacing: 8) {
+                    HStack {
+                        Label(currentQuestion.category.rawValue, systemImage: CategoryStyle.icon(for: currentQuestion.category))
+                            .font(.caption.weight(.semibold))
+                            .padding(.horizontal, 10)
+                            .padding(.vertical, 4)
+                            .background(CategoryStyle.color(for: currentQuestion.category).opacity(0.15), in: Capsule())
+                            .foregroundStyle(CategoryStyle.color(for: currentQuestion.category))
+                        Spacer()
+                        Text("\(currentIndex + 1)/\(questions.count)")
+                            .font(.caption)
+                            .foregroundStyle(.secondary)
+                    }
+                    ProgressView(value: Double(currentIndex + 1), total: Double(questions.count))
+                        .tint(CategoryStyle.color(for: currentQuestion.category))
+                }
 
                 if let passage = currentQuestion.passage {
                     TranslatableText(text: passage, font: .callout)
@@ -73,7 +86,7 @@ struct ExamModeView: View {
                         Text(currentIndex == questions.count - 1 ? "Sınavı Bitir" : "Sonraki")
                             .frame(maxWidth: .infinity)
                             .padding()
-                            .background(Color.accentColor)
+                            .background(CategoryStyle.color(for: currentQuestion.category).gradient)
                             .foregroundStyle(.white)
                             .clipShape(RoundedRectangle(cornerRadius: 12))
                     }
@@ -87,6 +100,7 @@ struct ExamModeView: View {
 
     private func optionButton(index: Int, option: String) -> some View {
         let isSelected = selections[currentIndex] == index
+        let color = CategoryStyle.color(for: currentQuestion.category)
         return Button {
             selections[currentIndex] = index
         } label: {
@@ -95,12 +109,12 @@ struct ExamModeView: View {
                 Spacer()
                 if isSelected {
                     Image(systemName: "checkmark.circle.fill")
-                        .foregroundStyle(Color.accentColor)
+                        .foregroundStyle(color)
                 }
             }
             .padding()
             .background(
-                isSelected ? Color.accentColor.opacity(0.15) : Color(.secondarySystemBackground),
+                isSelected ? color.opacity(0.15) : Color(.secondarySystemBackground),
                 in: RoundedRectangle(cornerRadius: 12)
             )
             .foregroundStyle(.primary)

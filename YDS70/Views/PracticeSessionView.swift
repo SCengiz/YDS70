@@ -38,9 +38,22 @@ struct PracticeSessionView: View {
     private var quizBody: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: 20) {
-                Text("Soru \(currentIndex + 1)/\(questions.count) · \(currentQuestion.category.rawValue)")
-                    .font(.caption)
-                    .foregroundStyle(.secondary)
+                VStack(alignment: .leading, spacing: 8) {
+                    HStack {
+                        Label(currentQuestion.category.rawValue, systemImage: CategoryStyle.icon(for: currentQuestion.category))
+                            .font(.caption.weight(.semibold))
+                            .padding(.horizontal, 10)
+                            .padding(.vertical, 4)
+                            .background(CategoryStyle.color(for: currentQuestion.category).opacity(0.15), in: Capsule())
+                            .foregroundStyle(CategoryStyle.color(for: currentQuestion.category))
+                        Spacer()
+                        Text("\(currentIndex + 1)/\(questions.count)")
+                            .font(.caption)
+                            .foregroundStyle(.secondary)
+                    }
+                    ProgressView(value: Double(currentIndex + 1), total: Double(questions.count))
+                        .tint(CategoryStyle.color(for: currentQuestion.category))
+                }
 
                 if let passage = currentQuestion.passage {
                     TranslatableText(text: passage, font: .callout)
@@ -70,10 +83,15 @@ struct PracticeSessionView: View {
                     Text(isAnswerRevealed ? (currentIndex == questions.count - 1 ? "Sonucu Gör" : "Sonraki Soru") : "Cevabı Onayla")
                         .frame(maxWidth: .infinity)
                         .padding()
-                        .background(selectedOption == nil ? Color.gray.opacity(0.3) : Color.accentColor)
+                        .background(
+                            selectedOption == nil
+                                ? AnyShapeStyle(Color.gray.opacity(0.3))
+                                : AnyShapeStyle(CategoryStyle.color(for: currentQuestion.category).gradient)
+                        )
                         .foregroundStyle(.white)
                         .clipShape(RoundedRectangle(cornerRadius: 12))
                 }
+                .buttonStyle(.plain)
                 .disabled(selectedOption == nil)
             }
             .padding()
@@ -87,7 +105,7 @@ struct PracticeSessionView: View {
 
         let backgroundColor: Color = {
             guard isAnswerRevealed else {
-                return isSelected ? Color.accentColor.opacity(0.15) : Color(.secondarySystemBackground)
+                return isSelected ? CategoryStyle.color(for: currentQuestion.category).opacity(0.15) : Color(.secondarySystemBackground)
             }
             if isCorrect { return Color.green.opacity(0.25) }
             if isSelected { return Color.red.opacity(0.25) }

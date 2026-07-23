@@ -10,12 +10,12 @@ struct MainTabView: View {
 
             EzberleView()
                 .tabItem {
-                    Label("Ezberle", systemImage: "text.book.closed.fill")
+                    Label("Ezberle", systemImage: "brain.head.profile")
                 }
 
             SolveView()
                 .tabItem {
-                    Label("Çöz", systemImage: "checkmark.circle.fill")
+                    Label("Çöz", systemImage: "pencil.and.checkmark")
                 }
         }
     }
