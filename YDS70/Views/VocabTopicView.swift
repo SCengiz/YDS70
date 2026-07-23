@@ -42,6 +42,35 @@ struct VocabTopicView: View {
                 .buttonStyle(.plain)
                 .disabled(words.isEmpty)
             }
+
+            Section {
+                let totalMastered = VocabBank.shared.allWords.filter { VocabProgressStore.shared.isMastered($0.id) }.count
+                Button {
+                    path.append(VocabRoute.masteredWords)
+                } label: {
+                    HStack(spacing: 14) {
+                        Image(systemName: "checkmark.seal.fill")
+                            .font(.system(size: 16, weight: .semibold))
+                            .foregroundStyle(.white)
+                            .frame(width: 36, height: 36)
+                            .background(Color.green.gradient, in: RoundedRectangle(cornerRadius: 10))
+                        VStack(alignment: .leading, spacing: 2) {
+                            Text("Ezberlenen Kelimeler")
+                                .font(.body.weight(.medium))
+                                .foregroundStyle(.primary)
+                            Text("\(totalMastered) kelime")
+                                .font(.caption)
+                                .foregroundStyle(.secondary)
+                        }
+                        Spacer()
+                        Image(systemName: "chevron.right")
+                            .font(.caption)
+                            .foregroundStyle(.tertiary)
+                    }
+                    .padding(.vertical, 2)
+                }
+                .buttonStyle(.plain)
+            }
         }
         .navigationTitle("Kelime Ezberle")
         .navigationBarTitleDisplayMode(.inline)

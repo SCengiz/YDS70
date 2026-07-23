@@ -16,6 +16,7 @@
 		2D1F8384CB6F4D88B94FE7F6 /* QuestionBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC50E8BE1185E2C3CF3AD9AD /* QuestionBank.swift */; };
 		32E33A4477ECD237C23D7735 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84BED74718A08FD596045AB0 /* Assets.xcassets */; };
 		3B59F15CECA90E46CA9BDAE3 /* SolveRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0103CED90FF60BE4EEF6BD22 /* SolveRoute.swift */; };
+		3B7E400A0948560842F28708 /* MasteredWordsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027A214636D22C135437E16D /* MasteredWordsView.swift */; };
 		437CBAA9D0A4773FCBA552B9 /* CategoryStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13B56E190D83E09A689BA88A /* CategoryStyle.swift */; };
 		445BEA1B0033C7CD36E1809A /* StudyRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 973EA958AA393EE1666CB57D /* StudyRoute.swift */; };
 		4A7B16E6A49768E3436C7939 /* YDS70App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FA6A522E3B5B8518EBD336A /* YDS70App.swift */; };
@@ -47,6 +48,7 @@
 
 /* Begin PBXFileReference section */
 		0103CED90FF60BE4EEF6BD22 /* SolveRoute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolveRoute.swift; sourceTree = "<group>"; };
+		027A214636D22C135437E16D /* MasteredWordsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasteredWordsView.swift; sourceTree = "<group>"; };
 		093C9CD572039F7EDD6ED14C /* VocabImporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabImporter.swift; sourceTree = "<group>"; };
 		130FB3D6810633464658955D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		13B56E190D83E09A689BA88A /* CategoryStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryStyle.swift; sourceTree = "<group>"; };
@@ -141,6 +143,7 @@
 				6BCE6E530AF8559D1729EEC7 /* EzberleView.swift */,
 				555A10416C109E6D061CC89D /* FlowLayout.swift */,
 				6C6759AB1054123E6AE17519 /* MainTabView.swift */,
+				027A214636D22C135437E16D /* MasteredWordsView.swift */,
 				738DE2178D75247BC66308D9 /* PracticeSessionView.swift */,
 				BA2EF5FD2577BB23A10B5C1F /* QuestionImportView.swift */,
 				66B58BFC74F597291D062E2E /* ResultView.swift */,
@@ -252,6 +255,7 @@
 				C36E5557FF415CED35E117B3 /* EzberleView.swift in Sources */,
 				F4A0D81A98EDAE82BFE69ABB /* FlowLayout.swift in Sources */,
 				9425EB9C5A576C9117F10690 /* MainTabView.swift in Sources */,
+				3B7E400A0948560842F28708 /* MasteredWordsView.swift in Sources */,
 				D3417A3378C233FD5B075C52 /* PracticeSessionView.swift in Sources */,
 				A5D122BAD7D0138040462560 /* Question.swift in Sources */,
 				2D1F8384CB6F4D88B94FE7F6 /* QuestionBank.swift in Sources */,

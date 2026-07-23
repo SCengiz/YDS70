@@ -10,6 +10,8 @@ struct EzberleView: View {
                     switch route {
                     case .vocabPractice(let words, let title):
                         VocabPracticeView(words: words, title: title)
+                    case .masteredWords:
+                        MasteredWordsView()
                     }
                 }
         }

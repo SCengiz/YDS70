@@ -1,20 +1,18 @@
 import SwiftUI
-import PhotosUI
 import UniformTypeIdentifiers
 
 struct QuestionImportView: View {
     private enum Stage {
-        case pickingMethod
+        case start
         case reviewing
     }
 
     @Environment(\.dismiss) private var dismiss
 
-    @State private var stage: Stage = .pickingMethod
+    @State private var stage: Stage = .start
     @State private var pastedText: String = ""
     @State private var isProcessing = false
     @State private var isShowingFileImporter = false
-    @State private var selectedPhotoItem: PhotosPickerItem?
     @State private var resultMessage: String?
     @State private var skippedBlocks: [String] = []
 
@@ -22,8 +20,8 @@ struct QuestionImportView: View {
         NavigationStack {
             Group {
                 switch stage {
-                case .pickingMethod:
-                    methodPicker
+                case .start:
+                    startScreen
                 case .reviewing:
                     reviewScreen
                 }
@@ -36,7 +34,7 @@ struct QuestionImportView: View {
                         Button("Geri") {
                             resultMessage = nil
                             skippedBlocks = []
-                            stage = .pickingMethod
+                            stage = .start
                         }
                     } else {
                         Button("Kapat") { dismiss() }
@@ -51,10 +49,6 @@ struct QuestionImportView: View {
                     resultMessage = "Dosya okunamadı."
                 }
             }
-            .onChange(of: selectedPhotoItem) { _, newItem in
-                guard let newItem else { return }
-                Task { await loadImage(from: newItem) }
-            }
             .overlay {
                 if isProcessing {
                     ProgressView("İşleniyor…")
@@ -65,41 +59,39 @@ struct QuestionImportView: View {
         }
     }
 
-    // MARK: - Method picker
+    // MARK: - Start screen
 
-    private var methodPicker: some View {
+    private var startScreen: some View {
         VStack(spacing: 16) {
-            Text("Kendi hazırladığın/derlediğin soruları nasıl eklemek istersin?")
+            Text("Kendi hazırladığın/derlediğin soruları içeren bir PDF yükle.")
                 .font(.subheadline)
                 .foregroundStyle(.secondary)
                 .padding(.top, 8)
+                .padding(.horizontal)
 
-            methodCard(
-                icon: "text.alignleft",
-                title: "Metin ile Yükle",
-                subtitle: "Soruları yapıştır",
-                colors: [.blue, .indigo]
-            ) {
-                pastedText = ""
-                stage = .reviewing
-            }
-
-            methodCard(
-                icon: "doc.badge.plus",
-                title: "PDF Yükle",
-                subtitle: "Bir PDF dosyası seç",
-                colors: [.orange, .pink]
-            ) {
+            Button {
                 isShowingFileImporter = true
-            }
-
-            PhotosPicker(selection: $selectedPhotoItem, matching: .images) {
-                methodCardLabel(
-                    icon: "photo.badge.plus",
-                    title: "Görsel ile Yükle",
-                    subtitle: "Bir soru sayfası ekran görüntüsü seç",
-                    colors: [.green, .teal]
-                )
+            } label: {
+                HStack(spacing: 14) {
+                    Image(systemName: "doc.badge.plus")
+                        .font(.system(size: 20, weight: .semibold))
+                        .foregroundStyle(.white)
+                        .frame(width: 46, height: 46)
+                        .background(
+                            LinearGradient(colors: [.orange, .pink], startPoint: .topLeading, endPoint: .bottomTrailing),
+                            in: RoundedRectangle(cornerRadius: 14)
+                        )
+                    VStack(alignment: .leading, spacing: 4) {
+                        Text("PDF Yükle").font(.body.weight(.semibold))
+                        Text("Bir PDF dosyası seç").font(.caption).foregroundStyle(.secondary)
+                    }
+                    Spacer()
+                    Image(systemName: "chevron.right")
+                        .font(.caption)
+                        .foregroundStyle(.tertiary)
+                }
+                .padding()
+                .background(Color(.secondarySystemBackground), in: RoundedRectangle(cornerRadius: 16))
             }
             .buttonStyle(.plain)
             .padding(.horizontal)
@@ -107,7 +99,7 @@ struct QuestionImportView: View {
             VStack(alignment: .leading, spacing: 6) {
                 Text("Beklenen biçim")
                     .font(.caption.weight(.semibold))
-                Text("1. Soru metni...\nA) seçenek\nB) seçenek\nC) seçenek\nDoğru Cevap: B\n\nya da sonda:\nCEVAP ANAHTARI\n1) B")
+                Text("1. Soru metni...\nA) seçenek\nB) seçenek\nC) seçenek\n...\n\nCEVAP ANAHTARI\n1) B\n2) A\n...")
                     .font(.caption2.monospaced())
                     .foregroundStyle(.secondary)
             }
@@ -121,42 +113,11 @@ struct QuestionImportView: View {
         .padding(.top)
     }
 
-    private func methodCard(icon: String, title: String, subtitle: String, colors: [Color], action: @escaping () -> Void) -> some View {
-        Button(action: action) {
-            methodCardLabel(icon: icon, title: title, subtitle: subtitle, colors: colors)
-        }
-        .buttonStyle(.plain)
-        .padding(.horizontal)
-    }
-
-    private func methodCardLabel(icon: String, title: String, subtitle: String, colors: [Color]) -> some View {
-        HStack(spacing: 14) {
-            Image(systemName: icon)
-                .font(.system(size: 20, weight: .semibold))
-                .foregroundStyle(.white)
-                .frame(width: 46, height: 46)
-                .background(
-                    LinearGradient(colors: colors, startPoint: .topLeading, endPoint: .bottomTrailing),
-                    in: RoundedRectangle(cornerRadius: 14)
-                )
-            VStack(alignment: .leading, spacing: 4) {
-                Text(title).font(.body.weight(.semibold))
-                Text(subtitle).font(.caption).foregroundStyle(.secondary)
-            }
-            Spacer()
-            Image(systemName: "chevron.right")
-                .font(.caption)
-                .foregroundStyle(.tertiary)
-        }
-        .padding()
-        .background(Color(.secondarySystemBackground), in: RoundedRectangle(cornerRadius: 16))
-    }
-
     // MARK: - Review screen
 
     private var reviewScreen: some View {
         VStack(alignment: .leading, spacing: 16) {
-            Text("Çıkarılan metni kontrol et, gerekirse düzelt. Her soru bir numarayla başlamalı, seçenekler A) B) C)... ile, doğru cevap \"Doğru Cevap: B\" satırıyla ya da sonda CEVAP ANAHTARI listesiyle belirtilmeli.")
+            Text("Çıkarılan metni kontrol et, gerekirse düzelt. Her soru bir numarayla başlamalı, seçenekler A) B) C)... ile, doğru cevaplar en sonda CEVAP ANAHTARI listesiyle belirtilmeli.")
                 .font(.caption)
                 .foregroundStyle(.secondary)
                 .padding(.horizontal)
@@ -234,29 +195,6 @@ struct QuestionImportView: View {
             skippedBlocks = []
             stage = .reviewing
         }
-    }
-
-    private func loadImage(from item: PhotosPickerItem) async {
-        isProcessing = true
-        defer { isProcessing = false }
-
-        guard let data = try? await item.loadTransferable(type: Data.self),
-              let uiImage = UIImage(data: data) else {
-            pastedText = ""
-            resultMessage = "Görsel okunamadı."
-            skippedBlocks = []
-            stage = .reviewing
-            return
-        }
-
-        if let text = await DocumentTextExtractor.extractText(fromImage: uiImage) {
-            pastedText = text
-        } else {
-            pastedText = ""
-            resultMessage = "Görselden metin okunamadı."
-        }
-        skippedBlocks = []
-        stage = .reviewing
     }
 
     private func processImport() {
