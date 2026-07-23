@@ -2,7 +2,7 @@ name: YDS70
 options:
   bundleIdPrefix: com.soraycengiz
   deploymentTarget:
-    iOS: "17.0"
+    iOS: "18.0"
 targets:
   YDS70:
     type: application

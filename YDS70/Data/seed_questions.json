@@ -5,7 +5,13 @@
     "category": "Kelime ve Phrasal Verb",
     "passage": null,
     "promptText": "The government has decided to ______ new regulations to reduce carbon emissions from factories.",
-    "options": ["abandon", "impose", "neglect", "postpone", "dismiss"],
+    "options": [
+      "abandon",
+      "impose",
+      "neglect",
+      "postpone",
+      "dismiss"
+    ],
     "correctIndex": 1,
     "explanation": "\"impose\" bir kuralı/yükümlülüğü yürürlüğe koymak anlamına gelir ve cümlenin anlamına uygun düşen kelimedir.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -16,7 +22,13 @@
     "category": "Kelime ve Phrasal Verb",
     "passage": null,
     "promptText": "Despite the heavy traffic, she managed to catch ______ with her colleagues who had left the office earlier.",
-    "options": ["up", "on", "off", "over", "through"],
+    "options": [
+      "up",
+      "on",
+      "off",
+      "over",
+      "through"
+    ],
     "correctIndex": 0,
     "explanation": "\"catch up with\" = birine yetişmek/ona ulaşmak anlamındaki phrasal verb.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -27,7 +39,13 @@
     "category": "Kelime ve Phrasal Verb",
     "passage": null,
     "promptText": "The committee will ______ the proposal thoroughly before making a final decision.",
-    "options": ["overlook", "scrutinize", "dismiss", "neglect", "undermine"],
+    "options": [
+      "overlook",
+      "scrutinize",
+      "dismiss",
+      "neglect",
+      "undermine"
+    ],
     "correctIndex": 1,
     "explanation": "\"scrutinize\" = dikkatle incelemek; cümlenin bağlamına uygun düşen kelimedir.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -38,7 +56,13 @@
     "category": "Kelime ve Phrasal Verb",
     "passage": null,
     "promptText": "He tends to put ______ important tasks until the very last minute, which often causes him stress.",
-    "options": ["off", "up", "down", "away", "through"],
+    "options": [
+      "off",
+      "up",
+      "down",
+      "away",
+      "through"
+    ],
     "correctIndex": 0,
     "explanation": "\"put off\" = ertelemek anlamındaki phrasal verb.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -49,7 +73,13 @@
     "category": "Kelime ve Phrasal Verb",
     "passage": null,
     "promptText": "The new policy aims to ______ the gap between the rich and the poor.",
-    "options": ["widen", "narrow", "broaden", "enlarge", "expand"],
+    "options": [
+      "widen",
+      "narrow",
+      "broaden",
+      "enlarge",
+      "expand"
+    ],
     "correctIndex": 1,
     "explanation": "\"narrow the gap\" kalıp ifadesi, aradaki farkı azaltmak anlamına gelir.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -60,7 +90,13 @@
     "category": "Gramer",
     "passage": null,
     "promptText": "By the time the fire brigade arrived, the flames ______ most of the building.",
-    "options": ["destroyed", "had destroyed", "have destroyed", "were destroying", "destroy"],
+    "options": [
+      "destroyed",
+      "had destroyed",
+      "have destroyed",
+      "were destroying",
+      "destroy"
+    ],
     "correctIndex": 1,
     "explanation": "\"By the time\" ile birlikte, geçmişte başka bir eylemden önce tamamlanmış eylem için Past Perfect kullanılır.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -71,7 +107,13 @@
     "category": "Gramer",
     "passage": null,
     "promptText": "______ she had studied harder, she would have passed the exam.",
-    "options": ["If", "Unless", "Although", "Since", "While"],
+    "options": [
+      "If",
+      "Unless",
+      "Although",
+      "Since",
+      "While"
+    ],
     "correctIndex": 0,
     "explanation": "Üçüncü tip koşul cümlesi \"If + past perfect, would have + V3\" yapısını gerektirir.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -82,7 +124,13 @@
     "category": "Gramer",
     "passage": null,
     "promptText": "The report, ______ was published last week, has drawn considerable criticism.",
-    "options": ["that", "which", "who", "whom", "whose"],
+    "options": [
+      "that",
+      "which",
+      "who",
+      "whom",
+      "whose"
+    ],
     "correctIndex": 1,
     "explanation": "Virgülle ayrılmış (non-restrictive) ilgi cümleciklerinde \"that\" kullanılmaz, \"which\" tercih edilir.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -93,7 +141,13 @@
     "category": "Gramer",
     "passage": null,
     "promptText": "Not only ______ the deadline but also improved the overall quality of the report.",
-    "options": ["he met", "did he meet", "he did meet", "meeting he", "he meets"],
+    "options": [
+      "he met",
+      "did he meet",
+      "he did meet",
+      "meeting he",
+      "he meets"
+    ],
     "correctIndex": 1,
     "explanation": "Cümle başında \"Not only\" olduğunda devrik yapı (yardımcı fiil + özne) kullanılır.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -104,7 +158,13 @@
     "category": "Gramer",
     "passage": null,
     "promptText": "The bridge is currently ______ repaired due to structural damage caused by the storm.",
-    "options": ["being", "been", "be", "is", "was"],
+    "options": [
+      "being",
+      "been",
+      "be",
+      "is",
+      "was"
+    ],
     "correctIndex": 0,
     "explanation": "\"is currently being repaired\" pasif yapıda şimdiki zaman için \"being + V3\" kullanılır.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -115,7 +175,13 @@
     "category": "Cloze Test",
     "passage": "Urban green spaces play a crucial role in improving the quality of life in cities. They (1) ______ air pollution by absorbing carbon dioxide and releasing oxygen. Moreover, parks and gardens provide residents with areas (2) ______ they can relax and engage in physical activities. Studies have shown that access to green spaces is (3) ______ associated with lower stress levels and better mental health. However, as cities continue to expand, these valuable spaces are increasingly (4) ______ threat from construction projects. Therefore, urban planners must (5) ______ into account the long-term benefits of preserving green areas when designing future developments.",
     "promptText": "Boşluk (1)",
-    "options": ["reduce", "increase", "ignore", "create", "waste"],
+    "options": [
+      "reduce",
+      "increase",
+      "ignore",
+      "create",
+      "waste"
+    ],
     "correctIndex": 0,
     "explanation": "Yeşil alanlar hava kirliliğini azaltır (reduce); \"absorbing carbon dioxide\" ifadesi bunu destekler.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -126,7 +192,13 @@
     "category": "Cloze Test",
     "passage": "Urban green spaces play a crucial role in improving the quality of life in cities. They (1) ______ air pollution by absorbing carbon dioxide and releasing oxygen. Moreover, parks and gardens provide residents with areas (2) ______ they can relax and engage in physical activities. Studies have shown that access to green spaces is (3) ______ associated with lower stress levels and better mental health. However, as cities continue to expand, these valuable spaces are increasingly (4) ______ threat from construction projects. Therefore, urban planners must (5) ______ into account the long-term benefits of preserving green areas when designing future developments.",
     "promptText": "Boşluk (2)",
-    "options": ["which", "where", "that", "when", "whose"],
+    "options": [
+      "which",
+      "where",
+      "that",
+      "when",
+      "whose"
+    ],
     "correctIndex": 1,
     "explanation": "Yer belirten ilgi zamiri \"where\" kullanılır (\"areas where they can relax\").",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -137,7 +209,13 @@
     "category": "Cloze Test",
     "passage": "Urban green spaces play a crucial role in improving the quality of life in cities. They (1) ______ air pollution by absorbing carbon dioxide and releasing oxygen. Moreover, parks and gardens provide residents with areas (2) ______ they can relax and engage in physical activities. Studies have shown that access to green spaces is (3) ______ associated with lower stress levels and better mental health. However, as cities continue to expand, these valuable spaces are increasingly (4) ______ threat from construction projects. Therefore, urban planners must (5) ______ into account the long-term benefits of preserving green areas when designing future developments.",
     "promptText": "Boşluk (3)",
-    "options": ["strongly", "hardly", "rarely", "barely", "scarcely"],
+    "options": [
+      "strongly",
+      "hardly",
+      "rarely",
+      "barely",
+      "scarcely"
+    ],
     "correctIndex": 0,
     "explanation": "Olumlu ve güçlü bir ilişkiyi vurgulamak için \"strongly associated\" kalıbı kullanılır.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -148,7 +226,13 @@
     "category": "Cloze Test",
     "passage": "Urban green spaces play a crucial role in improving the quality of life in cities. They (1) ______ air pollution by absorbing carbon dioxide and releasing oxygen. Moreover, parks and gardens provide residents with areas (2) ______ they can relax and engage in physical activities. Studies have shown that access to green spaces is (3) ______ associated with lower stress levels and better mental health. However, as cities continue to expand, these valuable spaces are increasingly (4) ______ threat from construction projects. Therefore, urban planners must (5) ______ into account the long-term benefits of preserving green areas when designing future developments.",
     "promptText": "Boşluk (4)",
-    "options": ["under", "on", "at", "with", "for"],
+    "options": [
+      "under",
+      "on",
+      "at",
+      "with",
+      "for"
+    ],
     "correctIndex": 0,
     "explanation": "\"under threat from\" = bir şeyden tehdit altında olmak kalıp ifadesidir.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -159,7 +243,13 @@
     "category": "Cloze Test",
     "passage": "Urban green spaces play a crucial role in improving the quality of life in cities. They (1) ______ air pollution by absorbing carbon dioxide and releasing oxygen. Moreover, parks and gardens provide residents with areas (2) ______ they can relax and engage in physical activities. Studies have shown that access to green spaces is (3) ______ associated with lower stress levels and better mental health. However, as cities continue to expand, these valuable spaces are increasingly (4) ______ threat from construction projects. Therefore, urban planners must (5) ______ into account the long-term benefits of preserving green areas when designing future developments.",
     "promptText": "Boşluk (5)",
-    "options": ["take", "make", "put", "get", "bring"],
+    "options": [
+      "take",
+      "make",
+      "put",
+      "get",
+      "bring"
+    ],
     "correctIndex": 0,
     "explanation": "\"take into account\" = hesaba katmak kalıp fiilidir.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -680,7 +770,13 @@
     "category": "Anlam Bütünlüğünü Bozan Cümle",
     "passage": "(1) Honey has been used by humans for thousands of years, both as a food source and as a natural remedy. (2) It is produced by bees from the nectar of flowers through a process of regurgitation and enzymatic action. (3) Many ancient civilizations, including the Egyptians, valued honey for its medicinal properties. (4) Coffee, on the other hand, was first cultivated in Ethiopia before spreading to the Arabian Peninsula. (5) Modern research has confirmed that honey possesses antibacterial properties that can aid in wound healing.",
     "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
-    "options": ["(1)", "(2)", "(3)", "(4)", "(5)"],
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
     "correctIndex": 3,
     "explanation": "Parça bal hakkındadır; (4) numaralı cümle kahveden bahsettiği için konu bütünlüğünü bozmaktadır.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -691,7 +787,13 @@
     "category": "Anlam Bütünlüğünü Bozan Cümle",
     "passage": "(1) The invention of the printing press in the fifteenth century revolutionized the spread of information across Europe. (2) Prior to its invention, books had to be copied by hand, a process that was both time-consuming and expensive. (3) As a result, literacy rates began to rise as books became more accessible to the general public. (4) Many scholars argue that the printing press played a crucial role in the Renaissance and the Reformation. (5) Modern smartphones now allow people to access millions of books instantly through digital libraries.",
     "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
-    "options": ["(1)", "(2)", "(3)", "(4)", "(5)"],
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
     "correctIndex": 4,
     "explanation": "Parça matbaanın tarihsel etkisinden bahsederken, (5) numaralı cümle modern akıllı telefonlara atıfta bulunarak konudan sapmaktadır.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -702,7 +804,13 @@
     "category": "Anlam Bütünlüğünü Bozan Cümle",
     "passage": "(1) Coral reefs are among the most biologically diverse ecosystems on the planet, supporting roughly a quarter of all marine species. (2) They are formed by colonies of tiny organisms called coral polyps, which secrete calcium carbonate to build their skeletons. (3) Rising ocean temperatures have caused widespread coral bleaching, threatening the survival of these ecosystems. (4) Many coastal communities depend on coral reefs for fishing, tourism, and protection from storms. (5) Desert ecosystems, by contrast, have adapted to survive with minimal water and extreme temperature fluctuations.",
     "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
-    "options": ["(1)", "(2)", "(3)", "(4)", "(5)"],
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
     "correctIndex": 4,
     "explanation": "Parça mercan resifleri hakkındadır; (5) numaralı cümle çöl ekosistemlerinden bahsettiği için konu dışına çıkmaktadır.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -713,7 +821,13 @@
     "category": "Anlam Bütünlüğünü Bozan Cümle",
     "passage": "(1) The human brain contains approximately 86 billion neurons, each capable of forming thousands of connections with other neurons. (2) These connections, known as synapses, allow the brain to process information and store memories. (3) Neuroplasticity refers to the brain's ability to reorganize itself by forming new neural connections throughout life. (4) Regular physical exercise has been shown to promote neuroplasticity and improve cognitive function. (5) The stock market experienced significant volatility throughout the past decade due to various economic factors.",
     "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
-    "options": ["(1)", "(2)", "(3)", "(4)", "(5)"],
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
     "correctIndex": 4,
     "explanation": "Parça beyin ve nöroplastisite hakkındadır; (5) numaralı cümle borsadan bahsettiği için konu bütünlüğünü bozmaktadır.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
@@ -724,9 +838,1375 @@
     "category": "Anlam Bütünlüğünü Bozan Cümle",
     "passage": "(1) The Silk Road was an extensive network of trade routes that connected the East and West for centuries. (2) It facilitated not only the exchange of goods such as silk, spices, and precious metals, but also the spread of ideas, religions, and technologies. (3) Merchants traveling along the route faced numerous dangers, including bandits and harsh desert conditions. (4) Many historians consider the Silk Road to be one of the most significant factors in the cultural exchange between civilizations. (5) Volcanic eruptions can release large amounts of ash into the atmosphere, affecting global weather patterns.",
     "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
-    "options": ["(1)", "(2)", "(3)", "(4)", "(5)"],
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
     "correctIndex": 4,
     "explanation": "Parça İpek Yolu hakkındadır; (5) numaralı cümle volkanik patlamalardan bahsettiği için konudan tamamen kopmaktadır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "cloze2-1",
+    "examType": "both",
+    "category": "Cloze Test",
+    "passage": "Over the past few decades, plastic pollution has (1) ______ into one of the most pressing environmental issues worldwide. Every year, millions of tons of plastic waste end up in oceans, where they (2) ______ marine life and disrupt fragile ecosystems. Many governments have begun to introduce policies (3) ______ single-use plastics, such as bags and straws, in an effort to reduce this growing problem. Nevertheless, experts argue that voluntary measures alone are (4) ______ to solve the issue, and that stronger international cooperation is required. Until then, individual consumers are encouraged to (5) ______ reusable alternatives whenever possible.",
+    "promptText": "Boşluk (1)",
+    "options": [
+      "turned",
+      "faded",
+      "shrunk",
+      "declined",
+      "vanished"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"turn into\" = bir hâle dönüşmek anlamına gelen kalıp ifadedir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "cloze2-2",
+    "examType": "both",
+    "category": "Cloze Test",
+    "passage": "Over the past few decades, plastic pollution has (1) ______ into one of the most pressing environmental issues worldwide. Every year, millions of tons of plastic waste end up in oceans, where they (2) ______ marine life and disrupt fragile ecosystems. Many governments have begun to introduce policies (3) ______ single-use plastics, such as bags and straws, in an effort to reduce this growing problem. Nevertheless, experts argue that voluntary measures alone are (4) ______ to solve the issue, and that stronger international cooperation is required. Until then, individual consumers are encouraged to (5) ______ reusable alternatives whenever possible.",
+    "promptText": "Boşluk (2)",
+    "options": [
+      "endanger",
+      "support",
+      "sustain",
+      "preserve",
+      "strengthen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bağlamda plastik atıkların deniz canlılarına zarar verdiği (endanger) anlatılmaktadır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "cloze2-3",
+    "examType": "both",
+    "category": "Cloze Test",
+    "passage": "Over the past few decades, plastic pollution has (1) ______ into one of the most pressing environmental issues worldwide. Every year, millions of tons of plastic waste end up in oceans, where they (2) ______ marine life and disrupt fragile ecosystems. Many governments have begun to introduce policies (3) ______ single-use plastics, such as bags and straws, in an effort to reduce this growing problem. Nevertheless, experts argue that voluntary measures alone are (4) ______ to solve the issue, and that stronger international cooperation is required. Until then, individual consumers are encouraged to (5) ______ reusable alternatives whenever possible.",
+    "promptText": "Boşluk (3)",
+    "options": [
+      "banning",
+      "promoting",
+      "funding",
+      "ignoring",
+      "encouraging"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bağlam, tek kullanımlık plastiklerin yasaklanmasından (banning) bahsetmektedir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "cloze2-4",
+    "examType": "both",
+    "category": "Cloze Test",
+    "passage": "Over the past few decades, plastic pollution has (1) ______ into one of the most pressing environmental issues worldwide. Every year, millions of tons of plastic waste end up in oceans, where they (2) ______ marine life and disrupt fragile ecosystems. Many governments have begun to introduce policies (3) ______ single-use plastics, such as bags and straws, in an effort to reduce this growing problem. Nevertheless, experts argue that voluntary measures alone are (4) ______ to solve the issue, and that stronger international cooperation is required. Until then, individual consumers are encouraged to (5) ______ reusable alternatives whenever possible.",
+    "promptText": "Boşluk (4)",
+    "options": [
+      "insufficient",
+      "adequate",
+      "sufficient",
+      "effective",
+      "reliable"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"yetersiz\" anlamına gelen kelime bağlama uyar, çünkü daha güçlü uluslararası iş birliği gerektiği belirtilmektedir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "cloze2-5",
+    "examType": "both",
+    "category": "Cloze Test",
+    "passage": "Over the past few decades, plastic pollution has (1) ______ into one of the most pressing environmental issues worldwide. Every year, millions of tons of plastic waste end up in oceans, where they (2) ______ marine life and disrupt fragile ecosystems. Many governments have begun to introduce policies (3) ______ single-use plastics, such as bags and straws, in an effort to reduce this growing problem. Nevertheless, experts argue that voluntary measures alone are (4) ______ to solve the issue, and that stronger international cooperation is required. Until then, individual consumers are encouraged to (5) ______ reusable alternatives whenever possible.",
+    "promptText": "Boşluk (5)",
+    "options": [
+      "adopt",
+      "abandon",
+      "reject",
+      "dismiss",
+      "avoid"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"adopt\" = benimsemek; tekrar kullanılabilir alternatifleri benimsemek anlamında kullanılır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "cloze3-1",
+    "examType": "both",
+    "category": "Cloze Test",
+    "passage": "In recent years, online education platforms have (1) ______ dramatically in popularity, offering students access to courses from universities around the world. This shift has made higher education more (2) ______ to people who previously lacked the financial means or geographic proximity to attend traditional institutions. However, critics point out that online courses often (3) ______ the personal interaction and mentorship that in-person classes provide. Furthermore, students who lack strong self-discipline may find it difficult to (4) ______ motivated without a structured classroom environment. Despite these drawbacks, most educators agree that online learning will continue to (5) ______ a significant role in the future of education.",
+    "promptText": "Boşluk (1)",
+    "options": [
+      "grown",
+      "declined",
+      "vanished",
+      "shrunk",
+      "weakened"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"grow in popularity\" kalıp ifadesi kullanılmıştır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "cloze3-2",
+    "examType": "both",
+    "category": "Cloze Test",
+    "passage": "In recent years, online education platforms have (1) ______ dramatically in popularity, offering students access to courses from universities around the world. This shift has made higher education more (2) ______ to people who previously lacked the financial means or geographic proximity to attend traditional institutions. However, critics point out that online courses often (3) ______ the personal interaction and mentorship that in-person classes provide. Furthermore, students who lack strong self-discipline may find it difficult to (4) ______ motivated without a structured classroom environment. Despite these drawbacks, most educators agree that online learning will continue to (5) ______ a significant role in the future of education.",
+    "promptText": "Boşluk (2)",
+    "options": [
+      "accessible",
+      "restricted",
+      "exclusive",
+      "unavailable",
+      "irrelevant"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yüksek öğrenimin daha erişilebilir (accessible) hale geldiği anlatılmaktadır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "cloze3-3",
+    "examType": "both",
+    "category": "Cloze Test",
+    "passage": "In recent years, online education platforms have (1) ______ dramatically in popularity, offering students access to courses from universities around the world. This shift has made higher education more (2) ______ to people who previously lacked the financial means or geographic proximity to attend traditional institutions. However, critics point out that online courses often (3) ______ the personal interaction and mentorship that in-person classes provide. Furthermore, students who lack strong self-discipline may find it difficult to (4) ______ motivated without a structured classroom environment. Despite these drawbacks, most educators agree that online learning will continue to (5) ______ a significant role in the future of education.",
+    "promptText": "Boşluk (3)",
+    "options": [
+      "lack",
+      "provide",
+      "ensure",
+      "guarantee",
+      "supply"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eleştirmenler, online derslerin kişisel etkileşimden yoksun (lack) olduğunu belirtir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "cloze3-4",
+    "examType": "both",
+    "category": "Cloze Test",
+    "passage": "In recent years, online education platforms have (1) ______ dramatically in popularity, offering students access to courses from universities around the world. This shift has made higher education more (2) ______ to people who previously lacked the financial means or geographic proximity to attend traditional institutions. However, critics point out that online courses often (3) ______ the personal interaction and mentorship that in-person classes provide. Furthermore, students who lack strong self-discipline may find it difficult to (4) ______ motivated without a structured classroom environment. Despite these drawbacks, most educators agree that online learning will continue to (5) ______ a significant role in the future of education.",
+    "promptText": "Boşluk (4)",
+    "options": [
+      "remain",
+      "abandon",
+      "lose",
+      "forget",
+      "escape"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"remain motivated\" kalıp ifadesi kullanılmıştır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "cloze3-5",
+    "examType": "both",
+    "category": "Cloze Test",
+    "passage": "In recent years, online education platforms have (1) ______ dramatically in popularity, offering students access to courses from universities around the world. This shift has made higher education more (2) ______ to people who previously lacked the financial means or geographic proximity to attend traditional institutions. However, critics point out that online courses often (3) ______ the personal interaction and mentorship that in-person classes provide. Furthermore, students who lack strong self-discipline may find it difficult to (4) ______ motivated without a structured classroom environment. Despite these drawbacks, most educators agree that online learning will continue to (5) ______ a significant role in the future of education.",
+    "promptText": "Boşluk (5)",
+    "options": [
+      "play",
+      "lack",
+      "avoid",
+      "reject",
+      "abandon"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"play a role\" kalıp ifadesi kullanılmıştır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "sentcomp-6",
+    "examType": "both",
+    "category": "Cümle Tamamlama",
+    "passage": null,
+    "promptText": "Even though the negotiations had reached a deadlock, ______.",
+    "options": [
+      "both sides agreed to resume talks the following week",
+      "the factory was closed permanently",
+      "nobody remembered the original agreement",
+      "the workers went on strike immediately",
+      "the company doubled its profits"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Even though\" zıtlık bildirir; müzakerelerin çıkmaza girmesine rağmen görüşmelerin devam etmesi mantıksal olarak tutarlıdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "sentcomp-7",
+    "examType": "both",
+    "category": "Cümle Tamamlama",
+    "passage": null,
+    "promptText": "The city council decided to build a new library ______.",
+    "options": [
+      "so that residents would have better access to educational resources",
+      "because the old library had too many visitors",
+      "although nobody wanted to read books",
+      "despite having no budget for construction",
+      "even though the project was cancelled twice"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"so that\" amaç bildiren bağlaçtır; yeni kütüphanenin amacının eğitim kaynaklarına erişimi artırmak olması mantıklıdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "sentcomp-8",
+    "examType": "both",
+    "category": "Cümle Tamamlama",
+    "passage": null,
+    "promptText": "Scientists have long debated the origins of the universe, ______.",
+    "options": [
+      "and new discoveries continue to reshape our understanding",
+      "so the topic was banned from schools",
+      "because telescopes are too expensive",
+      "although stars do not exist",
+      "despite having found no evidence of space"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cümlenin devamı, bilim insanlarının bu konudaki tartışmasının sürdüğünü ve yeni buluşların anlayışı şekillendirdiğini belirtmelidir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "sentcomp-9",
+    "examType": "both",
+    "category": "Cümle Tamamlama",
+    "passage": null,
+    "promptText": "The airline canceled dozens of flights ______.",
+    "options": [
+      "due to the severe snowstorm that hit the region",
+      "in order to celebrate its anniversary",
+      "because ticket prices had increased",
+      "so that passengers could arrive earlier",
+      "although the weather was perfectly clear"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uçuşların iptal edilmesinin en mantıklı nedeni şiddetli bir kar fırtınasıdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "sentcomp-10",
+    "examType": "both",
+    "category": "Cümle Tamamlama",
+    "passage": null,
+    "promptText": "Although the medication reduced her symptoms significantly, ______.",
+    "options": [
+      "it also caused several unpleasant side effects",
+      "she stopped feeling any pain instantly forever",
+      "the doctors refused to prescribe it again",
+      "it was the cheapest option available",
+      "she had never taken any medicine before"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Although\" zıtlık ifade eder; belirtileri azaltmasına rağmen yan etkilerinin olması tutarlı bir devam sağlar.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "sentcomp-11",
+    "examType": "both",
+    "category": "Cümle Tamamlama",
+    "passage": null,
+    "promptText": "The company launched an aggressive marketing campaign ______.",
+    "options": [
+      "in an attempt to boost its declining sales",
+      "because its products were already best-sellers",
+      "although it had no customers left",
+      "so that competitors would benefit",
+      "despite having unlimited resources forever"
+    ],
+    "correctIndex": 0,
+    "explanation": "Saldırgan bir pazarlama kampanyasının amacı, düşen satışları artırmaktır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "sentcomp-12",
+    "examType": "both",
+    "category": "Cümle Tamamlama",
+    "passage": null,
+    "promptText": "Despite years of restoration efforts, ______.",
+    "options": [
+      "the ancient temple continues to deteriorate due to pollution",
+      "the building was completely destroyed overnight",
+      "nobody had ever visited the site",
+      "the government banned all tourists permanently",
+      "the temple was built only last year"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Despite\" zıtlık bildirir; yıllarca süren restorasyon çabalarına rağmen tapınağın hâlâ bozulmaya devam etmesi mantıklıdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "sentcomp-13",
+    "examType": "both",
+    "category": "Cümle Tamamlama",
+    "passage": null,
+    "promptText": "The researchers were surprised to find that ______.",
+    "options": [
+      "the two seemingly unrelated species shared a common ancestor",
+      "all animals on Earth are identical",
+      "the experiment had no results whatsoever",
+      "nobody was interested in their findings",
+      "the study had been conducted a century ago"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"surprised to find\" ifadesi beklenmedik bir sonucun keşfedildiğini gösterir; ilgisiz görünen türlerin ortak bir ataya sahip olması bu beklenmedikliği yansıtır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "sentcomp-14",
+    "examType": "both",
+    "category": "Cümle Tamamlama",
+    "passage": null,
+    "promptText": "The government introduced stricter emissions regulations ______.",
+    "options": [
+      "in order to combat the worsening air quality in major cities",
+      "because factories had reduced their production",
+      "so that pollution levels would rise further",
+      "although air quality had already improved completely",
+      "despite having no evidence of pollution"
+    ],
+    "correctIndex": 0,
+    "explanation": "Daha sıkı emisyon düzenlemelerinin amacı, kötüleşen hava kalitesiyle mücadele etmektir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "sentcomp-15",
+    "examType": "both",
+    "category": "Cümle Tamamlama",
+    "passage": null,
+    "promptText": "Although social media has connected people across the globe, ______.",
+    "options": [
+      "it has also been linked to increased feelings of isolation and anxiety",
+      "it has completely eliminated all forms of loneliness",
+      "nobody uses it anymore",
+      "it was invented over two centuries ago",
+      "governments have banned it worldwide"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Although\" zıtlık bildirir; küresel bağlantı kurmasına rağmen sosyal medyanın izolasyon ve kaygıyla ilişkilendirilmesi tutarlı bir devamdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "translation-6",
+    "examType": "both",
+    "category": "Çeviri",
+    "passage": null,
+    "promptText": "Uzmanlar, iklim değişikliğinin önümüzdeki on yılda tarımsal üretimi olumsuz etkileyeceğini öngörüyor.",
+    "options": [
+      "Experts predict that climate change will negatively affect agricultural production over the next decade.",
+      "Experts believe that agricultural production has already declined due to climate change.",
+      "Climate change has had no effect on agricultural production according to experts.",
+      "Experts predict that agricultural production will improve despite climate change.",
+      "The next decade will see no changes in agricultural production, experts claim."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"önümüzdeki on yılda olumsuz etkileyeceğini öngörüyor\" ifadesi A seçeneğiyle birebir örtüşüyor.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "translation-7",
+    "examType": "both",
+    "category": "Çeviri",
+    "passage": null,
+    "promptText": "Şirket, çalışanlarının verimliliğini artırmak amacıyla esnek çalışma saatleri uygulamasına geçti.",
+    "options": [
+      "The company switched to a flexible working hours policy in order to increase employee productivity.",
+      "The company abandoned flexible working hours because productivity had decreased.",
+      "Employees requested flexible working hours to reduce the company's productivity.",
+      "The company increased working hours to boost employee satisfaction.",
+      "Flexible working hours were banned due to low employee productivity."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"verimliliği artırmak amacıyla esnek çalışma saatlerine geçti\" ifadesi A seçeneğiyle örtüşüyor.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "translation-8",
+    "examType": "both",
+    "category": "Çeviri",
+    "passage": null,
+    "promptText": "Although the vaccine was developed in record time, extensive clinical trials were still conducted to ensure its safety.",
+    "options": [
+      "Aşı rekor sürede geliştirilmiş olmasına rağmen, güvenliğini sağlamak için kapsamlı klinik denemeler yine de yürütüldü.",
+      "Aşı geliştirilmediği için klinik denemeler hiç yapılmadı.",
+      "Klinik denemeler, aşının güvenli olmadığını kanıtladı.",
+      "Aşı rekor sürede geliştirildiği için hiçbir teste gerek duyulmadı.",
+      "Güvenlik endişeleri nedeniyle aşı projesi tamamen iptal edildi."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Although...record time...clinical trials were still conducted\" ifadesi A seçeneğiyle örtüşüyor.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "translation-9",
+    "examType": "both",
+    "category": "Çeviri",
+    "passage": null,
+    "promptText": "Bilim insanları, bu bulgunun tıp alanında çığır açıcı bir gelişme olabileceğini belirtiyor.",
+    "options": [
+      "Scientists state that this finding could be a groundbreaking development in the field of medicine.",
+      "Scientists have dismissed this finding as irrelevant to medicine.",
+      "This finding has already revolutionized the medical field completely.",
+      "Scientists doubt that this finding has any value for medicine.",
+      "The finding was rejected by the entire medical community."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"çığır açıcı bir gelişme olabileceğini belirtiyor\" ifadesi A seçeneğiyle örtüşüyor.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "translation-10",
+    "examType": "both",
+    "category": "Çeviri",
+    "passage": null,
+    "promptText": "The report concludes that without immediate action, the species could face extinction within a few decades.",
+    "options": [
+      "Rapor, acil önlem alınmazsa türün birkaç on yıl içinde nesli tükenme tehlikesiyle karşılaşabileceği sonucuna varıyor.",
+      "Rapora göre tür zaten birkaç on yıl önce yok olmuştur.",
+      "Acil önlemler sayesinde türün nesli tükenmekten kurtulmuştur.",
+      "Rapor, türün hiçbir tehlike altında olmadığını öne sürüyor.",
+      "Türün nesli önümüzdeki hafta tükenecektir."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"without immediate action...could face extinction within a few decades\" ifadesi A seçeneğiyle örtüşüyor.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "translation-11",
+    "examType": "both",
+    "category": "Çeviri",
+    "passage": null,
+    "promptText": "Yapılan araştırmalar, düzenli uyku düzeninin bağışıklık sistemini güçlendirdiğini göstermektedir.",
+    "options": [
+      "Research shows that a regular sleep pattern strengthens the immune system.",
+      "Research shows that sleep has no effect on the immune system.",
+      "Irregular sleep patterns have been proven to strengthen immunity.",
+      "Scientists have found no connection between sleep and health.",
+      "A regular sleep pattern weakens the immune system, research suggests."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"düzenli uyku düzeninin bağışıklık sistemini güçlendirdiği\" ifadesi A seçeneğiyle örtüşüyor.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "translation-12",
+    "examType": "both",
+    "category": "Çeviri",
+    "passage": null,
+    "promptText": "Despite widespread skepticism, the startup managed to secure funding from several major investors.",
+    "options": [
+      "Yaygın şüpheciliğe rağmen, girişim birkaç büyük yatırımcıdan finansman sağlamayı başardı.",
+      "Yaygın güven nedeniyle girişim hiçbir finansman bulamadı.",
+      "Yatırımcılar girişime hiçbir zaman güvenmediler ve finansman sağlamadılar.",
+      "Girişim, şüpheciliğe rağmen iflas etmek zorunda kaldı.",
+      "Büyük yatırımcılar girişimi tamamen görmezden geldi."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Despite widespread skepticism...managed to secure funding\" ifadesi A seçeneğiyle örtüşüyor.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "translation-13",
+    "examType": "both",
+    "category": "Çeviri",
+    "passage": null,
+    "promptText": "Yetkililer, artan trafik yoğunluğunu azaltmak için şehir merkezine araç girişini kısıtlamayı planlıyor.",
+    "options": [
+      "Authorities are planning to restrict vehicle access to the city center in order to reduce increasing traffic congestion.",
+      "Authorities have decided to allow more vehicles into the city center to ease congestion.",
+      "Traffic congestion has already disappeared from the city center.",
+      "The city center will be closed permanently due to traffic problems.",
+      "Vehicle access to the city center has been unrestricted for years."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"artan trafik yoğunluğunu azaltmak için araç girişini kısıtlamayı planlıyor\" ifadesi A seçeneğiyle örtüşüyor.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "translation-14",
+    "examType": "both",
+    "category": "Çeviri",
+    "passage": null,
+    "promptText": "The negotiations collapsed at the last minute, leaving both parties without an agreement.",
+    "options": [
+      "Müzakereler son anda çöktü ve her iki taraf da anlaşmasız kaldı.",
+      "Müzakereler başarıyla sonuçlandı ve her iki taraf da anlaştı.",
+      "Taraflar hiçbir zaman müzakereye başlamadılar.",
+      "Anlaşma, müzakerelerin başlamasından önce imzalanmıştı.",
+      "Müzakereler yıllar önce tamamlanmıştı."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"collapsed at the last minute...without an agreement\" ifadesi A seçeneğiyle örtüşüyor.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "translation-15",
+    "examType": "both",
+    "category": "Çeviri",
+    "passage": null,
+    "promptText": "Küresel tedarik zincirindeki aksaklıklar, birçok sektörde fiyatların artmasına neden oldu.",
+    "options": [
+      "Disruptions in the global supply chain have caused prices to rise in many sectors.",
+      "The global supply chain has functioned perfectly despite the pandemic.",
+      "Prices have fallen dramatically due to supply chain improvements.",
+      "Only one sector was affected by supply chain disruptions.",
+      "Supply chains have had no impact on prices in any sector."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"tedarik zincirindeki aksaklıklar...fiyatların artmasına neden oldu\" ifadesi A seçeneğiyle örtüşüyor.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paragraph2-1",
+    "examType": "both",
+    "category": "Paragraf",
+    "passage": "The concept of a four-day workweek has gained considerable attention in recent years, as companies across various industries experiment with reduced working hours. Proponents argue that a shorter workweek can lead to increased employee satisfaction, reduced burnout, and even higher overall productivity, since well-rested employees tend to work more efficiently during the hours they are present. Several trial programs conducted in different countries have reported positive results, with many participating companies choosing to make the policy permanent after the trial period ended. However, critics caution that a four-day workweek may not be feasible for all industries, particularly those requiring continuous operations such as healthcare and manufacturing. Additionally, some economists warn that reduced hours could lead to increased costs if companies need to hire additional staff to cover the same workload.",
+    "promptText": "According to the passage, what do proponents of the four-day workweek argue?",
+    "options": [
+      "It has no effect on employee well-being",
+      "It can increase employee satisfaction and productivity",
+      "It should only apply to healthcare workers",
+      "It always leads to reduced company profits",
+      "It has been rejected by all companies that tried it"
+    ],
+    "correctIndex": 1,
+    "explanation": "Metinde savunucuların, kısa çalışma haftasının çalışan memnuniyetini ve verimliliği artırabileceğini öne sürdüğü belirtilmektedir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paragraph2-2",
+    "examType": "both",
+    "category": "Paragraf",
+    "passage": "The concept of a four-day workweek has gained considerable attention in recent years, as companies across various industries experiment with reduced working hours. Proponents argue that a shorter workweek can lead to increased employee satisfaction, reduced burnout, and even higher overall productivity, since well-rested employees tend to work more efficiently during the hours they are present. Several trial programs conducted in different countries have reported positive results, with many participating companies choosing to make the policy permanent after the trial period ended. However, critics caution that a four-day workweek may not be feasible for all industries, particularly those requiring continuous operations such as healthcare and manufacturing. Additionally, some economists warn that reduced hours could lead to increased costs if companies need to hire additional staff to cover the same workload.",
+    "promptText": "What concern do critics raise about the four-day workweek?",
+    "options": [
+      "It is not suitable for industries requiring continuous operations",
+      "It has already been banned in most countries",
+      "It only benefits company executives",
+      "It eliminates the need for any employees",
+      "It has no impact on hiring costs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Metinde eleştirmenlerin, sürekli operasyon gerektiren sektörler için bu uygulamanın uygun olmayabileceğini belirttiği ifade edilmektedir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paragraph2-3",
+    "examType": "both",
+    "category": "Paragraf",
+    "passage": "The concept of a four-day workweek has gained considerable attention in recent years, as companies across various industries experiment with reduced working hours. Proponents argue that a shorter workweek can lead to increased employee satisfaction, reduced burnout, and even higher overall productivity, since well-rested employees tend to work more efficiently during the hours they are present. Several trial programs conducted in different countries have reported positive results, with many participating companies choosing to make the policy permanent after the trial period ended. However, critics caution that a four-day workweek may not be feasible for all industries, particularly those requiring continuous operations such as healthcare and manufacturing. Additionally, some economists warn that reduced hours could lead to increased costs if companies need to hire additional staff to cover the same workload.",
+    "promptText": "What happened after many trial programs ended, according to the passage?",
+    "options": [
+      "Most companies immediately abandoned the policy",
+      "Many participating companies made the policy permanent",
+      "All employees quit their jobs",
+      "The trials were declared illegal",
+      "No company reported any results"
+    ],
+    "correctIndex": 1,
+    "explanation": "Metinde, birçok katılımcı şirketin deneme süresinin ardından bu politikayı kalıcı hale getirdiği belirtilmektedir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paragraph2-4",
+    "examType": "both",
+    "category": "Paragraf",
+    "passage": "The concept of a four-day workweek has gained considerable attention in recent years, as companies across various industries experiment with reduced working hours. Proponents argue that a shorter workweek can lead to increased employee satisfaction, reduced burnout, and even higher overall productivity, since well-rested employees tend to work more efficiently during the hours they are present. Several trial programs conducted in different countries have reported positive results, with many participating companies choosing to make the policy permanent after the trial period ended. However, critics caution that a four-day workweek may not be feasible for all industries, particularly those requiring continuous operations such as healthcare and manufacturing. Additionally, some economists warn that reduced hours could lead to increased costs if companies need to hire additional staff to cover the same workload.",
+    "promptText": "What economic concern is mentioned in the passage regarding reduced hours?",
+    "options": [
+      "Companies might need to hire additional staff, increasing costs",
+      "Reduced hours always increase company profits",
+      "Employees would need to work more hours overall",
+      "The economy would collapse entirely",
+      "No additional costs would ever arise"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bazı ekonomistlerin, aynı iş yükünü karşılamak için ek personel almanın maliyetleri artırabileceği konusunda uyardığı belirtilmektedir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paragraph2-5",
+    "examType": "both",
+    "category": "Paragraf",
+    "passage": "The concept of a four-day workweek has gained considerable attention in recent years, as companies across various industries experiment with reduced working hours. Proponents argue that a shorter workweek can lead to increased employee satisfaction, reduced burnout, and even higher overall productivity, since well-rested employees tend to work more efficiently during the hours they are present. Several trial programs conducted in different countries have reported positive results, with many participating companies choosing to make the policy permanent after the trial period ended. However, critics caution that a four-day workweek may not be feasible for all industries, particularly those requiring continuous operations such as healthcare and manufacturing. Additionally, some economists warn that reduced hours could lead to increased costs if companies need to hire additional staff to cover the same workload.",
+    "promptText": "What is implied about employees who are well-rested, according to the passage?",
+    "options": [
+      "They tend to work more efficiently during their working hours",
+      "They no longer need to work at all",
+      "They are less productive than tired employees",
+      "They require twice as many working hours",
+      "They cannot be trusted with any responsibility"
+    ],
+    "correctIndex": 0,
+    "explanation": "Metinde dinlenmiş çalışanların, çalıştıkları saatlerde daha verimli çalıştığı ima edilmektedir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paragraph3-1",
+    "examType": "both",
+    "category": "Paragraf",
+    "passage": "Urban beekeeping has emerged as a surprising trend in many major cities, with residents installing hives on rooftops, balconies, and community gardens. Advocates suggest that this practice not only supports declining bee populations but also promotes biodiversity within urban environments, as bees play a crucial role in pollinating plants and flowers. Furthermore, locally produced urban honey has become popular among consumers who value its distinct flavor, which varies depending on the specific plants bees have access to in a given area. Despite its benefits, urban beekeeping also presents challenges, including the need for careful management to prevent conflicts with neighbors who may have concerns about safety or allergic reactions. Some cities have responded by introducing specific regulations that govern where and how hives can be maintained within city limits.",
+    "promptText": "What is one benefit of urban beekeeping mentioned in the passage?",
+    "options": [
+      "It eliminates the need for rural farming entirely",
+      "It supports declining bee populations and promotes biodiversity",
+      "It has completely replaced traditional honey production",
+      "It guarantees higher income for all city residents",
+      "It removes the need for any city regulations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Metinde şehir arıcılığının azalan arı popülasyonlarını desteklediği ve biyoçeşitliliği teşvik ettiği belirtilmektedir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paragraph3-2",
+    "examType": "both",
+    "category": "Paragraf",
+    "passage": "Urban beekeeping has emerged as a surprising trend in many major cities, with residents installing hives on rooftops, balconies, and community gardens. Advocates suggest that this practice not only supports declining bee populations but also promotes biodiversity within urban environments, as bees play a crucial role in pollinating plants and flowers. Furthermore, locally produced urban honey has become popular among consumers who value its distinct flavor, which varies depending on the specific plants bees have access to in a given area. Despite its benefits, urban beekeeping also presents challenges, including the need for careful management to prevent conflicts with neighbors who may have concerns about safety or allergic reactions. Some cities have responded by introducing specific regulations that govern where and how hives can be maintained within city limits.",
+    "promptText": "Why has urban honey become popular, according to the passage?",
+    "options": [
+      "Because it is cheaper than any other type of honey",
+      "Because of its distinct flavor influenced by local plants",
+      "Because it never requires any processing",
+      "Because it is produced only in rural areas",
+      "Because bees no longer exist in rural regions"
+    ],
+    "correctIndex": 1,
+    "explanation": "Metinde şehir balının, arıların o bölgedeki bitkilere bağlı olarak değişen kendine özgü tadı nedeniyle popüler hale geldiği belirtilmektedir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paragraph3-3",
+    "examType": "both",
+    "category": "Paragraf",
+    "passage": "Urban beekeeping has emerged as a surprising trend in many major cities, with residents installing hives on rooftops, balconies, and community gardens. Advocates suggest that this practice not only supports declining bee populations but also promotes biodiversity within urban environments, as bees play a crucial role in pollinating plants and flowers. Furthermore, locally produced urban honey has become popular among consumers who value its distinct flavor, which varies depending on the specific plants bees have access to in a given area. Despite its benefits, urban beekeeping also presents challenges, including the need for careful management to prevent conflicts with neighbors who may have concerns about safety or allergic reactions. Some cities have responded by introducing specific regulations that govern where and how hives can be maintained within city limits.",
+    "promptText": "What challenge does urban beekeeping present, according to the passage?",
+    "options": [
+      "The need for careful management to avoid conflicts with neighbors",
+      "A complete lack of interest from city residents",
+      "The impossibility of producing any honey in cities",
+      "The extinction of all urban bee populations",
+      "A ban on beekeeping in every major city"
+    ],
+    "correctIndex": 0,
+    "explanation": "Metinde komşularla olası çatışmaları önlemek için dikkatli yönetim gerektiği belirtilmektedir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paragraph3-4",
+    "examType": "both",
+    "category": "Paragraf",
+    "passage": "Urban beekeeping has emerged as a surprising trend in many major cities, with residents installing hives on rooftops, balconies, and community gardens. Advocates suggest that this practice not only supports declining bee populations but also promotes biodiversity within urban environments, as bees play a crucial role in pollinating plants and flowers. Furthermore, locally produced urban honey has become popular among consumers who value its distinct flavor, which varies depending on the specific plants bees have access to in a given area. Despite its benefits, urban beekeeping also presents challenges, including the need for careful management to prevent conflicts with neighbors who may have concerns about safety or allergic reactions. Some cities have responded by introducing specific regulations that govern where and how hives can be maintained within city limits.",
+    "promptText": "According to the passage, some economists have concerns primarily related to ______.",
+    "options": [
+      "the potential increase in operational costs",
+      "the complete elimination of all industries",
+      "a permanent ban on all working hours",
+      "the closure of every business worldwide",
+      "the disappearance of the workweek concept entirely"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ekonomistlerin endişesi, azaltılmış saatlerin operasyonel maliyetleri artırabileceği yönündedir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paragraph3-5",
+    "examType": "both",
+    "category": "Paragraf",
+    "passage": "Urban beekeeping has emerged as a surprising trend in many major cities, with residents installing hives on rooftops, balconies, and community gardens. Advocates suggest that this practice not only supports declining bee populations but also promotes biodiversity within urban environments, as bees play a crucial role in pollinating plants and flowers. Furthermore, locally produced urban honey has become popular among consumers who value its distinct flavor, which varies depending on the specific plants bees have access to in a given area. Despite its benefits, urban beekeeping also presents challenges, including the need for careful management to prevent conflicts with neighbors who may have concerns about safety or allergic reactions. Some cities have responded by introducing specific regulations that govern where and how hives can be maintained within city limits.",
+    "promptText": "What have some cities done in response to concerns about urban beekeeping, according to the passage?",
+    "options": [
+      "Introduced regulations governing where and how hives can be maintained",
+      "Banned all forms of beekeeping permanently",
+      "Ignored the concerns entirely",
+      "Required every resident to keep bees",
+      "Removed all urban gardens and rooftops"
+    ],
+    "correctIndex": 0,
+    "explanation": "Metinde bazı şehirlerin, kovanların nerede ve nasıl tutulacağını düzenleyen kurallar getirdiği belirtilmektedir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "dialogue-6",
+    "examType": "both",
+    "category": "Diyalog Tamamlama",
+    "passage": null,
+    "promptText": "A: \"I can't believe I missed the deadline for the scholarship application.\"\nB: \"______\"\nA: \"I know, I should have started working on it much earlier.\"",
+    "options": [
+      "You really should have planned your time better.",
+      "Congratulations on winning the scholarship!",
+      "I'm sure the deadline was extended by a year.",
+      "Scholarships are not important anyway.",
+      "I never apply for scholarships myself."
+    ],
+    "correctIndex": 0,
+    "explanation": "A'nın \"daha erken başlamalıydım\" demesi, B'nin zaman yönetimi eleştirisiyle uyumludur.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "dialogue-7",
+    "examType": "both",
+    "category": "Diyalog Tamamlama",
+    "passage": null,
+    "promptText": "A: \"Would you be interested in joining our book club?\"\nB: \"______\"\nA: \"Great! We meet every other Thursday evening.\"",
+    "options": [
+      "Sure, I'd love to join, I've been looking for one.",
+      "No, I have never read a book in my life.",
+      "I already quit every club I've joined.",
+      "Books make me feel very sleepy.",
+      "I'm moving to another country tomorrow."
+    ],
+    "correctIndex": 0,
+    "explanation": "A'nın toplantı zamanını belirtmesi, B'nin katılmayı kabul ettiğini gösterir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "dialogue-8",
+    "examType": "both",
+    "category": "Diyalog Tamamlama",
+    "passage": null,
+    "promptText": "A: \"Why does the printer keep jamming?\"\nB: \"______\"\nA: \"That would explain it. Let's replace it then.\"",
+    "options": [
+      "It's probably because the paper tray is overloaded.",
+      "Printers never have any technical issues.",
+      "I think it's brand new and unused.",
+      "The printer was replaced last week.",
+      "Nobody has ever used this printer."
+    ],
+    "correctIndex": 0,
+    "explanation": "A'nın \"bunu açıklar, değiştirelim\" demesi, B'nin somut bir teknik neden sunmasıyla tutarlıdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "dialogue-9",
+    "examType": "both",
+    "category": "Diyalog Tamamlama",
+    "passage": null,
+    "promptText": "A: \"I heard you're moving to a new apartment next month.\"\nB: \"______\"\nA: \"That's exciting! Do you need any help with the move?\"",
+    "options": [
+      "Yes, I finally found a place closer to my office.",
+      "No, I've lived in the same place for twenty years.",
+      "I'm actually planning to move to another planet.",
+      "Apartments don't interest me at all.",
+      "I already moved three years ago."
+    ],
+    "correctIndex": 0,
+    "explanation": "A'nın \"heyecan verici, yardım gerekir mi?\" demesi, B'nin taşınma haberini onaylamasıyla uyumludur.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "dialogue-10",
+    "examType": "both",
+    "category": "Diyalog Tamamlama",
+    "passage": null,
+    "promptText": "A: \"The client wasn't happy with our proposal.\"\nB: \"______\"\nA: \"Good idea, let's schedule a meeting for tomorrow.\"",
+    "options": [
+      "Maybe we should revise it and present a new version.",
+      "I don't think clients matter at all.",
+      "Let's just ignore their feedback completely.",
+      "The proposal was already perfect.",
+      "We should stop working with clients altogether."
+    ],
+    "correctIndex": 0,
+    "explanation": "A'nın \"toplantı ayarlayalım\" demesi, B'nin teklifi gözden geçirme önerisiyle tutarlıdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "dialogue-11",
+    "examType": "both",
+    "category": "Diyalog Tamamlama",
+    "passage": null,
+    "promptText": "A: \"Have you finished reading the report I sent you?\"\nB: \"______\"\nA: \"No worries, take your time, there's no rush.\"",
+    "options": [
+      "Not yet, I've been quite busy this week.",
+      "Yes, I finished it five years ago.",
+      "I never received any report from you.",
+      "I read it before you even sent it.",
+      "Reports are something I never read."
+    ],
+    "correctIndex": 0,
+    "explanation": "A'nın \"acele yok\" demesi, B'nin henüz bitirmediğini belirtmesiyle uyumludur.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "dialogue-12",
+    "examType": "both",
+    "category": "Diyalog Tamamlama",
+    "passage": null,
+    "promptText": "A: \"Why is the office so quiet today?\"\nB: \"______\"\nA: \"Ah, that makes sense. I completely forgot about that.\"",
+    "options": [
+      "Most people took the day off for the public holiday.",
+      "The office has always been extremely noisy.",
+      "Nobody has ever worked in this office.",
+      "The building was demolished yesterday.",
+      "Everyone is shouting at each other right now."
+    ],
+    "correctIndex": 0,
+    "explanation": "A'nın \"unutmuşum\" demesi, B'nin tatil nedeniyle ofisin boş olduğunu açıklamasıyla tutarlıdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "dialogue-13",
+    "examType": "both",
+    "category": "Diyalog Tamamlama",
+    "passage": null,
+    "promptText": "A: \"I'm thinking of learning a new language this year.\"\nB: \"______\"\nA: \"That's a great choice, it could really help with your career too.\"",
+    "options": [
+      "I was actually considering Spanish, since I travel there often.",
+      "I already speak every language in the world.",
+      "Languages are a complete waste of time.",
+      "I've decided never to learn anything new.",
+      "I don't think career matters at all."
+    ],
+    "correctIndex": 0,
+    "explanation": "A'nın \"kariyerine de yardımcı olur\" demesi, B'nin somut bir dil seçimi belirtmesiyle uyumludur.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "dialogue-14",
+    "examType": "both",
+    "category": "Diyalog Tamamlama",
+    "passage": null,
+    "promptText": "A: \"The flight got delayed by six hours.\"\nB: \"______\"\nA: \"I know, it's frustrating, but at least we'll get some compensation.\"",
+    "options": [
+      "That's terrible, we're going to miss our connecting flight now.",
+      "Six hours is actually very fast for a flight.",
+      "I love long delays at the airport.",
+      "We arrived exactly on time.",
+      "Flights are never delayed at this airport."
+    ],
+    "correctIndex": 0,
+    "explanation": "A'nın tazminat için konuşması, B'nin gecikme nedeniyle bağlantılı uçuşu kaçırma endişesiyle tutarlıdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "dialogue-15",
+    "examType": "both",
+    "category": "Diyalog Tamamlama",
+    "passage": null,
+    "promptText": "A: \"Do you think remote work will continue after the pandemic?\"\nB: \"______\"\nA: \"Exactly, many companies have already made it a permanent option.\"",
+    "options": [
+      "I believe many companies will keep offering it as an option.",
+      "Remote work was only a temporary experiment forever.",
+      "Nobody will ever work from home again.",
+      "Offices have been completely abandoned worldwide.",
+      "The pandemic never affected how people work."
+    ],
+    "correctIndex": 0,
+    "explanation": "A'nın \"birçok şirket kalıcı hale getirdi\" demesi, B'nin bu görüşü desteklemesiyle uyumludur.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "restatement-6",
+    "examType": "both",
+    "category": "Anlamca En Yakın Cümle",
+    "passage": null,
+    "promptText": "The committee postponed the decision until further evidence could be gathered.",
+    "options": [
+      "The committee delayed making a decision so that more evidence could be collected first.",
+      "The committee made a final decision without any evidence.",
+      "The committee refused to ever make a decision.",
+      "Evidence was gathered before the committee was even formed.",
+      "The committee decided immediately without waiting for anything."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"postponed...until further evidence could be gathered\" ifadesi, kararın daha fazla kanıt toplanana kadar ertelendiği anlamına gelir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "restatement-7",
+    "examType": "both",
+    "category": "Anlamca En Yakın Cümle",
+    "passage": null,
+    "promptText": "Unless significant reforms are implemented, the pension system is likely to collapse within a decade.",
+    "options": [
+      "If major reforms are not carried out, the pension system will probably fail within ten years.",
+      "The pension system will collapse regardless of any reforms.",
+      "Reforms have already saved the pension system permanently.",
+      "The pension system collapsed a decade ago.",
+      "No reforms are needed because the system is stable."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Unless...reforms...likely to collapse\" yapısı, reform yapılmazsa sistemin çökeceği anlamına gelir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "restatement-8",
+    "examType": "both",
+    "category": "Anlamca En Yakın Cümle",
+    "passage": null,
+    "promptText": "So overwhelming was the evidence that the jury reached a verdict within an hour.",
+    "options": [
+      "The evidence was so convincing that it took the jury only an hour to decide.",
+      "The jury took several years to reach any verdict.",
+      "There was no evidence presented during the trial.",
+      "The jury ignored all the evidence presented.",
+      "The evidence was too weak to convince anyone."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"So overwhelming was the evidence...within an hour\" devrik yapısı, kanıtın çok ikna edici olduğunu ve jürinin hızlı karar verdiğini belirtir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "restatement-9",
+    "examType": "both",
+    "category": "Anlamca En Yakın Cümle",
+    "passage": null,
+    "promptText": "Rarely have scientists encountered a discovery with such far-reaching implications.",
+    "options": [
+      "It is very unusual for scientists to come across a discovery with such significant consequences.",
+      "Scientists frequently encounter discoveries like this one.",
+      "This discovery has no implications whatsoever.",
+      "Scientists have never made any important discoveries before.",
+      "The discovery was immediately forgotten by everyone."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Rarely have scientists encountered\" devrik yapısı, bu tür bir keşfin çok nadir olduğunu belirtir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "restatement-10",
+    "examType": "both",
+    "category": "Anlamca En Yakın Cümle",
+    "passage": null,
+    "promptText": "The museum's new exhibit has attracted far more visitors than anticipated.",
+    "options": [
+      "A greater number of people than expected have visited the museum's new exhibit.",
+      "The exhibit has attracted fewer visitors than expected.",
+      "Nobody has visited the museum's new exhibit.",
+      "The museum closed the exhibit due to lack of interest.",
+      "Visitor numbers were exactly as predicted."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"attracted far more visitors than anticipated\" ifadesi, beklenenden daha fazla ziyaretçi çektiği anlamına gelir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "restatement-11",
+    "examType": "both",
+    "category": "Anlamca En Yakın Cümle",
+    "passage": null,
+    "promptText": "Not until the results were double-checked did the researchers announce their findings.",
+    "options": [
+      "The researchers only announced their findings after verifying the results twice.",
+      "The researchers announced their findings before checking anything.",
+      "The results were never checked by anyone.",
+      "The findings were announced and then immediately retracted.",
+      "The researchers refused to ever announce their findings."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Not until...did the researchers announce\" devrik yapısı, sonuçlar iki kez kontrol edilmeden bulguların açıklanmadığını belirtir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "restatement-12",
+    "examType": "both",
+    "category": "Anlamca En Yakın Cümle",
+    "passage": null,
+    "promptText": "The new policy, controversial as it is, has nonetheless reduced traffic congestion significantly.",
+    "options": [
+      "Although the policy is controversial, it has still managed to considerably reduce traffic congestion.",
+      "The policy has increased traffic congestion significantly.",
+      "The policy was so controversial that it was cancelled immediately.",
+      "Nobody has ever debated this policy.",
+      "Traffic congestion has never been a problem in this city."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"controversial as it is...nonetheless reduced\" yapısı, tartışmalı olmasına rağmen trafiği azalttığını belirtir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "restatement-13",
+    "examType": "both",
+    "category": "Anlamca En Yakın Cümle",
+    "passage": null,
+    "promptText": "It was not until she moved abroad that she truly appreciated her home country's culture.",
+    "options": [
+      "She only came to truly value her home country's culture after moving abroad.",
+      "She appreciated her culture long before moving abroad.",
+      "She never appreciated her home country's culture at all.",
+      "Moving abroad made her forget her own culture completely.",
+      "She never moved abroad in her life."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"It was not until she moved abroad that she truly appreciated\" yapısı, yurt dışına taşınana kadar kültürünü gerçekten takdir etmediğini belirtir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "restatement-14",
+    "examType": "both",
+    "category": "Anlamca En Yakın Cümle",
+    "passage": null,
+    "promptText": "Given the scale of the damage, it will likely take years for the region to fully recover.",
+    "options": [
+      "Because the damage is so extensive, the region will probably need years to recover completely.",
+      "The region has already fully recovered from the damage.",
+      "The damage was too minor to require any recovery time.",
+      "The region will never recover from the damage.",
+      "Recovery took only a few days due to minimal damage."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Given the scale of the damage...take years to recover\" ifadesi, hasarın büyüklüğü nedeniyle iyileşmenin yıllar alacağını belirtir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "restatement-15",
+    "examType": "both",
+    "category": "Anlamca En Yakın Cümle",
+    "passage": null,
+    "promptText": "Little did the investors know that the company was on the verge of bankruptcy.",
+    "options": [
+      "The investors were completely unaware that the company was about to go bankrupt.",
+      "The investors were fully informed about the company's financial troubles.",
+      "The company was thriving financially at that time.",
+      "The investors caused the company's bankruptcy themselves.",
+      "Bankruptcy had already been resolved before investors got involved."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Little did the investors know\" devrik yapısı, yatırımcıların şirketin iflasın eşiğinde olduğundan habersiz olduğunu belirtir.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paracomp-6",
+    "examType": "both",
+    "category": "Paragraf Tamamlama",
+    "passage": null,
+    "promptText": "Coral reefs, often called the 'rainforests of the sea,' are among the most biodiverse ecosystems on the planet. They provide habitat for thousands of marine species and protect coastlines from erosion caused by strong waves. In recent decades, however, rising sea temperatures have caused widespread coral bleaching, a phenomenon in which corals expel the algae living in their tissues and turn white. ______",
+    "options": [
+      "As a result, many reef ecosystems are now at serious risk of collapse.",
+      "Consequently, coral reefs have become more colorful than ever before.",
+      "Therefore, marine biodiversity has increased significantly in recent years.",
+      "As a result, coastal erosion has completely stopped everywhere.",
+      "Meanwhile, algae populations have disappeared from all oceans."
+    ],
+    "correctIndex": 0,
+    "explanation": "Mercan ağarmasının artması, resif ekosistemlerinin çökme riskiyle karşı karşıya kalmasıyla mantıksal olarak tamamlanır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paracomp-7",
+    "examType": "both",
+    "category": "Paragraf Tamamlama",
+    "passage": null,
+    "promptText": "The gig economy, characterized by short-term contracts and freelance work rather than permanent jobs, has grown rapidly over the past decade. Many workers are drawn to the flexibility it offers, allowing them to set their own schedules and choose their own projects. ______",
+    "options": [
+      "However, this flexibility often comes at the cost of job security and benefits such as health insurance.",
+      "As a result, all workers now enjoy complete financial stability.",
+      "Therefore, permanent employment has become entirely obsolete.",
+      "Consequently, no one is interested in traditional jobs anymore.",
+      "Meanwhile, freelance work has been banned in most countries."
+    ],
+    "correctIndex": 0,
+    "explanation": "Esneklik sunmasının ardından, bunun iş güvencesi ve yan haklar açısından bir bedeli olduğunun belirtilmesi mantıksal bir devamdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paracomp-8",
+    "examType": "both",
+    "category": "Paragraf Tamamlama",
+    "passage": null,
+    "promptText": "Space exploration has entered a new era, with private companies now playing a significant role alongside government agencies. These companies have dramatically reduced the cost of launching satellites and have set ambitious goals, including establishing permanent human settlements on Mars. ______",
+    "options": [
+      "As a result, competition in the space industry has intensified considerably.",
+      "Therefore, government space agencies have been completely shut down.",
+      "Consequently, satellite launches have become impossible.",
+      "As a result, no further exploration is planned for the future.",
+      "Meanwhile, interest in space travel has disappeared entirely."
+    ],
+    "correctIndex": 0,
+    "explanation": "Özel şirketlerin uzay alanında etkin rol oynamaya başlaması, sektördeki rekabetin artmasıyla mantıksal olarak tamamlanır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paracomp-9",
+    "examType": "both",
+    "category": "Paragraf Tamamlama",
+    "passage": null,
+    "promptText": "Antibiotic resistance has become one of the most pressing challenges in modern medicine. Overuse and misuse of antibiotics, both in healthcare and agriculture, have accelerated the emergence of bacteria that no longer respond to standard treatments. ______",
+    "options": [
+      "Consequently, researchers are racing to develop new classes of antibiotics before it is too late.",
+      "As a result, infections have become completely harmless to humans.",
+      "Therefore, antibiotics are no longer necessary for any illness.",
+      "Meanwhile, bacteria have stopped evolving entirely.",
+      "As a result, hospitals no longer need to treat any infections."
+    ],
+    "correctIndex": 0,
+    "explanation": "Antibiyotik direncinin artması, araştırmacıların yeni antibiyotik türleri geliştirmek için yarışmasıyla mantıksal olarak tamamlanır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paracomp-10",
+    "examType": "both",
+    "category": "Paragraf Tamamlama",
+    "passage": null,
+    "promptText": "Microplastics, tiny fragments of plastic less than five millimeters in size, have been found in nearly every corner of the globe, from the deepest ocean trenches to remote mountain snow. These particles originate from the breakdown of larger plastic items as well as from products such as synthetic clothing and cosmetics. ______",
+    "options": [
+      "Scientists are increasingly concerned about their potential long-term effects on human health.",
+      "As a result, microplastics have been completely eliminated from the environment.",
+      "Therefore, plastic production has stopped worldwide.",
+      "Consequently, oceans are now entirely free of pollution.",
+      "Meanwhile, synthetic clothing has become biodegradable overnight."
+    ],
+    "correctIndex": 0,
+    "explanation": "Mikroplastiklerin her yerde bulunmasının ardından, bilim insanlarının insan sağlığına olası uzun vadeli etkileri konusunda endişeli olduğunun belirtilmesi mantıklı bir devamdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paracomp-11",
+    "examType": "both",
+    "category": "Paragraf Tamamlama",
+    "passage": null,
+    "promptText": "The practice of intermittent fasting, which involves cycling between periods of eating and voluntary fasting, has gained popularity as a potential health strategy. Some studies suggest it may help with weight management and improve certain metabolic markers. ______",
+    "options": [
+      "However, experts caution that more long-term research is needed before drawing firm conclusions.",
+      "As a result, all doctors now recommend fasting for every patient.",
+      "Therefore, eating regular meals has been proven completely harmful.",
+      "Consequently, fasting has been banned in most countries.",
+      "Meanwhile, metabolic disorders have disappeared entirely."
+    ],
+    "correctIndex": 0,
+    "explanation": "Bazı çalışmaların olumlu sonuçlar göstermesinin ardından, uzmanların daha fazla uzun vadeli araştırmaya ihtiyaç olduğunu vurgulaması mantıklı bir devamdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paracomp-12",
+    "examType": "both",
+    "category": "Paragraf Tamamlama",
+    "passage": null,
+    "promptText": "Renewable energy storage remains one of the biggest obstacles to fully transitioning away from fossil fuels. While solar and wind power generation has become increasingly efficient and affordable, storing that energy for use when the sun isn't shining or the wind isn't blowing is still technologically challenging. ______",
+    "options": [
+      "Consequently, researchers are investing heavily in developing better battery technologies.",
+      "As a result, renewable energy is now cheaper to store than to produce.",
+      "Therefore, fossil fuels have already been completely phased out.",
+      "Meanwhile, solar and wind power have stopped being efficient.",
+      "As a result, energy storage is no longer necessary anywhere."
+    ],
+    "correctIndex": 0,
+    "explanation": "Enerji depolamanın teknolojik bir zorluk olarak kalmasının ardından, araştırmacıların daha iyi batarya teknolojilerine yatırım yaptığının belirtilmesi mantıklı bir devamdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paracomp-13",
+    "examType": "both",
+    "category": "Paragraf Tamamlama",
+    "passage": null,
+    "promptText": "The rise of artificial intelligence in creative fields, including music, art, and writing, has sparked intense debate about the nature of creativity itself. While some celebrate AI as a powerful new tool for artists, others worry about its implications for originality and intellectual property. ______",
+    "options": [
+      "As a result, legal frameworks are struggling to keep pace with these rapid technological changes.",
+      "Therefore, all creative work is now produced exclusively by machines.",
+      "Consequently, human artists have stopped creating anything entirely.",
+      "Meanwhile, intellectual property laws have become completely irrelevant.",
+      "As a result, creativity no longer exists in any form."
+    ],
+    "correctIndex": 0,
+    "explanation": "Yaratıcılık ve fikri mülkiyet konusundaki endişelerin ardından, hukuki çerçevelerin bu hızlı teknolojik değişime ayak uydurmakta zorlanması mantıklı bir devamdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paracomp-14",
+    "examType": "both",
+    "category": "Paragraf Tamamlama",
+    "passage": null,
+    "promptText": "Desertification, the process by which fertile land becomes desert, threatens the livelihoods of millions of people, particularly in arid and semi-arid regions. Overgrazing, deforestation, and unsustainable farming practices all contribute to this gradual degradation of land. ______",
+    "options": [
+      "In response, many governments have launched large-scale reforestation and land management programs.",
+      "As a result, desertification has been completely reversed worldwide.",
+      "Therefore, agriculture is no longer practiced in arid regions.",
+      "Consequently, millions of people have abandoned farming forever.",
+      "Meanwhile, fertile land has become more abundant than ever."
+    ],
+    "correctIndex": 0,
+    "explanation": "Çölleşmenin milyonlarca insanın geçim kaynağını tehdit etmesinin ardından, hükümetlerin büyük ölçekli ağaçlandırma programları başlatmasının belirtilmesi mantıklı bir devamdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "paracomp-15",
+    "examType": "both",
+    "category": "Paragraf Tamamlama",
+    "passage": null,
+    "promptText": "The concept of universal basic income, in which every citizen receives a regular, unconditional sum of money from the government, has moved from a fringe idea to a topic of serious policy discussion. Proponents argue it could reduce poverty and provide a safety net in an increasingly automated economy. ______",
+    "options": [
+      "Critics, however, question whether such programs are financially sustainable in the long run.",
+      "As a result, poverty has already been completely eliminated worldwide.",
+      "Therefore, all governments have already implemented this policy.",
+      "Consequently, automation has been banned in every industry.",
+      "Meanwhile, no country has ever considered this idea."
+    ],
+    "correctIndex": 0,
+    "explanation": "Evrensel temel gelirin yoksulluğu azaltabileceği savunulmasının ardından, eleştirmenlerin bu programların mali sürdürülebilirliğini sorgulaması mantıklı bir devamdır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "irrelevant-6",
+    "examType": "both",
+    "category": "Anlam Bütünlüğünü Bozan Cümle",
+    "passage": "(1) The Great Barrier Reef, located off the coast of Australia, is the largest coral reef system in the world. (2) It is home to thousands of species of fish, mollusks, and other marine organisms. (3) Rising ocean temperatures have caused significant coral bleaching events in recent years. (4) The Sahara Desert is the largest hot desert on Earth, covering much of North Africa. (5) Conservationists are working to protect the reef through various restoration projects.",
+    "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parça Büyük Set Resifi hakkındadır; (4) numaralı cümle Sahra Çölü'nden bahsettiği için konu bütünlüğünü bozmaktadır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "irrelevant-7",
+    "examType": "both",
+    "category": "Anlam Bütünlüğünü Bozan Cümle",
+    "passage": "(1) The invention of the telephone in the late nineteenth century transformed the way people communicate over long distances. (2) Alexander Graham Bell is widely credited with patenting the first practical telephone. (3) Early telephone networks required operators to manually connect calls. (4) Many species of birds migrate thousands of miles between breeding and wintering grounds. (5) By the mid-twentieth century, telephones had become common household items in many countries.",
+    "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parça telefonun icadı ve gelişimi hakkındadır; (4) numaralı cümle kuş göçünden bahsettiği için konu dışına çıkmaktadır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "irrelevant-8",
+    "examType": "both",
+    "category": "Anlam Bütünlüğünü Bozan Cümle",
+    "passage": "(1) Volcanic eruptions can have both destructive and beneficial effects on the surrounding environment. (2) The ash and lava released during an eruption can devastate nearby communities and ecosystems. (3) Over time, however, volcanic soil often becomes extremely fertile for agriculture. (4) The stock market experienced significant fluctuations throughout the twentieth century. (5) Many farming communities near volcanoes have thrived due to this fertile soil.",
+    "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parça volkanik patlamaların etkileri hakkındadır; (4) numaralı cümle borsadan bahsettiği için konu bütünlüğünü bozmaktadır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "irrelevant-9",
+    "examType": "both",
+    "category": "Anlam Bütünlüğünü Bozan Cümle",
+    "passage": "(1) The history of chocolate dates back thousands of years to ancient Mesoamerican civilizations. (2) The Aztecs and Maya used cacao beans to prepare a bitter, spiced beverage. (3) Chocolate was introduced to Europe in the sixteenth century, where sugar was added to sweeten it. (4) Modern smartphones contain more computing power than the computers used in early space missions. (5) Today, chocolate is produced and consumed in nearly every country in the world.",
+    "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parça çikolatanın tarihi hakkındadır; (4) numaralı cümle akıllı telefonlardan bahsettiği için konudan tamamen kopmaktadır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "irrelevant-10",
+    "examType": "both",
+    "category": "Anlam Bütünlüğünü Bozan Cümle",
+    "passage": "(1) Sleep deprivation has been linked to a wide range of negative health outcomes, including impaired memory and weakened immunity. (2) Adults are generally recommended to get between seven and nine hours of sleep per night. (3) Blue light emitted by electronic screens can interfere with the body's natural sleep-wake cycle. (4) The recipe for a traditional French baguette requires only flour, water, salt, and yeast. (5) Establishing a consistent sleep schedule can help improve overall sleep quality.",
+    "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parça uyku ve sağlık hakkındadır; (4) numaralı cümle bir ekmek tarifinden bahsettiği için konu bütünlüğünü bozmaktadır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "irrelevant-11",
+    "examType": "both",
+    "category": "Anlam Bütünlüğünü Bozan Cümle",
+    "passage": "(1) The Amazon River is the largest river by discharge volume in the world, carrying more water than the next several largest rivers combined. (2) It flows through several South American countries before emptying into the Atlantic Ocean. (3) The river and its surrounding rainforest are home to an extraordinary diversity of plant and animal species. (4) The Great Wall of China was built over many centuries to protect against invasions. (5) Scientists continue to study the Amazon basin to better understand its ecological importance.",
+    "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parça Amazon Nehri hakkındadır; (4) numaralı cümle Çin Seddi'nden bahsettiği için konu dışına çıkmaktadır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "irrelevant-12",
+    "examType": "both",
+    "category": "Anlam Bütünlüğünü Bozan Cümle",
+    "passage": "(1) The discovery of penicillin by Alexander Fleming in 1928 is considered one of the most important breakthroughs in medical history. (2) Fleming noticed that a mold accidentally contaminating one of his bacterial cultures had killed the surrounding bacteria. (3) This observation eventually led to the development of the first widely used antibiotic. (4) The Eiffel Tower was constructed for the 1889 World's Fair held in Paris. (5) Penicillin has since saved countless lives by treating previously deadly bacterial infections.",
+    "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parça penisilinin keşfi hakkındadır; (4) numaralı cümle Eyfel Kulesi'nden bahsettiği için konu bütünlüğünü bozmaktadır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "irrelevant-13",
+    "examType": "both",
+    "category": "Anlam Bütünlüğünü Bozan Cümle",
+    "passage": "(1) Migratory birds rely on a combination of environmental cues, including the position of the sun and stars, to navigate during their long journeys. (2) Some species are known to travel thousands of kilometers between their breeding and wintering grounds each year. (3) Researchers have also found that many birds can detect the Earth's magnetic field. (4) The invention of the printing press revolutionized the spread of written information in Europe. (5) Climate change is increasingly disrupting the timing of these traditional migration patterns.",
+    "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parça göçmen kuşlar hakkındadır; (4) numaralı cümle matbaanın icadından bahsettiği için konudan sapmaktadır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "irrelevant-14",
+    "examType": "both",
+    "category": "Anlam Bütünlüğünü Bozan Cümle",
+    "passage": "(1) The practice of yoga originated in ancient India thousands of years ago as a spiritual and physical discipline. (2) It combines physical postures, breathing techniques, and meditation to promote overall well-being. (3) In recent decades, yoga has become popular worldwide as a form of exercise and stress relief. (4) The stock exchange in New York is one of the largest financial markets in the world. (5) Numerous studies have examined the potential health benefits of regular yoga practice.",
+    "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parça yoga hakkındadır; (4) numaralı cümle New York borsasından bahsettiği için konu bütünlüğünü bozmaktadır.",
+    "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
+  },
+  {
+    "id": "irrelevant-15",
+    "examType": "both",
+    "category": "Anlam Bütünlüğünü Bozan Cümle",
+    "passage": "(1) Glaciers are massive bodies of ice that form over centuries from accumulated snowfall. (2) They store a significant portion of the world's fresh water and play a key role in regulating sea levels. (3) In recent decades, rising global temperatures have caused many glaciers to retreat at an alarming rate. (4) The history of jazz music can be traced back to African American communities in New Orleans. (5) Scientists closely monitor glacial melt as an indicator of climate change.",
+    "promptText": "(1), (2), (3), (4) ve (5) numaralı cümlelerden hangisi parçanın anlam bütünlüğünü bozmaktadır?",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)",
+      "(5)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parça buzullar hakkındadır; (4) numaralı cümle caz müziğinin tarihinden bahsettiği için konu dışına çıkmaktadır.",
     "sourceNote": "Örnek soru (özgün, gerçek sınavdan alınmamıştır)"
   }
 ]

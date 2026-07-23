@@ -31,9 +31,11 @@
 		B972FCF9E215AD451764497B /* VocabBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97B89FB203A8B2C0630E792D /* VocabBank.swift */; };
 		C36E5557FF415CED35E117B3 /* EzberleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCE6E530AF8559D1729EEC7 /* EzberleView.swift */; };
 		C73EEF79DC2F21C81B5AFE33 /* StudyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5340298851903C74028C6560 /* StudyView.swift */; };
+		CBC42985122EE42C4CCE82FB /* TranslatableText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F7FACDF7ECF824D0D676BBE /* TranslatableText.swift */; };
 		D3417A3378C233FD5B075C52 /* PracticeSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738DE2178D75247BC66308D9 /* PracticeSessionView.swift */; };
 		D5E2CE8281214984DDBF2AC4 /* QuestionCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58E5755D1CAE0A9CD16C3492 /* QuestionCategory.swift */; };
 		DDFA0E4D82A104B53A7BD172 /* ExamReviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C4BB1CB1488EF2459628B9 /* ExamReviewView.swift */; };
+		F4A0D81A98EDAE82BFE69ABB /* FlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555A10416C109E6D061CC89D /* FlowLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,9 +44,11 @@
 		14275B88046F2FFCF8A96E9F /* QuestionDistribution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionDistribution.swift; sourceTree = "<group>"; };
 		1FA6A522E3B5B8518EBD336A /* YDS70App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YDS70App.swift; sourceTree = "<group>"; };
 		3ED86D33B9CAE26ED6E3FD50 /* YDS70.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = YDS70.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F7FACDF7ECF824D0D676BBE /* TranslatableText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslatableText.swift; sourceTree = "<group>"; };
 		52C4BB1CB1488EF2459628B9 /* ExamReviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamReviewView.swift; sourceTree = "<group>"; };
 		5340298851903C74028C6560 /* StudyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyView.swift; sourceTree = "<group>"; };
 		5461BE067A381B54F1E0B9F0 /* seed_questions.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = seed_questions.json; sourceTree = "<group>"; };
+		555A10416C109E6D061CC89D /* FlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowLayout.swift; sourceTree = "<group>"; };
 		58E5755D1CAE0A9CD16C3492 /* QuestionCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionCategory.swift; sourceTree = "<group>"; };
 		66B58BFC74F597291D062E2E /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
 		6BCE6E530AF8559D1729EEC7 /* EzberleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EzberleView.swift; sourceTree = "<group>"; };
@@ -117,6 +121,7 @@
 				FF25FB548B28409788C23DE7 /* ExamModeView.swift */,
 				52C4BB1CB1488EF2459628B9 /* ExamReviewView.swift */,
 				6BCE6E530AF8559D1729EEC7 /* EzberleView.swift */,
+				555A10416C109E6D061CC89D /* FlowLayout.swift */,
 				6C6759AB1054123E6AE17519 /* MainTabView.swift */,
 				738DE2178D75247BC66308D9 /* PracticeSessionView.swift */,
 				66B58BFC74F597291D062E2E /* ResultView.swift */,
@@ -125,6 +130,7 @@
 				973EA958AA393EE1666CB57D /* StudyRoute.swift */,
 				5340298851903C74028C6560 /* StudyView.swift */,
 				F551B9CFF34942D97353551E /* TopicDetailView.swift */,
+				4F7FACDF7ECF824D0D676BBE /* TranslatableText.swift */,
 				FFA29E9EC6416C2B46F5FEE9 /* VocabPracticeView.swift */,
 				F42C257E2A8167A17EFEECA1 /* VocabRoute.swift */,
 				DF57E3FC0345B1A272ACD2C7 /* VocabTopicView.swift */,
@@ -221,6 +227,7 @@
 				B5CA0FCB474E0F813574D31B /* ExamModeView.swift in Sources */,
 				DDFA0E4D82A104B53A7BD172 /* ExamReviewView.swift in Sources */,
 				C36E5557FF415CED35E117B3 /* EzberleView.swift in Sources */,
+				F4A0D81A98EDAE82BFE69ABB /* FlowLayout.swift in Sources */,
 				9425EB9C5A576C9117F10690 /* MainTabView.swift in Sources */,
 				D3417A3378C233FD5B075C52 /* PracticeSessionView.swift in Sources */,
 				A5D122BAD7D0138040462560 /* Question.swift in Sources */,
@@ -234,6 +241,7 @@
 				C73EEF79DC2F21C81B5AFE33 /* StudyView.swift in Sources */,
 				5B7403A33B3EE07DF4029530 /* TopicContent.swift in Sources */,
 				688B0508E05AD63FA45FDF5A /* TopicDetailView.swift in Sources */,
+				CBC42985122EE42C4CCE82FB /* TranslatableText.swift in Sources */,
 				B972FCF9E215AD451764497B /* VocabBank.swift in Sources */,
 				0C73507A0BA21B506DBF296F /* VocabPracticeView.swift in Sources */,
 				ABB005D84A82B3612D7224FC /* VocabProgressStore.swift in Sources */,
@@ -314,7 +322,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -376,7 +384,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;

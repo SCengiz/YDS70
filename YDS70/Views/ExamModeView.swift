@@ -35,15 +35,13 @@ struct ExamModeView: View {
                     .foregroundStyle(.secondary)
 
                 if let passage = currentQuestion.passage {
-                    Text(passage)
-                        .font(.callout)
+                    TranslatableText(text: passage, font: .callout)
                         .padding()
                         .frame(maxWidth: .infinity, alignment: .leading)
                         .background(Color(.secondarySystemBackground), in: RoundedRectangle(cornerRadius: 12))
                 }
 
-                Text(currentQuestion.promptText)
-                    .font(.body.weight(.medium))
+                TranslatableText(text: currentQuestion.promptText, font: .body.weight(.medium))
 
                 VStack(spacing: 12) {
                     ForEach(Array(currentQuestion.options.enumerated()), id: \.offset) { index, option in
