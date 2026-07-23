@@ -1,10 +1,13 @@
 import Foundation
 import NaturalLanguage
 import PDFKit
+import Vision
+import UIKit
 
-/// Kullanıcının yapıştırdığı metni veya yüklediği PDF'i kelime listesine
-/// dönüştürür: satırları terim/anlam olarak ayırır ve kelime türünü
-/// (fiil / phrasal verb / sıfat) otomatik sınıflandırır.
+/// Kullanıcının yapıştırdığı metni, yüklediği PDF'i veya bir kelime listesi
+/// ekran görüntüsünü kelime listesine dönüştürür: satırları terim/anlam
+/// olarak ayırır ve kelime türünü (fiil / phrasal verb / sıfat) otomatik
+/// sınıflandırır.
 enum VocabImporter {
     static func extractText(fromPDF url: URL) -> String? {
         guard let document = PDFDocument(url: url) else { return nil }
@@ -15,6 +18,27 @@ enum VocabImporter {
             }
         }
         return text.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty ? nil : text
+    }
+
+    /// Cihaz üzerinde (Vision framework) metin tanıma ile bir görselden metin çıkarır.
+    static func extractText(fromImage image: UIImage) async -> String? {
+        guard let cgImage = image.cgImage else { return nil }
+        return await withCheckedContinuation { continuation in
+            DispatchQueue.global(qos: .userInitiated).async {
+                let request = VNRecognizeTextRequest()
+                request.recognitionLevel = .accurate
+                request.usesLanguageCorrection = true
+                let handler = VNImageRequestHandler(cgImage: cgImage, options: [:])
+                do {
+                    try handler.perform([request])
+                    let lines = (request.results ?? []).compactMap { $0.topCandidates(1).first?.string }
+                    let joined = lines.joined(separator: "\n")
+                    continuation.resume(returning: joined.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty ? nil : joined)
+                } catch {
+                    continuation.resume(returning: nil)
+                }
+            }
+        }
     }
 
     static func parse(text: String) -> (words: [VocabWord], skippedLines: [String]) {
