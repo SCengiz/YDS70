@@ -15,7 +15,7 @@ struct MainTabView: View {
 
             SolveView()
                 .tabItem {
-                    Label("Çöz", systemImage: "pencil.and.checkmark")
+                    Label("Çöz", systemImage: "checkmark.seal.fill")
                 }
         }
     }
