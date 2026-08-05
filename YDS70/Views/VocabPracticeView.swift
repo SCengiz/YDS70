@@ -1,7 +1,7 @@
 import SwiftUI
 
 /// Çoktan seçmeli kelime ezberleme: rastgele bir kelime ve 4 anlam seçeneği gösterir.
-/// Bir kelime 20 kez doğru cevaplanınca ezberlenmiş sayılır ve havuzdan çıkar.
+/// Bir kelime eşik sayısı kadar doğru cevaplanınca ezberlenmiş sayılır ve havuzdan çıkar.
 struct VocabPracticeView: View {
     let words: [VocabWord]
     let title: String

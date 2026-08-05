@@ -4,7 +4,7 @@ import Foundation
 /// ve pratik havuzundan çıkarılır.
 final class VocabProgressStore {
     static let shared = VocabProgressStore()
-    static let masteryThreshold = 20
+    static let masteryThreshold = 10
 
     private let key = "yds70.vocabCorrectCounts"
     private var correctCounts: [String: Int]

@@ -1,6 +1,6 @@
 import SwiftUI
 
-/// Ezberlenen (20 kez doğru cevaplanmış) kelimeleri kategoriye göre,
+/// Ezberlenen (eşik sayısı kadar doğru cevaplanmış) kelimeleri kategoriye göre,
 /// İngilizce ve Türkçe karşılıklarını yan yana göstererek listeler.
 struct MasteredWordsView: View {
     private var masteredByType: [(type: WordType, words: [VocabWord])] {
@@ -16,7 +16,7 @@ struct MasteredWordsView: View {
                 ContentUnavailableView(
                     "Henüz ezberlenen kelime yok",
                     systemImage: "checkmark.seal",
-                    description: Text("Bir kelimeyi 20 kez doğru cevaplayınca burada listelenir.")
+                    description: Text("Bir kelimeyi \(VocabProgressStore.masteryThreshold) kez doğru cevaplayınca burada listelenir.")
                 )
             } else {
                 List {
