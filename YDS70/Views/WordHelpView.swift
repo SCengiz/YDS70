@@ -116,6 +116,9 @@ struct WordHelpView: View {
                         Text(errorMessage)
                             .font(.subheadline)
                             .foregroundStyle(.secondary)
+                        Text("Model adı hatası alıyorsan Ezberle → Ayarlar → AI ekranından \"Modelleri yenile\" ile anahtarının desteklediği modeli seç.")
+                            .font(.caption)
+                            .foregroundStyle(.secondary)
                     }
                     Button {
                         Task { await loadInsight() }

@@ -40,8 +40,10 @@ final class AppSettings: ObservableObject {
         } else {
             isSynonymModeEnabled = UserDefaults.standard.bool(forKey: synonymModeKey)
         }
+        // Kullanıcı listeden başka bir model seçmiş olabileceği için kayıtlı değer
+        // olduğu gibi korunur; yalnızca hiç kayıt yoksa varsayılana düşülür.
         let storedModel = UserDefaults.standard.string(forKey: modelKey)
-        geminiModel = GeminiModel(rawValue: storedModel ?? "")?.rawValue ?? GeminiModel.flash.rawValue
+        geminiModel = (storedModel?.isEmpty == false) ? storedModel! : GeminiModel.default.rawValue
         hasGeminiAPIKey = KeychainStore.string(for: apiKeyKeychainKey) != nil
     }
 }

@@ -56,29 +56,34 @@ enum GeminiService {
         - "kullanimNotu": kelimenin nerede/nasıl kullanıldığına dair tek cümlelik Türkçe not.
         """
 
-        let body: [String: Any] = [
-            "contents": [
-                ["parts": [["text": prompt]]]
-            ],
-            "generationConfig": [
-                // Basit bir sözlük sorgusu; düşünme bütçesi kapatılarak yanıt hızlandırılır.
-                "thinkingConfig": ["thinkingBudget": 0],
-                "responseMimeType": "application/json",
-                "responseSchema": [
-                    "type": "OBJECT",
-                    "properties": [
-                        "turkce": ["type": "STRING"],
-                        "esAnlamlilar": ["type": "ARRAY", "items": ["type": "STRING"]],
-                        "ornekCumle": ["type": "STRING"],
-                        "ornekCumleTurkce": ["type": "STRING"],
-                        "kullanimNotu": ["type": "STRING"]
-                    ],
-                    "required": ["turkce", "esAnlamlilar", "ornekCumle", "ornekCumleTurkce", "kullanimNotu"]
-                ]
+        let model = AppSettings.shared.geminiModel
+
+        var generationConfig: [String: Any] = [
+            "responseMimeType": "application/json",
+            "responseSchema": [
+                "type": "OBJECT",
+                "properties": [
+                    "turkce": ["type": "STRING"],
+                    "esAnlamlilar": ["type": "ARRAY", "items": ["type": "STRING"]],
+                    "ornekCumle": ["type": "STRING"],
+                    "ornekCumleTurkce": ["type": "STRING"],
+                    "kullanimNotu": ["type": "STRING"]
+                ],
+                "required": ["turkce", "esAnlamlilar", "ornekCumle", "ornekCumleTurkce", "kullanimNotu"]
             ]
         ]
 
-        let model = AppSettings.shared.geminiModel
+        // Düşünme bütçesi yalnızca 2.5 ailesinde var; eski modellere gönderilirse
+        // istek 400 ile reddedilir.
+        if model.hasPrefix("gemini-2.5") {
+            generationConfig["thinkingConfig"] = ["thinkingBudget": 0]
+        }
+
+        let body: [String: Any] = [
+            "contents": [["parts": [["text": prompt]]]],
+            "generationConfig": generationConfig
+        ]
+
         let url = URL(string: "https://generativelanguage.googleapis.com/v1beta/models/\(model):generateContent")!
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
@@ -89,19 +94,67 @@ enum GeminiService {
 
         let (data, response) = try await URLSession.shared.data(for: request)
 
-        if let http = response as? HTTPURLResponse, !(200..<300).contains(http.statusCode) {
-            switch http.statusCode {
-            case 400, 401, 403: throw ServiceError.invalidKey
-            case 429: throw ServiceError.quotaExceeded
-            default:
-                let message = apiErrorMessage(from: data) ?? "Gemini isteği başarısız oldu (kod \(http.statusCode))."
-                throw ServiceError.server(message)
-            }
-        }
+        try throwIfFailed(response: response, data: data)
 
         guard let text = firstTextPart(in: data) else { throw ServiceError.emptyResponse }
         guard let insightData = text.data(using: .utf8) else { throw ServiceError.emptyResponse }
         return try JSONDecoder().decode(WordInsight.self, from: insightData)
+    }
+
+    /// Anahtarın gerçekten erişebildiği, metin üretebilen modelleri listeler.
+    /// Model adları zamanla değiştiği için sabit liste yerine bu uçtan okunur.
+    static func availableModels() async throws -> [String] {
+        guard let apiKey = AppSettings.shared.geminiAPIKey else {
+            throw ServiceError.missingKey
+        }
+
+        var url = URL(string: "https://generativelanguage.googleapis.com/v1beta/models")!
+        url.append(queryItems: [URLQueryItem(name: "pageSize", value: "200")])
+        var request = URLRequest(url: url)
+        request.timeoutInterval = 20
+        request.setValue(apiKey, forHTTPHeaderField: "x-goog-api-key")
+
+        let (data, response) = try await URLSession.shared.data(for: request)
+        try throwIfFailed(response: response, data: data)
+
+        guard let root = try? JSONSerialization.jsonObject(with: data) as? [String: Any],
+              let models = root["models"] as? [[String: Any]]
+        else { throw ServiceError.emptyResponse }
+
+        let names: [String] = models.compactMap { model in
+            let methods = model["supportedGenerationMethods"] as? [String] ?? []
+            guard methods.contains("generateContent"),
+                  let name = model["name"] as? String
+            else { return nil }
+            let short = name.replacingOccurrences(of: "models/", with: "")
+            // Görsel/ses üreten ve gömme (embedding) modelleri kelime açıklaması için uygun değil.
+            guard !short.contains("embedding"),
+                  !short.contains("image"),
+                  !short.contains("tts"),
+                  !short.contains("vision")
+            else { return nil }
+            return short
+        }
+
+        return Array(Set(names)).sorted()
+    }
+
+    private static func throwIfFailed(response: URLResponse, data: Data) throws {
+        guard let http = response as? HTTPURLResponse,
+              !(200..<300).contains(http.statusCode)
+        else { return }
+
+        // Sunucunun kendi açıklaması (ör. "model bulunamadı") en yararlı bilgi;
+        // varsa olduğu gibi gösterilir.
+        let message = apiErrorMessage(from: data)
+        switch http.statusCode {
+        case 401, 403:
+            throw ServiceError.invalidKey
+        case 429:
+            throw ServiceError.quotaExceeded
+        default:
+            throw ServiceError.server(message ?? "Gemini isteği başarısız oldu (kod \(http.statusCode)).")
+        }
     }
 
     /// Yanıt gövdesindeki ilk metin parçasını çıkarır.

@@ -7,24 +7,22 @@ struct APIKeySettingsView: View {
     @StateObject private var settings = AppSettings.shared
 
     @State private var apiKey = ""
+    @State private var models: [String] = []
+    @State private var isLoadingModels = false
+    @State private var modelError: String?
 
     private static let keyURL = URL(string: "https://aistudio.google.com/apikey")!
+
+    /// Seçili model her zaman listede yer alsın ki Picker boşa düşmesin.
+    private var pickerModels: [String] {
+        models.contains(settings.geminiModel) ? models : ([settings.geminiModel] + models)
+    }
 
     var body: some View {
         NavigationStack {
             Form {
                 Section {
                     LabeledContent("Sağlayıcı", value: "Google Gemini")
-
-                    Picker("Model", selection: $settings.geminiModel) {
-                        ForEach(GeminiModel.allCases) { model in
-                            Text(model.title).tag(model.rawValue)
-                        }
-                    }
-
-                    Text(GeminiModel(rawValue: settings.geminiModel)?.summary ?? "")
-                        .font(.caption)
-                        .foregroundStyle(.secondary)
 
                     SecureField("API anahtarı", text: $apiKey)
                         .textInputAutocapitalization(.never)
@@ -34,6 +32,7 @@ struct APIKeySettingsView: View {
                         Button("Kaydet") {
                             settings.setGeminiAPIKey(apiKey)
                             apiKey = ""
+                            Task { await loadModels() }
                         }
                         .disabled(apiKey.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty)
 
@@ -57,9 +56,43 @@ struct APIKeySettingsView: View {
                         Label("Ücretsiz anahtar al", systemImage: "arrow.up.forward.square")
                     }
                 } header: {
-                    Text("Yapay zekâ")
+                    Text("API anahtarı")
                 } footer: {
-                    Text("Anahtar yalnızca bu cihazın Keychain'inde saklanır. Kelime ekranındaki AI tuşuna bastığında çeviri, eş anlamlılar ve örnek cümle için kullanılır.")
+                    Text("Anahtar yalnızca bu cihazın Keychain'inde saklanır.")
+                }
+
+                Section {
+                    Picker("Model", selection: $settings.geminiModel) {
+                        ForEach(pickerModels, id: \.self) { model in
+                            Text(GeminiModel(rawValue: model)?.title ?? model).tag(model)
+                        }
+                    }
+                    .disabled(!settings.hasGeminiAPIKey)
+
+                    Button {
+                        Task { await loadModels() }
+                    } label: {
+                        HStack {
+                            Label("Modelleri yenile", systemImage: "arrow.clockwise")
+                            if isLoadingModels {
+                                Spacer()
+                                ProgressView()
+                            }
+                        }
+                    }
+                    .disabled(!settings.hasGeminiAPIKey || isLoadingModels)
+
+                    if let modelError {
+                        Text(modelError)
+                            .font(.caption)
+                            .foregroundStyle(.red)
+                    }
+                } header: {
+                    Text("Model")
+                } footer: {
+                    Text(models.isEmpty
+                         ? "Model adları zamanla değişir. \"Modelleri yenile\" ile anahtarının şu an desteklediği modelleri listeleyebilirsin."
+                         : "Anahtarının erişebildiği \(models.count) model listelendi.")
                 }
 
                 Section("Anahtar nasıl alınır?") {
@@ -78,7 +111,32 @@ struct APIKeySettingsView: View {
                     Button("Kapat") { dismiss() }
                 }
             }
+            .task {
+                if settings.hasGeminiAPIKey && models.isEmpty {
+                    await loadModels()
+                }
+            }
         }
+    }
+
+    /// Anahtarın erişebildiği modelleri Google'dan çeker; seçili model artık
+    /// sunulmuyorsa listedeki ilk uygun modele geçer.
+    private func loadModels() async {
+        isLoadingModels = true
+        modelError = nil
+        do {
+            let fetched = try await GeminiService.availableModels()
+            models = fetched
+            if !fetched.isEmpty, !fetched.contains(settings.geminiModel) {
+                // Seçili model artık sunulmuyorsa en yeni flash modeline geç.
+                settings.geminiModel = fetched.first { $0.hasPrefix("gemini-3") && $0.contains("flash") }
+                    ?? fetched.first { $0.contains("flash") }
+                    ?? fetched[0]
+            }
+        } catch {
+            modelError = (error as? LocalizedError)?.errorDescription ?? error.localizedDescription
+        }
+        isLoadingModels = false
     }
 
     private func step(_ number: Int, _ text: String) -> some View {

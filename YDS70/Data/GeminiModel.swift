@@ -1,24 +1,23 @@
 import Foundation
 
-/// Kelime yardımı için kullanılabilecek Gemini modelleri.
-/// İkisi de ücretsiz katmanda çalışır; lite daha hızlı ve kotayı daha az yer.
+/// Kelime yardımı için önerilen Gemini modelleri. Google model adlarını zaman
+/// zaman değiştirdiği için bu liste yalnızca başlangıç/yedek değerdir; ayarlardaki
+/// "Modelleri yenile" anahtarın gerçekten desteklediği modelleri listeler.
 enum GeminiModel: String, CaseIterable, Identifiable {
-    case flash = "gemini-2.5-flash"
-    case flashLite = "gemini-2.5-flash-lite"
+    case flash3 = "gemini-3-flash-preview"
+    case flash25 = "gemini-2.5-flash"
+    case flashLite25 = "gemini-2.5-flash-lite"
+
+    /// Yeni kurulumlarda kullanılan model.
+    static let `default`: GeminiModel = .flash3
 
     var id: String { rawValue }
 
     var title: String {
         switch self {
-        case .flash: return "Flash"
-        case .flashLite: return "Flash Lite"
-        }
-    }
-
-    var summary: String {
-        switch self {
-        case .flash: return "Dengeli seçim: açıklamalar daha ayrıntılı ve isabetli."
-        case .flashLite: return "Daha hızlı ve ücretsiz kotayı daha az tüketir."
+        case .flash3: return "Gemini 3 Flash (Preview)"
+        case .flash25: return "Gemini 2.5 Flash"
+        case .flashLite25: return "Gemini 2.5 Flash Lite"
         }
     }
 }
