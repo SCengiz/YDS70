@@ -66,22 +66,6 @@ struct VocabPracticeView: View {
                 pickNextWord()
             }
         }
-        .confirmationDialog(
-            "Bu kelimeyi listeden kalıcı olarak çıkarmak istediğine emin misin?",
-            isPresented: $isShowingRemoveConfirm,
-            titleVisibility: .visible
-        ) {
-            Button("Evet, çıkar", role: .destructive) {
-                if let word = currentWord {
-                    VocabProgressStore.shared.removeWord(word.id)
-                    poolVersion += 1
-                    pickNextWord()
-                }
-            }
-            Button("Hayır", role: .cancel) {}
-        } message: {
-            Text("Çıkardığın kelimeleri daha sonra \"Listeden Çıkarılanlar\" ekranından geri ekleyebilirsin.")
-        }
     }
 
     // MARK: - Pool
@@ -110,6 +94,7 @@ struct VocabPracticeView: View {
         buildOptions(for: next, mode: mode)
         selectedOption = nil
         isAnswerRevealed = false
+        isShowingRemoveConfirm = false
     }
 
     /// Eş anlamlı sorusu yalnızca eş anlamlılığın anlamlı olduğu türlerde sorulur;
@@ -236,8 +221,54 @@ struct VocabPracticeView: View {
                     .padding(.horizontal)
                 }
 
+                // Onay, diyalog yerine butonun hemen üstünde satır içi çıkar.
+                if isShowingRemoveConfirm {
+                    VStack(spacing: 10) {
+                        Text("Bu kelimeyi listeden kalıcı olarak çıkar?")
+                            .font(.subheadline.weight(.medium))
+                            .multilineTextAlignment(.center)
+                        Text("Daha sonra \"Listeden Çıkarılanlar\" ekranından geri ekleyebilirsin.")
+                            .font(.caption)
+                            .foregroundStyle(.secondary)
+                            .multilineTextAlignment(.center)
+
+                        HStack(spacing: 10) {
+                            Button {
+                                withAnimation { isShowingRemoveConfirm = false }
+                            } label: {
+                                Text("Hayır")
+                                    .font(.subheadline.weight(.semibold))
+                                    .frame(maxWidth: .infinity)
+                                    .padding(.vertical, 12)
+                                    .background(Color(.tertiarySystemBackground), in: RoundedRectangle(cornerRadius: 10))
+                                    .foregroundStyle(.primary)
+                            }
+                            .buttonStyle(.plain)
+
+                            Button {
+                                VocabProgressStore.shared.removeWord(word.id)
+                                isShowingRemoveConfirm = false
+                                poolVersion += 1
+                                pickNextWord()
+                            } label: {
+                                Text("Evet, çıkar")
+                                    .font(.subheadline.weight(.semibold))
+                                    .frame(maxWidth: .infinity)
+                                    .padding(.vertical, 12)
+                                    .background(Color.red.gradient, in: RoundedRectangle(cornerRadius: 10))
+                                    .foregroundStyle(.white)
+                            }
+                            .buttonStyle(.plain)
+                        }
+                    }
+                    .padding()
+                    .background(Color(.secondarySystemBackground), in: RoundedRectangle(cornerRadius: 14))
+                    .padding(.horizontal)
+                    .transition(.opacity.combined(with: .move(edge: .bottom)))
+                }
+
                 Button(role: .destructive) {
-                    isShowingRemoveConfirm = true
+                    withAnimation { isShowingRemoveConfirm.toggle() }
                 } label: {
                     Label("Bu kelimeyi listeden çıkar", systemImage: "trash")
                         .font(.subheadline)
