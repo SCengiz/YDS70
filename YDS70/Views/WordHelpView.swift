@@ -38,6 +38,9 @@ struct WordHelpView: View {
             }
             .navigationTitle("Kelime Yardımı")
             .navigationBarTitleDisplayMode(.inline)
+            // Yarım ekran açılır; detay için yukarı sürüklenerek tam ekrana çıkar.
+            .presentationDetents([.medium, .large])
+            .presentationDragIndicator(.visible)
             .toolbar {
                 ToolbarItem(placement: .confirmationAction) {
                     Button("Kapat") { dismiss() }
