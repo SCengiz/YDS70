@@ -7,6 +7,8 @@ enum WordTypeStyle {
         case .verb: return "bolt.fill"
         case .phrasalVerb: return "link"
         case .adjective: return "sparkles"
+        case .conjunction: return "arrow.triangle.branch"
+        case .preposition: return "arrow.turn.down.right"
         }
     }
 
@@ -16,6 +18,8 @@ enum WordTypeStyle {
         case .verb: return .blue
         case .phrasalVerb: return .teal
         case .adjective: return .purple
+        case .conjunction: return .orange
+        case .preposition: return .pink
         }
     }
 }

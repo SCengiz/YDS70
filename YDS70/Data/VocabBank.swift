@@ -21,7 +21,11 @@ final class VocabBank {
     }
 
     private static func loadBundled() -> [VocabWord] {
-        guard let url = Bundle.main.url(forResource: "vocabulary", withExtension: "json"),
+        ["vocabulary", "conjunctions", "prepositions"].flatMap(loadResource)
+    }
+
+    private static func loadResource(_ name: String) -> [VocabWord] {
+        guard let url = Bundle.main.url(forResource: name, withExtension: "json"),
               let data = try? Data(contentsOf: url),
               let words = try? JSONDecoder().decode([VocabWord].self, from: data) else {
             return []

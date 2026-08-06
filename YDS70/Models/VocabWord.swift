@@ -4,6 +4,8 @@ enum WordType: String, Codable, CaseIterable, Identifiable, Hashable {
     case verb
     case phrasalVerb
     case adjective
+    case conjunction
+    case preposition
 
     var id: String { rawValue }
 
@@ -12,6 +14,8 @@ enum WordType: String, Codable, CaseIterable, Identifiable, Hashable {
         case .verb: return "Fiil"
         case .phrasalVerb: return "Phrasal Verb"
         case .adjective: return "Sıfat"
+        case .conjunction: return "Bağlaç"
+        case .preposition: return "Preposition (Edat)"
         }
     }
 }
