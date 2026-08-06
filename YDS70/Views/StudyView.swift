@@ -38,6 +38,36 @@ struct StudyView: View {
                 }
 
                 Section("Konular") {
+                    // Konu anlatımı PDF'i de konu listesinin bir parçası olarak durur.
+                    Button {
+                        path.append(StudyRoute.document(
+                            resource: "preposition_konu_anlatimi",
+                            title: "Preposition Konu Anlatımı"
+                        ))
+                    } label: {
+                        HStack(spacing: 14) {
+                            Image(systemName: "book.pages.fill")
+                                .font(.system(size: 16, weight: .semibold))
+                                .foregroundStyle(.teal)
+                                .frame(width: 36, height: 36)
+                                .background(Color.teal.opacity(0.15), in: RoundedRectangle(cornerRadius: 10))
+                            VStack(alignment: .leading, spacing: 2) {
+                                Text("Preposition (Edat)")
+                                    .font(.body.weight(.medium))
+                                    .foregroundStyle(.primary)
+                                Text("Tüm edat konu anlatımı — PDF")
+                                    .font(.caption)
+                                    .foregroundStyle(.secondary)
+                            }
+                            Spacer()
+                            Image(systemName: "chevron.right")
+                                .font(.caption)
+                                .foregroundStyle(.tertiary)
+                        }
+                        .padding(.vertical, 2)
+                    }
+                    .buttonStyle(.plain)
+
                     ForEach(QuestionCategory.allCases.filter { $0 != .custom }) { category in
                         let count = QuestionBank.shared.count(category: category)
                         let color = CategoryStyle.color(for: category)
@@ -82,6 +112,8 @@ struct StudyView: View {
                     PracticeSessionView(questions: questions, title: title) {
                         path = NavigationPath()
                     }
+                case .document(let resource, let title):
+                    PDFDocumentView(resourceName: resource, title: title)
                 }
             }
         }

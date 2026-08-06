@@ -4,6 +4,7 @@ struct VocabTopicView: View {
     @Binding var path: NavigationPath
 
     @State private var isShowingImportSheet = false
+    @State private var isShowingAPIKeySheet = false
     @StateObject private var settings = AppSettings.shared
 
     private let options: [WordType?] = [nil] + WordType.allCases
@@ -110,6 +111,32 @@ struct VocabTopicView: View {
                             .foregroundStyle(.secondary)
                     }
                 }
+
+                Button {
+                    isShowingAPIKeySheet = true
+                } label: {
+                    HStack(spacing: 14) {
+                        Image(systemName: "sparkles")
+                            .font(.system(size: 16, weight: .semibold))
+                            .foregroundStyle(.white)
+                            .frame(width: 36, height: 36)
+                            .background(Color.purple.gradient, in: RoundedRectangle(cornerRadius: 10))
+                        VStack(alignment: .leading, spacing: 2) {
+                            Text("AI (Gemini) API anahtarı")
+                                .font(.body.weight(.medium))
+                                .foregroundStyle(.primary)
+                            Text(settings.hasGeminiAPIKey ? "Anahtar kayıtlı" : "Ücretsiz anahtarını ekle")
+                                .font(.caption)
+                                .foregroundStyle(settings.hasGeminiAPIKey ? .green : .secondary)
+                        }
+                        Spacer()
+                        Image(systemName: "chevron.right")
+                            .font(.caption)
+                            .foregroundStyle(.tertiary)
+                    }
+                    .padding(.vertical, 2)
+                }
+                .buttonStyle(.plain)
             }
         }
         .toolbar {
@@ -123,6 +150,9 @@ struct VocabTopicView: View {
         }
         .sheet(isPresented: $isShowingImportSheet) {
             VocabImportView()
+        }
+        .sheet(isPresented: $isShowingAPIKeySheet) {
+            APIKeySettingsView()
         }
     }
 }

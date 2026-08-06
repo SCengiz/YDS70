@@ -44,6 +44,7 @@ struct VocabPracticeView: View {
     @State private var isAnswerRevealed = false
     @State private var isPoolExhausted = false
     @State private var isShowingRemoveConfirm = false
+    @State private var isShowingWordHelp = false
     @State private var poolVersion = 0
 
     var body: some View {
@@ -196,6 +197,21 @@ struct VocabPracticeView: View {
                     RoundedRectangle(cornerRadius: 20)
                         .stroke(frameColor, lineWidth: 3)
                 )
+                .overlay(alignment: .topTrailing) {
+                    Button {
+                        isShowingWordHelp = true
+                    } label: {
+                        Label("AI", systemImage: "sparkles")
+                            .font(.caption.weight(.bold))
+                            .labelStyle(.titleAndIcon)
+                            .padding(.horizontal, 10)
+                            .padding(.vertical, 6)
+                            .background(frameColor.gradient, in: Capsule())
+                            .foregroundStyle(.white)
+                    }
+                    .buttonStyle(.plain)
+                    .padding(10)
+                }
                 .padding(.horizontal)
 
                 VStack(spacing: 12) {
@@ -236,6 +252,9 @@ struct VocabPracticeView: View {
             .padding(.bottom, 24)
         }
         .id(word.id)
+        .sheet(isPresented: $isShowingWordHelp) {
+            WordHelpView(word: word)
+        }
     }
 
     private func optionButton(option: String, word: VocabWord) -> some View {

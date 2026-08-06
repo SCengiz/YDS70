@@ -14,6 +14,7 @@
 		18DCD6AD8BC5D9ACCAA8C957 /* vocabulary.json in Resources */ = {isa = PBXBuildFile; fileRef = 996CCE43FCB51458FC31FD11 /* vocabulary.json */; };
 		194CE9F3415FFE9F1AC08BFD /* QuestionDistribution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14275B88046F2FFCF8A96E9F /* QuestionDistribution.swift */; };
 		2357DFAAB0C247F1928859DC /* adverbs30.json in Resources */ = {isa = PBXBuildFile; fileRef = F9087FE37517E1B54BA80A90 /* adverbs30.json */; };
+		2BB62B8B39E4302D4645EFC9 /* GeminiModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC7F7D446F033C2054C4B77A /* GeminiModel.swift */; };
 		2D1F8384CB6F4D88B94FE7F6 /* QuestionBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC50E8BE1185E2C3CF3AD9AD /* QuestionBank.swift */; };
 		32E33A4477ECD237C23D7735 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84BED74718A08FD596045AB0 /* Assets.xcassets */; };
 		3B59F15CECA90E46CA9BDAE3 /* SolveRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0103CED90FF60BE4EEF6BD22 /* SolveRoute.swift */; };
@@ -21,11 +22,14 @@
 		437CBAA9D0A4773FCBA552B9 /* CategoryStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13B56E190D83E09A689BA88A /* CategoryStyle.swift */; };
 		441E1F161AEF452D6A0CC381 /* conjunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = C71C8CB2D64F4EA9A2259BBA /* conjunctions.json */; };
 		445BEA1B0033C7CD36E1809A /* StudyRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 973EA958AA393EE1666CB57D /* StudyRoute.swift */; };
+		48EF982DDA7155B8BAB3F014 /* WordHelpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D373791A06B48641C41B3E25 /* WordHelpView.swift */; };
 		4A7B16E6A49768E3436C7939 /* YDS70App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FA6A522E3B5B8518EBD336A /* YDS70App.swift */; };
 		5710D9F9208706DB9EA9EE43 /* nouns50.json in Resources */ = {isa = PBXBuildFile; fileRef = 84B553780F8AAFEEC4572012 /* nouns50.json */; };
 		5B7403A33B3EE07DF4029530 /* TopicContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE4DA5E892FA21F9E2C7526D /* TopicContent.swift */; };
+		61D29344E7DAAE6A8DEC0083 /* PDFDocumentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC733F16441C127847BFE17E /* PDFDocumentView.swift */; };
 		688B0508E05AD63FA45FDF5A /* TopicDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F551B9CFF34942D97353551E /* TopicDetailView.swift */; };
 		76D3C07A7BE5BA6F91C9FA7D /* real_questions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7F66D0A3CD6EE62C34944570 /* real_questions.json */; };
+		78F07A70FFF460760E96EA73 /* KeychainStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6618369AAB872EA78E3BFBD /* KeychainStore.swift */; };
 		7FE348C33C458FC9BED4387A /* DocumentTextExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55648BA6DA86AA871CE1383E /* DocumentTextExtractor.swift */; };
 		86EE9AE2F28C8B44C11A0573 /* adjectives50.json in Resources */ = {isa = PBXBuildFile; fileRef = 1A79F39A27D4FED38CA18F33 /* adjectives50.json */; };
 		9425EB9C5A576C9117F10690 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C6759AB1054123E6AE17519 /* MainTabView.swift */; };
@@ -37,12 +41,15 @@
 		A89391D966507B232C089AB1 /* prepositions.json in Resources */ = {isa = PBXBuildFile; fileRef = 3CC5C2038DB3A69FE7D9FFDB /* prepositions.json */; };
 		ABB005D84A82B3612D7224FC /* VocabProgressStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78A73918DF4E94A245EC5D9 /* VocabProgressStore.swift */; };
 		AF1D6D6B6616AEBB5A55F55F /* RemovedWordsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C47F94D51DC26896A8C1CB /* RemovedWordsView.swift */; };
+		AF59197E465A18EC287E0F1B /* GeminiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90247A09A0F3868A68128D1D /* GeminiService.swift */; };
 		B161641421E2420D85BCD637 /* VocabWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC11476693C2D86CCE9A16A /* VocabWord.swift */; };
+		B1F4FE4332ECDCA85BB11604 /* APIKeySettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C140F57DB6677B1BBB579B2F /* APIKeySettingsView.swift */; };
 		B5CA0FCB474E0F813574D31B /* ExamModeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF25FB548B28409788C23DE7 /* ExamModeView.swift */; };
 		B705B81EDC2B483F5BB927A4 /* VocabImportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E316696DAEC54000AFE2CBD /* VocabImportView.swift */; };
 		B972FCF9E215AD451764497B /* VocabBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97B89FB203A8B2C0630E792D /* VocabBank.swift */; };
 		C36E5557FF415CED35E117B3 /* EzberleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCE6E530AF8559D1729EEC7 /* EzberleView.swift */; };
 		C73EEF79DC2F21C81B5AFE33 /* StudyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5340298851903C74028C6560 /* StudyView.swift */; };
+		CA5DEE719CBE1706F1F74EE1 /* preposition_konu_anlatimi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = C36A9891E998741AEB6F131C /* preposition_konu_anlatimi.pdf */; };
 		CBC42985122EE42C4CCE82FB /* TranslatableText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F7FACDF7ECF824D0D676BBE /* TranslatableText.swift */; };
 		D3417A3378C233FD5B075C52 /* PracticeSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738DE2178D75247BC66308D9 /* PracticeSessionView.swift */; };
 		D5E2CE8281214984DDBF2AC4 /* QuestionCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58E5755D1CAE0A9CD16C3492 /* QuestionCategory.swift */; };
@@ -84,6 +91,7 @@
 		7F66D0A3CD6EE62C34944570 /* real_questions.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = real_questions.json; sourceTree = "<group>"; };
 		84B553780F8AAFEEC4572012 /* nouns50.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = nouns50.json; sourceTree = "<group>"; };
 		84BED74718A08FD596045AB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		90247A09A0F3868A68128D1D /* GeminiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeminiService.swift; sourceTree = "<group>"; };
 		973EA958AA393EE1666CB57D /* StudyRoute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyRoute.swift; sourceTree = "<group>"; };
 		97B89FB203A8B2C0630E792D /* VocabBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabBank.swift; sourceTree = "<group>"; };
 		996CCE43FCB51458FC31FD11 /* vocabulary.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = vocabulary.json; sourceTree = "<group>"; };
@@ -91,16 +99,22 @@
 		ADC11476693C2D86CCE9A16A /* VocabWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabWord.swift; sourceTree = "<group>"; };
 		AF6DCCF12455C0CF70B92BE3 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		BA2EF5FD2577BB23A10B5C1F /* QuestionImportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionImportView.swift; sourceTree = "<group>"; };
+		C140F57DB6677B1BBB579B2F /* APIKeySettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIKeySettingsView.swift; sourceTree = "<group>"; };
+		C36A9891E998741AEB6F131C /* preposition_konu_anlatimi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = preposition_konu_anlatimi.pdf; sourceTree = "<group>"; };
 		C71C8CB2D64F4EA9A2259BBA /* conjunctions.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = conjunctions.json; sourceTree = "<group>"; };
 		CFD36D1A3E08A69517248AB4 /* QuestionImporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionImporter.swift; sourceTree = "<group>"; };
 		D0C47F94D51DC26896A8C1CB /* RemovedWordsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemovedWordsView.swift; sourceTree = "<group>"; };
+		D373791A06B48641C41B3E25 /* WordHelpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordHelpView.swift; sourceTree = "<group>"; };
 		D7B493EE522926DF64B3B6FB /* WordTypeStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordTypeStyle.swift; sourceTree = "<group>"; };
 		DC50E8BE1185E2C3CF3AD9AD /* QuestionBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionBank.swift; sourceTree = "<group>"; };
 		DF57E3FC0345B1A272ACD2C7 /* VocabTopicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabTopicView.swift; sourceTree = "<group>"; };
+		E6618369AAB872EA78E3BFBD /* KeychainStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeychainStore.swift; sourceTree = "<group>"; };
+		EC733F16441C127847BFE17E /* PDFDocumentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PDFDocumentView.swift; sourceTree = "<group>"; };
 		F42C257E2A8167A17EFEECA1 /* VocabRoute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabRoute.swift; sourceTree = "<group>"; };
 		F551B9CFF34942D97353551E /* TopicDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicDetailView.swift; sourceTree = "<group>"; };
 		F78A73918DF4E94A245EC5D9 /* VocabProgressStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabProgressStore.swift; sourceTree = "<group>"; };
 		F9087FE37517E1B54BA80A90 /* adverbs30.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = adverbs30.json; sourceTree = "<group>"; };
+		FC7F7D446F033C2054C4B77A /* GeminiModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeminiModel.swift; sourceTree = "<group>"; };
 		FE4DA5E892FA21F9E2C7526D /* TopicContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicContent.swift; sourceTree = "<group>"; };
 		FF25FB548B28409788C23DE7 /* ExamModeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamModeView.swift; sourceTree = "<group>"; };
 		FFA29E9EC6416C2B46F5FEE9 /* VocabPracticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabPracticeView.swift; sourceTree = "<group>"; };
@@ -136,8 +150,12 @@
 				73E7A21D2B3527954A2F9CD9 /* AppSettings.swift */,
 				C71C8CB2D64F4EA9A2259BBA /* conjunctions.json */,
 				55648BA6DA86AA871CE1383E /* DocumentTextExtractor.swift */,
+				FC7F7D446F033C2054C4B77A /* GeminiModel.swift */,
+				90247A09A0F3868A68128D1D /* GeminiService.swift */,
 				65CECB4476860A759AA4E498 /* general1000.json */,
+				E6618369AAB872EA78E3BFBD /* KeychainStore.swift */,
 				84B553780F8AAFEEC4572012 /* nouns50.json */,
+				C36A9891E998741AEB6F131C /* preposition_konu_anlatimi.pdf */,
 				3CC5C2038DB3A69FE7D9FFDB /* prepositions.json */,
 				DC50E8BE1185E2C3CF3AD9AD /* QuestionBank.swift */,
 				CFD36D1A3E08A69517248AB4 /* QuestionImporter.swift */,
@@ -163,6 +181,7 @@
 		D3D2F5A5FFBCFC579EEAC288 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				C140F57DB6677B1BBB579B2F /* APIKeySettingsView.swift */,
 				13B56E190D83E09A689BA88A /* CategoryStyle.swift */,
 				FF25FB548B28409788C23DE7 /* ExamModeView.swift */,
 				52C4BB1CB1488EF2459628B9 /* ExamReviewView.swift */,
@@ -170,6 +189,7 @@
 				555A10416C109E6D061CC89D /* FlowLayout.swift */,
 				6C6759AB1054123E6AE17519 /* MainTabView.swift */,
 				027A214636D22C135437E16D /* MasteredWordsView.swift */,
+				EC733F16441C127847BFE17E /* PDFDocumentView.swift */,
 				738DE2178D75247BC66308D9 /* PracticeSessionView.swift */,
 				BA2EF5FD2577BB23A10B5C1F /* QuestionImportView.swift */,
 				D0C47F94D51DC26896A8C1CB /* RemovedWordsView.swift */,
@@ -184,6 +204,7 @@
 				FFA29E9EC6416C2B46F5FEE9 /* VocabPracticeView.swift */,
 				F42C257E2A8167A17EFEECA1 /* VocabRoute.swift */,
 				DF57E3FC0345B1A272ACD2C7 /* VocabTopicView.swift */,
+				D373791A06B48641C41B3E25 /* WordHelpView.swift */,
 				D7B493EE522926DF64B3B6FB /* WordTypeStyle.swift */,
 			);
 			path = Views;
@@ -267,6 +288,7 @@
 				441E1F161AEF452D6A0CC381 /* conjunctions.json in Resources */,
 				FC0EEF7F984F35E20ECE8822 /* general1000.json in Resources */,
 				5710D9F9208706DB9EA9EE43 /* nouns50.json in Resources */,
+				CA5DEE719CBE1706F1F74EE1 /* preposition_konu_anlatimi.pdf in Resources */,
 				A89391D966507B232C089AB1 /* prepositions.json in Resources */,
 				76D3C07A7BE5BA6F91C9FA7D /* real_questions.json in Resources */,
 				954E239E2F4584BC09D64AFE /* seed_questions.json in Resources */,
@@ -282,6 +304,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1F4FE4332ECDCA85BB11604 /* APIKeySettingsView.swift in Sources */,
 				E1DDDF26A0CAE58468A2FA22 /* AppSettings.swift in Sources */,
 				437CBAA9D0A4773FCBA552B9 /* CategoryStyle.swift in Sources */,
 				7FE348C33C458FC9BED4387A /* DocumentTextExtractor.swift in Sources */,
@@ -289,8 +312,12 @@
 				DDFA0E4D82A104B53A7BD172 /* ExamReviewView.swift in Sources */,
 				C36E5557FF415CED35E117B3 /* EzberleView.swift in Sources */,
 				F4A0D81A98EDAE82BFE69ABB /* FlowLayout.swift in Sources */,
+				2BB62B8B39E4302D4645EFC9 /* GeminiModel.swift in Sources */,
+				AF59197E465A18EC287E0F1B /* GeminiService.swift in Sources */,
+				78F07A70FFF460760E96EA73 /* KeychainStore.swift in Sources */,
 				9425EB9C5A576C9117F10690 /* MainTabView.swift in Sources */,
 				3B7E400A0948560842F28708 /* MasteredWordsView.swift in Sources */,
+				61D29344E7DAAE6A8DEC0083 /* PDFDocumentView.swift in Sources */,
 				D3417A3378C233FD5B075C52 /* PracticeSessionView.swift in Sources */,
 				A5D122BAD7D0138040462560 /* Question.swift in Sources */,
 				2D1F8384CB6F4D88B94FE7F6 /* QuestionBank.swift in Sources */,
@@ -315,6 +342,7 @@
 				A6EB0B70155F4A2573C97277 /* VocabRoute.swift in Sources */,
 				0247018DDEA90F43864A2C74 /* VocabTopicView.swift in Sources */,
 				B161641421E2420D85BCD637 /* VocabWord.swift in Sources */,
+				48EF982DDA7155B8BAB3F014 /* WordHelpView.swift in Sources */,
 				00CA949D562064C3199B0667 /* WordTypeStyle.swift in Sources */,
 				4A7B16E6A49768E3436C7939 /* YDS70App.swift in Sources */,
 			);
