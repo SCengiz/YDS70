@@ -21,7 +21,10 @@ final class VocabBank {
     }
 
     private static func loadBundled() -> [VocabWord] {
-        ["vocabulary", "conjunctions", "prepositions"].flatMap(loadResource)
+        [
+            "vocabulary", "conjunctions", "prepositions",
+            "verbs50", "adjectives50", "nouns50", "adverbs30", "general1000",
+        ].flatMap(loadResource)
     }
 
     private static func loadResource(_ name: String) -> [VocabWord] {

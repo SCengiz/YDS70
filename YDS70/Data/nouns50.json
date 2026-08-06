@@ -1,0 +1,584 @@
+[
+ {
+  "id": "noun-1",
+  "term": "Adherence",
+  "meaning": "Bağlılık, sadakat",
+  "wordType": "noun",
+  "synonyms": [
+   "Devotion",
+   "Fidelity"
+  ]
+ },
+ {
+  "id": "noun-2",
+  "term": "Discrepancy",
+  "meaning": "Çelişki, tutarsızlık, fark",
+  "wordType": "noun",
+  "synonyms": [
+   "Inconsistency",
+   "Divergence"
+  ]
+ },
+ {
+  "id": "noun-3",
+  "term": "Preclusion",
+  "meaning": "Engelleme, imkansız kılma",
+  "wordType": "noun",
+  "synonyms": [
+   "Prevention",
+   "Hindrance"
+  ]
+ },
+ {
+  "id": "noun-4",
+  "term": "Deviation",
+  "meaning": "Sapma, uzaklaşma",
+  "wordType": "noun",
+  "synonyms": [
+   "Departure",
+   "Digression"
+  ]
+ },
+ {
+  "id": "noun-5",
+  "term": "Vulnerability",
+  "meaning": "Savunmasızlık, kırılganlık",
+  "wordType": "noun",
+  "synonyms": [
+   "Fragility",
+   "Susceptibility"
+  ]
+ },
+ {
+  "id": "noun-6",
+  "term": "Incentive",
+  "meaning": "Teşvik, güdü",
+  "wordType": "noun",
+  "synonyms": [
+   "Stimulus",
+   "Motivation"
+  ]
+ },
+ {
+  "id": "noun-7",
+  "term": "Constraint",
+  "meaning": "Kısıtlama, baskı unsuru",
+  "wordType": "noun",
+  "synonyms": [
+   "Limitation",
+   "Restraint"
+  ]
+ },
+ {
+  "id": "noun-8",
+  "term": "Prevalence",
+  "meaning": "Yaygınlık",
+  "wordType": "noun",
+  "synonyms": [
+   "Commonness",
+   "Ubiquity"
+  ]
+ },
+ {
+  "id": "noun-9",
+  "term": "Ambiguity",
+  "meaning": "Belirsizlik, muğlaklık",
+  "wordType": "noun",
+  "synonyms": [
+   "Vagueness",
+   "Obscurity"
+  ]
+ },
+ {
+  "id": "noun-10",
+  "term": "Efficacy",
+  "meaning": "Etkililik (genelde ilaç veya yöntem için)",
+  "wordType": "noun",
+  "synonyms": [
+   "Effectiveness",
+   "Potency"
+  ]
+ },
+ {
+  "id": "noun-11",
+  "term": "Scarcity",
+  "meaning": "Kıtlık, azlık",
+  "wordType": "noun",
+  "synonyms": [
+   "Shortage",
+   "Lack"
+  ]
+ },
+ {
+  "id": "noun-12",
+  "term": "Compliance",
+  "meaning": "Uyum, itaat",
+  "wordType": "noun",
+  "synonyms": [
+   "Conformity",
+   "Observance"
+  ]
+ },
+ {
+  "id": "noun-13",
+  "term": "Deterioration",
+  "meaning": "Kötüleşme, bozulma",
+  "wordType": "noun",
+  "synonyms": [
+   "Decline",
+   "Worsening"
+  ]
+ },
+ {
+  "id": "noun-14",
+  "term": "Breach",
+  "meaning": "İhlal, delme",
+  "wordType": "noun",
+  "synonyms": [
+   "Violation",
+   "Infringement"
+  ]
+ },
+ {
+  "id": "noun-15",
+  "term": "Implementation",
+  "meaning": "Uygulama, yürütme",
+  "wordType": "noun",
+  "synonyms": [
+   "Execution",
+   "Application"
+  ]
+ },
+ {
+  "id": "noun-16",
+  "term": "Impairment",
+  "meaning": "Bozulma, hasar (fiziksel/zihinsel)",
+  "wordType": "noun",
+  "synonyms": [
+   "Damage",
+   "Defect"
+  ]
+ },
+ {
+  "id": "noun-17",
+  "term": "Intervention",
+  "meaning": "Müdahale",
+  "wordType": "noun",
+  "synonyms": [
+   "Involvement",
+   "Interference",
+   "Mediation",
+   "Arbitration"
+  ]
+ },
+ {
+  "id": "noun-18",
+  "term": "Acquisition",
+  "meaning": "Edinme, Kazanç",
+  "wordType": "noun",
+  "synonyms": [
+   "Attainment",
+   "Procurement",
+   "Gain",
+   "Achievement",
+   "Purchase"
+  ]
+ },
+ {
+  "id": "noun-19",
+  "term": "Paradox",
+  "meaning": "Çelişki, Paradoks",
+  "wordType": "noun",
+  "synonyms": [
+   "Contradiction",
+   "Puzzle",
+   "Anomaly",
+   "Inconsistency",
+   "Enigma"
+  ]
+ },
+ {
+  "id": "noun-20",
+  "term": "Disruption",
+  "meaning": "Aksama, Kesinti",
+  "wordType": "noun",
+  "synonyms": [
+   "Disturbance",
+   "Interruption",
+   "Disorder",
+   "Upheaval",
+   "Breakdown"
+  ]
+ },
+ {
+  "id": "noun-21",
+  "term": "Bias",
+  "meaning": "Önyargı, Taraflılık",
+  "wordType": "noun",
+  "synonyms": [
+   "Prejudice",
+   "Partiality",
+   "Favoritism",
+   "Leaning",
+   "Predisposition"
+  ]
+ },
+ {
+  "id": "noun-22",
+  "term": "Consensus",
+  "meaning": "Uzlaşı, Fikir Birliği",
+  "wordType": "noun",
+  "synonyms": [
+   "Agreement",
+   "Unanimity",
+   "Accord",
+   "Harmony",
+   "Concurrence"
+  ]
+ },
+ {
+  "id": "noun-23",
+  "term": "Fluctuation",
+  "meaning": "Dalgalanma, Değişim",
+  "wordType": "noun",
+  "synonyms": [
+   "Variation",
+   "Instability",
+   "Shift",
+   "Oscillation",
+   "Volatility"
+  ]
+ },
+ {
+  "id": "noun-24",
+  "term": "Infrastructure",
+  "meaning": "Altyapı",
+  "wordType": "noun",
+  "synonyms": [
+   "Foundation",
+   "Framework",
+   "Base",
+   "Structure",
+   "Groundwork"
+  ]
+ },
+ {
+  "id": "noun-25",
+  "term": "Precondition",
+  "meaning": "Ön Koşul",
+  "wordType": "noun",
+  "synonyms": [
+   "Prerequisite",
+   "Requirement",
+   "Necessity",
+   "Qualification",
+   "Sine qua non"
+  ]
+ },
+ {
+  "id": "noun-26",
+  "term": "Allusion",
+  "meaning": "Gönderme, İma",
+  "wordType": "noun",
+  "synonyms": [
+   "Reference",
+   "Hint",
+   "Suggestion",
+   "Intimation",
+   "Inkling"
+  ]
+ },
+ {
+  "id": "noun-27",
+  "term": "Negligence",
+  "meaning": "İhmal, Dikkatsizlik",
+  "wordType": "noun",
+  "synonyms": [
+   "Carelessness",
+   "Laxity",
+   "Dereliction",
+   "Neglect",
+   "Heedlessness"
+  ]
+ },
+ {
+  "id": "noun-28",
+  "term": "Precedent",
+  "meaning": "Emsal, Geçmişteki Örnek",
+  "wordType": "noun",
+  "synonyms": [
+   "Example",
+   "Antecedent",
+   "Model",
+   "Prototype",
+   "Paradigm"
+  ]
+ },
+ {
+  "id": "noun-29",
+  "term": "Surplus",
+  "meaning": "Fazlalık",
+  "wordType": "noun",
+  "synonyms": [
+   "Excess",
+   "Remainder",
+   "Glut",
+   "Abundance",
+   "Redundancy"
+  ]
+ },
+ {
+  "id": "noun-30",
+  "term": "Resilience",
+  "meaning": "Dayanıklılık",
+  "wordType": "noun",
+  "synonyms": [
+   "Strength",
+   "Flexibility",
+   "Durability",
+   "Toughness",
+   "Fortitude"
+  ]
+ },
+ {
+  "id": "noun-31",
+  "term": "Allocation",
+  "meaning": "Tahsis, Dağıtım",
+  "wordType": "noun",
+  "synonyms": [
+   "Distribution",
+   "Assignment",
+   "Allotment",
+   "Appointment",
+   "Portioning"
+  ]
+ },
+ {
+  "id": "noun-32",
+  "term": "Aspiration",
+  "meaning": "Hedef, Arzu",
+  "wordType": "noun",
+  "synonyms": [
+   "Ambition",
+   "Goal",
+   "Desire",
+   "Aim",
+   "Dream",
+   "Yearning"
+  ]
+ },
+ {
+  "id": "noun-33",
+  "term": "Concession",
+  "meaning": "Taviz, Ödün",
+  "wordType": "noun",
+  "synonyms": [
+   "Compromise",
+   "Allowance",
+   "Yielding",
+   "Surrender",
+   "Adjustment"
+  ]
+ },
+ {
+  "id": "noun-34",
+  "term": "Deterrence",
+  "meaning": "Caydırıcılık",
+  "wordType": "noun",
+  "synonyms": [
+   "Discouragement",
+   "Prevention",
+   "Disincentive",
+   "Check",
+   "Restraint"
+  ]
+ },
+ {
+  "id": "noun-35",
+  "term": "Discretion",
+  "meaning": "Takdir yetkisi, Sağduyu, İnsiyatif",
+  "wordType": "noun",
+  "synonyms": [
+   "Judgment",
+   "Choice",
+   "Prudence",
+   "Caution",
+   "Volition"
+  ]
+ },
+ {
+  "id": "noun-36",
+  "term": "Enforcement",
+  "meaning": "Yürütme, Yasayı uygulama, Zorlama",
+  "wordType": "noun",
+  "synonyms": [
+   "Execution",
+   "Implementation",
+   "Imposition",
+   "Administration",
+   "Compulsion"
+  ]
+ },
+ {
+  "id": "noun-37",
+  "term": "Influx",
+  "meaning": "Akın, İstila -insan veya para için-",
+  "wordType": "noun",
+  "synonyms": [
+   "Inflow",
+   "Inundation",
+   "Arrival",
+   "Flood",
+   "Invasion"
+  ]
+ },
+ {
+  "id": "noun-38",
+  "term": "Manifestation",
+  "meaning": "Belirti, Gösterge, Somut kanıt",
+  "wordType": "noun",
+  "synonyms": [
+   "Indication",
+   "Expression",
+   "Symptom",
+   "Demonstration",
+   "Revelation"
+  ]
+ },
+ {
+  "id": "noun-39",
+  "term": "Propensity",
+  "meaning": "Eğilim, Meyil",
+  "wordType": "noun",
+  "synonyms": [
+   "Tendency",
+   "Inclination",
+   "Predisposition",
+   "Leaning",
+   "Penchant"
+  ]
+ },
+ {
+  "id": "noun-40",
+  "term": "Reconciliation",
+  "meaning": "Uzlaşma, Barışma",
+  "wordType": "noun",
+  "synonyms": [
+   "Settlement",
+   "Compromise",
+   "Resolution",
+   "Accord",
+   "Reunion"
+  ]
+ },
+ {
+  "id": "noun-41",
+  "term": "Substitute",
+  "meaning": "Yedek, Alternatif",
+  "wordType": "noun",
+  "synonyms": [
+   "Replacement",
+   "Proxy",
+   "Alternative",
+   "Surrogate",
+   "Stand-in",
+   "Relief"
+  ]
+ },
+ {
+  "id": "noun-42",
+  "term": "Undertaking",
+  "meaning": "Üstlenilen iş, Girişim, Taahhüt",
+  "wordType": "noun",
+  "synonyms": [
+   "Project",
+   "Venture",
+   "Enterprise",
+   "Commitment",
+   "Endeavor",
+   "Task"
+  ]
+ },
+ {
+  "id": "noun-43",
+  "term": "Vantage",
+  "meaning": "Bakış açısı, Avantajlı konum",
+  "wordType": "noun",
+  "synonyms": [
+   "Perspective",
+   "Viewpoint",
+   "Stance",
+   "Angle",
+   "Position",
+   "Superiority"
+  ]
+ },
+ {
+  "id": "noun-44",
+  "term": "Integrity",
+  "meaning": "Bütünlük, Dürüstlük, Onur",
+  "wordType": "noun",
+  "synonyms": [
+   "Unity",
+   "Wholeness",
+   "Honesty",
+   "Uprightness",
+   "Probity",
+   "Soundness"
+  ]
+ },
+ {
+  "id": "noun-45",
+  "term": "Obstacle",
+  "meaning": "Engel",
+  "wordType": "noun",
+  "synonyms": [
+   "Barrier",
+   "Hurdle",
+   "Impediment",
+   "Obstruction",
+   "Stumbling block"
+  ]
+ },
+ {
+  "id": "noun-46",
+  "term": "Prejudice",
+  "meaning": "Önyargı",
+  "wordType": "noun",
+  "synonyms": [
+   "Bias",
+   "Preconception",
+   "Bigotry",
+   "Intolerance",
+   "Narrow-mindedness"
+  ]
+ },
+ {
+  "id": "noun-47",
+  "term": "Rectification",
+  "meaning": "Düzeltme, Islah etme",
+  "wordType": "noun",
+  "synonyms": [
+   "Correction",
+   "Amendment",
+   "Remedy",
+   "Redress",
+   "Refinement",
+   "Adjustment"
+  ]
+ },
+ {
+  "id": "noun-48",
+  "term": "Submission",
+  "meaning": "Sunma, Boyun eğme",
+  "wordType": "noun",
+  "synonyms": [
+   "Presentation",
+   "Compliance",
+   "Surrender",
+   "Obedience",
+   "Proposal",
+   "Tender"
+  ]
+ }
+]

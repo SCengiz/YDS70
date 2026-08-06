@@ -1,0 +1,316 @@
+[
+ {
+  "id": "kverb-1",
+  "term": "Exacerbate",
+  "meaning": "Kötüleştirmek, (sorunu) alevlendirmek",
+  "wordType": "verb",
+  "synonyms": [
+   "Aggravate",
+   "Worsen",
+   "Inflame"
+  ]
+ },
+ {
+  "id": "kverb-2",
+  "term": "Preclude",
+  "meaning": "Engellemek, (olasılığı) ortadan kaldırmak",
+  "wordType": "verb",
+  "synonyms": [
+   "Prevent",
+   "Hinder",
+   "Impede"
+  ]
+ },
+ {
+  "id": "kverb-3",
+  "term": "Substantiate",
+  "meaning": "Kanıtlamak, doğrulamak, delillendirmek",
+  "wordType": "verb",
+  "synonyms": [
+   "Corroborate",
+   "Verify",
+   "Confirm",
+   "Validate"
+  ]
+ },
+ {
+  "id": "kverb-4",
+  "term": "Endorse",
+  "meaning": "Onaylamak, desteklemek (resmi/aleni bir şekilde)",
+  "wordType": "verb",
+  "synonyms": [
+   "Approve",
+   "Support",
+   "Sanction",
+   "Back"
+  ]
+ },
+ {
+  "id": "kverb-5",
+  "term": "Elicit",
+  "meaning": "(Tepki, bilgi vb.) çekip çıkarmak, uyandırmak",
+  "wordType": "verb",
+  "synonyms": [
+   "Extract",
+   "Evoke",
+   "Draw out"
+  ]
+ },
+ {
+  "id": "kverb-6",
+  "term": "Accrue",
+  "meaning": "Birikmek, çoğalmak, tahakkuk etmek",
+  "wordType": "verb",
+  "synonyms": [
+   "Accumulate",
+   "Collect",
+   "Build up"
+  ]
+ },
+ {
+  "id": "kverb-7",
+  "term": "Bolster",
+  "meaning": "Desteklemek, güçlendirmek",
+  "wordType": "verb",
+  "synonyms": [
+   "Strengthen",
+   "Reinforce",
+   "Fortify"
+  ]
+ },
+ {
+  "id": "kverb-8",
+  "term": "Depict",
+  "meaning": "Tasvir etmek, betimlemek, yansıtmak",
+  "wordType": "verb",
+  "synonyms": [
+   "Portray",
+   "Represent",
+   "Illustrate"
+  ]
+ },
+ {
+  "id": "kverb-9",
+  "term": "Harness",
+  "meaning": "Kullanmak, Faydalanmak",
+  "wordType": "verb",
+  "synonyms": [
+   "Utilize",
+   "Exploit",
+   "Employ",
+   "Capitalize on",
+   "Make use of"
+  ]
+ },
+ {
+  "id": "kverb-10",
+  "term": "Incur",
+  "meaning": "Maruz kalmak, Uğramak",
+  "wordType": "verb",
+  "synonyms": [
+   "Suffer",
+   "Experience",
+   "Sustain",
+   "Be subject to",
+   "Bring upon oneself"
+  ]
+ },
+ {
+  "id": "kverb-11",
+  "term": "Refute",
+  "meaning": "Çürütmek, Aksini ispatlamak",
+  "wordType": "verb",
+  "synonyms": [
+   "Disprove",
+   "Debunk",
+   "Rebut",
+   "Invalidate",
+   "Contradict"
+  ]
+ },
+ {
+  "id": "kverb-12",
+  "term": "Stem",
+  "meaning": "from) (Kaynaklanmak",
+  "wordType": "verb",
+  "synonyms": [
+   "Derive from",
+   "Originate from",
+   "Arise from",
+   "Emanate from",
+   "Spring from"
+  ]
+ },
+ {
+  "id": "kverb-13",
+  "term": "Thwart",
+  "meaning": "Engel olmak, Boşa çıkarmak",
+  "wordType": "verb",
+  "synonyms": [
+   "Frustrate",
+   "Foil",
+   "Obstruct",
+   "Prevent",
+   "Hinder",
+   "Stymie"
+  ]
+ },
+ {
+  "id": "kverb-14",
+  "term": "Adhere",
+  "meaning": "to) (Bağlı kalmak, Uymak",
+  "wordType": "verb",
+  "synonyms": [
+   "Abide by",
+   "Comply with",
+   "Follow",
+   "Stick to",
+   "Conform to"
+  ]
+ },
+ {
+  "id": "kverb-15",
+  "term": "Assimilate",
+  "meaning": "Özümsemek, Asimile etmek",
+  "wordType": "verb",
+  "synonyms": [
+   "Absorb",
+   "Incorporate",
+   "Integrate",
+   "Take in",
+   "Digest"
+  ]
+ },
+ {
+  "id": "kverb-16",
+  "term": "Coincide",
+  "meaning": "with) (Çakışmak, Aynı zamana denk gelmek",
+  "wordType": "verb",
+  "synonyms": [
+   "Concur",
+   "Overlap",
+   "Match",
+   "Correspond",
+   "Synchronize"
+  ]
+ },
+ {
+  "id": "kverb-17",
+  "term": "Concede",
+  "meaning": "Kabul etmek, Ödün vermek",
+  "wordType": "verb",
+  "synonyms": [
+   "Admit",
+   "Yield",
+   "Surrender",
+   "Grant",
+   "Acknowledge",
+   "Relinquish"
+  ]
+ },
+ {
+  "id": "kverb-18",
+  "term": "Conform",
+  "meaning": "to) (Uymak, Uyum sağlamak",
+  "wordType": "verb",
+  "synonyms": [
+   "Comply with",
+   "Follow",
+   "Obey",
+   "Adhere to",
+   "Observe"
+  ]
+ },
+ {
+  "id": "kverb-19",
+  "term": "Debunk",
+  "meaning": "Çürütmek, Maskesini düşürmek",
+  "wordType": "verb",
+  "synonyms": [
+   "Disprove",
+   "Refute",
+   "Expose",
+   "Discredit",
+   "Demystify"
+  ]
+ },
+ {
+  "id": "kverb-20",
+  "term": "Deplete",
+  "meaning": "Tüketmek, Boşaltmak",
+  "wordType": "verb",
+  "synonyms": [
+   "Exhaust",
+   "Use up",
+   "Drain",
+   "Consume",
+   "Sap"
+  ]
+ },
+ {
+  "id": "kverb-21",
+  "term": "Deviate",
+  "meaning": "from) (Sapmak, Yoldan çıkmak",
+  "wordType": "verb",
+  "synonyms": [
+   "Digress",
+   "Diverge",
+   "Stray",
+   "Wander",
+   "Veer"
+  ]
+ },
+ {
+  "id": "kverb-22",
+  "term": "Exert",
+  "meaning": "Uygulamak, Kullanmak",
+  "wordType": "verb",
+  "synonyms": [
+   "Apply",
+   "Exercise",
+   "Wield",
+   "Put forth",
+   "Utilize"
+  ]
+ },
+ {
+  "id": "kverb-23",
+  "term": "Inhibit",
+  "meaning": "Engellemek, Dizginlemek",
+  "wordType": "verb",
+  "synonyms": [
+   "Hinder",
+   "Restrain",
+   "Impede",
+   "Hamper",
+   "Discourage",
+   "Prevent"
+  ]
+ },
+ {
+  "id": "kverb-24",
+  "term": "Manipulate",
+  "meaning": "Manipüle etmek, Yönlendirmek",
+  "wordType": "verb",
+  "synonyms": [
+   "Influence",
+   "Control",
+   "Exploit",
+   "Maneuver",
+   "Handle"
+  ]
+ },
+ {
+  "id": "kverb-25",
+  "term": "Reconcile",
+  "meaning": "Uzlaştırmak, Barıştırmak",
+  "wordType": "verb",
+  "synonyms": [
+   "Settle",
+   "Harmonize",
+   "Resolve",
+   "Adjust",
+   "Accommodate"
+  ]
+ }
+]

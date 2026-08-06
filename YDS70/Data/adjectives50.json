@@ -1,0 +1,400 @@
+[
+ {
+  "id": "kadj-1",
+  "term": "Plausible",
+  "meaning": "Makul, akla yatkın",
+  "wordType": "adjective",
+  "synonyms": [
+   "Reasonable",
+   "Believable",
+   "Credible"
+  ]
+ },
+ {
+  "id": "kadj-2",
+  "term": "Adverse",
+  "meaning": "Olumsuz, zıt, kötü",
+  "wordType": "adjective",
+  "synonyms": [
+   "Unfavorable",
+   "Hostile",
+   "Negative"
+  ]
+ },
+ {
+  "id": "kadj-3",
+  "term": "Resilient",
+  "meaning": "Dayanıklı, çabuk toparlanan",
+  "wordType": "adjective",
+  "synonyms": [
+   "Tough",
+   "Strong",
+   "Flexible"
+  ]
+ },
+ {
+  "id": "kadj-4",
+  "term": "Volatile",
+  "meaning": "Değişken, istikrarsız, uçucu",
+  "wordType": "adjective",
+  "synonyms": [
+   "Unstable",
+   "Unpredictable",
+   "Erratic"
+  ]
+ },
+ {
+  "id": "kadj-5",
+  "term": "Inherent",
+  "meaning": "Doğasında olan, içsel",
+  "wordType": "adjective",
+  "synonyms": [
+   "Innate",
+   "Intrinsic",
+   "Natural"
+  ]
+ },
+ {
+  "id": "kadj-6",
+  "term": "Drastic",
+  "meaning": "Sert, radikal, ani",
+  "wordType": "adjective",
+  "synonyms": [
+   "Severe",
+   "Extreme",
+   "Radical"
+  ]
+ },
+ {
+  "id": "kadj-7",
+  "term": "Feasible",
+  "meaning": "Yapılabilir, uygulanabilir, mümkün",
+  "wordType": "adjective",
+  "synonyms": [
+   "Viable",
+   "Practicable",
+   "Possible"
+  ]
+ },
+ {
+  "id": "kadj-8",
+  "term": "Persistent",
+  "meaning": "Israrcı, kalıcı, inatçı",
+  "wordType": "adjective",
+  "synonyms": [
+   "Constant",
+   "Continuous",
+   "Tenacious"
+  ]
+ },
+ {
+  "id": "kadj-9",
+  "term": "Eminent",
+  "meaning": "Seçkin, ünlü, saygın",
+  "wordType": "adjective",
+  "synonyms": [
+   "Distinguished",
+   "Prominent",
+   "Famous"
+  ]
+ },
+ {
+  "id": "kadj-10",
+  "term": "Abysmal",
+  "meaning": "Çok kötü, Berbat",
+  "wordType": "adjective",
+  "synonyms": [
+   "Terrible",
+   "Dreadful",
+   "Awful",
+   "Appalling",
+   "Atrocious"
+  ]
+ },
+ {
+  "id": "kadj-11",
+  "term": "Stringent",
+  "meaning": "Sıkı, Katı",
+  "wordType": "adjective",
+  "synonyms": [
+   "Strict",
+   "Rigid",
+   "Firm",
+   "Rigorous",
+   "Demanding",
+   "Exacting"
+  ]
+ },
+ {
+  "id": "kadj-12",
+  "term": "Coherent",
+  "meaning": "Tutarlı, Mantıklı",
+  "wordType": "adjective",
+  "synonyms": [
+   "Consistent",
+   "Logical",
+   "Orderly",
+   "Lucid",
+   "Rational"
+  ]
+ },
+ {
+  "id": "kadj-13",
+  "term": "Fluctuating",
+  "meaning": "Dalgalı, Değişken",
+  "wordType": "adjective",
+  "synonyms": [
+   "Shifting",
+   "Varying",
+   "Wavering",
+   "Unstable",
+   "Volatile"
+  ]
+ },
+ {
+  "id": "kadj-14",
+  "term": "Discrepant",
+  "meaning": "Tutarsız, Uyuşmayan",
+  "wordType": "adjective",
+  "synonyms": [
+   "Inconsistent",
+   "Conflicting",
+   "Clashing",
+   "Divergent",
+   "Incompatible"
+  ]
+ },
+ {
+  "id": "kadj-15",
+  "term": "Rigorous",
+  "meaning": "Titiz, Sert",
+  "wordType": "adjective",
+  "synonyms": [
+   "Meticulous",
+   "Thorough",
+   "Stringent",
+   "Demanding",
+   "Precise"
+  ]
+ },
+ {
+  "id": "kadj-16",
+  "term": "Erratic",
+  "meaning": "Düzensiz, Ne yapacağı belli olmayan",
+  "wordType": "adjective",
+  "synonyms": [
+   "Unpredictable",
+   "Unstable",
+   "Irregular",
+   "Inconsistent",
+   "Fluctuating"
+  ]
+ },
+ {
+  "id": "kadj-17",
+  "term": "Formidable",
+  "meaning": "Dişli, Zorlu",
+  "wordType": "adjective",
+  "synonyms": [
+   "Challenging",
+   "Daunting",
+   "Intimidating",
+   "Impressive",
+   "Powerful"
+  ]
+ },
+ {
+  "id": "kadj-18",
+  "term": "Ambivalent",
+  "meaning": "Kararsız, İkircikli",
+  "wordType": "adjective",
+  "synonyms": [
+   "Uncertain",
+   "Hesitant",
+   "Indecisive",
+   "Mixed",
+   "Doubtful"
+  ]
+ },
+ {
+  "id": "kadj-19",
+  "term": "Stark",
+  "meaning": "Keskin, Belirgin",
+  "wordType": "adjective",
+  "synonyms": [
+   "Distinct",
+   "Sharp",
+   "Vivid",
+   "Blunt",
+   "Severe"
+  ]
+ },
+ {
+  "id": "kadj-20",
+  "term": "Tentative",
+  "meaning": "Geçici, Kesinleşmemiş",
+  "wordType": "adjective",
+  "synonyms": [
+   "Provisional",
+   "Experimental",
+   "Hesitant",
+   "Temporary",
+   "Conditional"
+  ]
+ },
+ {
+  "id": "kadj-21",
+  "term": "Obscure",
+  "meaning": "Anlaşılması güç, Silik",
+  "wordType": "adjective",
+  "synonyms": [
+   "Ambiguous",
+   "Cryptic",
+   "Unknown",
+   "Vague",
+   "Hidden"
+  ]
+ },
+ {
+  "id": "kadj-22",
+  "term": "Sporadic",
+  "meaning": "Aralıklı, Tek tük",
+  "wordType": "adjective",
+  "synonyms": [
+   "Occasional",
+   "Infrequent",
+   "Periodic",
+   "Irregular",
+   "Scattered"
+  ]
+ },
+ {
+  "id": "kadj-23",
+  "term": "Cognitive",
+  "meaning": "Bilişsel, Zihinsel",
+  "wordType": "adjective",
+  "synonyms": [
+   "Mental",
+   "Intellectual",
+   "Cerebral",
+   "Psychological"
+  ]
+ },
+ {
+  "id": "kadj-24",
+  "term": "Adaptive",
+  "meaning": "Uyarlanabilir, Esnek",
+  "wordType": "adjective",
+  "synonyms": [
+   "Flexible",
+   "Adjustable",
+   "Versatile",
+   "Resilient",
+   "Amenable"
+  ]
+ },
+ {
+  "id": "kadj-25",
+  "term": "Imperative",
+  "meaning": "Hayati, Mecburi",
+  "wordType": "adjective",
+  "synonyms": [
+   "Compulsory",
+   "Mandatory",
+   "Urgent",
+   "Pressing",
+   "Vital"
+  ]
+ },
+ {
+  "id": "kadj-26",
+  "term": "Reviled",
+  "meaning": "Nefret edilen, Aşağılanan",
+  "wordType": "adjective",
+  "synonyms": [
+   "Loathed",
+   "Despised",
+   "Hated",
+   "Detested",
+   "Condemned"
+  ]
+ },
+ {
+  "id": "kadj-27",
+  "term": "Egalitarian",
+  "meaning": "Eşitlikçi",
+  "wordType": "adjective",
+  "synonyms": [
+   "Democratic",
+   "Equal",
+   "Fair",
+   "Impartial",
+   "Unbiased"
+  ]
+ },
+ {
+  "id": "kadj-28",
+  "term": "Lucid",
+  "meaning": "Berrak, Açık",
+  "wordType": "adjective",
+  "synonyms": [
+   "Clear",
+   "Coherent",
+   "Transparent",
+   "Intelligible",
+   "Understandable"
+  ]
+ },
+ {
+  "id": "kadj-29",
+  "term": "Perilous",
+  "meaning": "Çok tehlikeli",
+  "wordType": "adjective",
+  "synonyms": [
+   "Dangerous",
+   "Risky",
+   "Hazardous",
+   "Precarious",
+   "Treacherous"
+  ]
+ },
+ {
+  "id": "kadj-30",
+  "term": "Malignant",
+  "meaning": "Kötü niyetli, Öldürücü",
+  "wordType": "adjective",
+  "synonyms": [
+   "Harmful",
+   "Deadly",
+   "Fatal",
+   "Malicious",
+   "Lethal"
+  ]
+ },
+ {
+  "id": "kadj-31",
+  "term": "Benign",
+  "meaning": "İyi huylu, Zararsız",
+  "wordType": "adjective",
+  "synonyms": [
+   "Harmless",
+   "Kind",
+   "Gentle",
+   "Mild",
+   "Favorable"
+  ]
+ },
+ {
+  "id": "kadj-32",
+  "term": "Paramount",
+  "meaning": "En önemli, Üstün",
+  "wordType": "adjective",
+  "synonyms": [
+   "Supreme",
+   "Chief",
+   "Primary",
+   "Dominant",
+   "Pre-eminent"
+  ]
+ }
+]

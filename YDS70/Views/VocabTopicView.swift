@@ -4,6 +4,7 @@ struct VocabTopicView: View {
     @Binding var path: NavigationPath
 
     @State private var isShowingImportSheet = false
+    @StateObject private var settings = AppSettings.shared
 
     private let options: [WordType?] = [nil] + WordType.allCases
 
@@ -70,6 +71,45 @@ struct VocabTopicView: View {
                     .padding(.vertical, 2)
                 }
                 .buttonStyle(.plain)
+
+                let removedCount = VocabProgressStore.shared.removedWordCount
+                Button {
+                    path.append(VocabRoute.removedWords)
+                } label: {
+                    HStack(spacing: 14) {
+                        Image(systemName: "trash.fill")
+                            .font(.system(size: 16, weight: .semibold))
+                            .foregroundStyle(.white)
+                            .frame(width: 36, height: 36)
+                            .background(Color.red.gradient, in: RoundedRectangle(cornerRadius: 10))
+                        VStack(alignment: .leading, spacing: 2) {
+                            Text("Listeden Çıkarılanlar")
+                                .font(.body.weight(.medium))
+                                .foregroundStyle(.primary)
+                            Text("\(removedCount) kelime")
+                                .font(.caption)
+                                .foregroundStyle(.secondary)
+                        }
+                        Spacer()
+                        Image(systemName: "chevron.right")
+                            .font(.caption)
+                            .foregroundStyle(.tertiary)
+                    }
+                    .padding(.vertical, 2)
+                }
+                .buttonStyle(.plain)
+            }
+
+            Section("Ayarlar") {
+                Toggle(isOn: $settings.isSynonymModeEnabled) {
+                    VStack(alignment: .leading, spacing: 2) {
+                        Text("Eş anlamlı sorularını göster")
+                            .font(.body.weight(.medium))
+                        Text("Açıkken bazı sorular Türkçe anlam yerine İngilizce eş anlamlı sorar")
+                            .font(.caption)
+                            .foregroundStyle(.secondary)
+                    }
+                }
             }
         }
         .toolbar {

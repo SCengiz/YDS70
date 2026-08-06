@@ -12,6 +12,8 @@ struct EzberleView: View {
                         VocabPracticeView(words: words, title: title)
                     case .masteredWords:
                         MasteredWordsView()
+                    case .removedWords:
+                        RemovedWordsView()
                     }
                 }
         }

@@ -1,0 +1,5499 @@
+[
+ {
+  "id": "gen-1",
+  "term": "abbreviate",
+  "meaning": "(1) kısaltmak, özetlemek (2) (matematikte) sadeleştirmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-2",
+  "term": "abolish",
+  "meaning": "(toplumdaki tabuları) yıkmak, sona erdirmek (= do away with)",
+  "wordType": "general",
+  "synonyms": [
+   "Do away with"
+  ]
+ },
+ {
+  "id": "gen-3",
+  "term": "abstain from",
+  "meaning": "(alkol, ilaç vb) --- den sakınmak/ uzak durmak (=avoid from)",
+  "wordType": "general",
+  "synonyms": [
+   "Avoid from"
+  ]
+ },
+ {
+  "id": "gen-4",
+  "term": "abundance",
+  "meaning": "bolluk, bereket",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-5",
+  "term": "access",
+  "meaning": "erişmek, ulaşmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-6",
+  "term": "accessible to",
+  "meaning": "ulaşılabilir, erişilebilir",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-7",
+  "term": "accuracy",
+  "meaning": "doğruluk, kesinlik",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-8",
+  "term": "accurate",
+  "meaning": "doğru, hatasız, eksiksiz bir şekilde (= precise, correct)",
+  "wordType": "general",
+  "synonyms": [
+   "Precise",
+   "Correct"
+  ]
+ },
+ {
+  "id": "gen-9",
+  "term": "accurately",
+  "meaning": "doğru, hatasız, eksiksiz bir şekilde (= precisely, correctly)",
+  "wordType": "general",
+  "synonyms": [
+   "Precisely",
+   "Correctly"
+  ]
+ },
+ {
+  "id": "gen-10",
+  "term": "accuse (of)",
+  "meaning": "birini bir şeyle suçlamak, itham etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-11",
+  "term": "acknowledge as",
+  "meaning": "(1) kabul etmek, --- olarak tanımak (2) (mektup, mesaj vb) aldığını gönderen kişiye bildirmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-12",
+  "term": "acquainted with",
+  "meaning": "aşina olmak, haberdar olmak (= familiar with)",
+  "wordType": "general",
+  "synonyms": [
+   "Familiar with"
+  ]
+ },
+ {
+  "id": "gen-13",
+  "term": "acquire",
+  "meaning": "(dil, miras, huy vb) edinmek, kazanmak (= obtain, attain) (*She acquired a huge fortune.) (* I acquired Turkish but I learned English in school.)",
+  "wordType": "general",
+  "synonyms": [
+   "Obtain",
+   "Attain"
+  ]
+ },
+ {
+  "id": "gen-14",
+  "term": "activity",
+  "meaning": "faaliyet, aktivite",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-15",
+  "term": "adapt",
+  "meaning": "bir şeye uyarlamak, uydurmak ( = adjust)",
+  "wordType": "general",
+  "synonyms": [
+   "Adjust"
+  ]
+ },
+ {
+  "id": "gen-16",
+  "term": "addict",
+  "meaning": "bağımlı, tiryaki",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-17",
+  "term": "addiction to",
+  "meaning": "bağımlılık, tiryakilik",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-18",
+  "term": "addition",
+  "meaning": "ilave, ek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-19",
+  "term": "additionally",
+  "meaning": "ayrıca, bunun yanı sıra, buna ilaveten (= furthermore,moreover)",
+  "wordType": "general",
+  "synonyms": [
+   "Furthermore",
+   "Moreover"
+  ]
+ },
+ {
+  "id": "gen-20",
+  "term": "adjustment",
+  "meaning": "düzeltme,intibak, uyma",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-21",
+  "term": "adore",
+  "meaning": "çok sevmek, tapmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-22",
+  "term": "advocate",
+  "meaning": "(1) savunmak (= defend) (2) desteklemek (= support)",
+  "wordType": "general",
+  "synonyms": [
+   "Defend",
+   "Support"
+  ]
+ },
+ {
+  "id": "gen-23",
+  "term": "affect",
+  "meaning": "etkilemek (= influence)",
+  "wordType": "general",
+  "synonyms": [
+   "Influence"
+  ]
+ },
+ {
+  "id": "gen-24",
+  "term": "aggressive",
+  "meaning": "saldırgan",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-25",
+  "term": "aid",
+  "meaning": "yardım etmek (= help)",
+  "wordType": "general",
+  "synonyms": [
+   "Help"
+  ]
+ },
+ {
+  "id": "gen-26",
+  "term": "alien (to)",
+  "meaning": "yabancı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-27",
+  "term": "alongside",
+  "meaning": "yanında, bitişiğinde (beside, next to)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-28",
+  "term": "alteration",
+  "meaning": "değişiklik",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-29",
+  "term": "amazing",
+  "meaning": "şaşırtıcı, hayran bırakıcı (= astonishing)",
+  "wordType": "general",
+  "synonyms": [
+   "Astonishing"
+  ]
+ },
+ {
+  "id": "gen-30",
+  "term": "amend",
+  "meaning": "değişiklik yapmak (kanunda düzenleme yapmak anlamındaki gibi)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-31",
+  "term": "amendment",
+  "meaning": "değişiklik, (kanun vb) üzerinde değişiklik yapmak (= alteration)",
+  "wordType": "general",
+  "synonyms": [
+   "Alteration"
+  ]
+ },
+ {
+  "id": "gen-32",
+  "term": "amusing",
+  "meaning": "eğlenceli, zevkli",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-33",
+  "term": "announce",
+  "meaning": "anons etmek, ilan etmek (= give out, declare)",
+  "wordType": "general",
+  "synonyms": [
+   "Give out",
+   "Declare"
+  ]
+ },
+ {
+  "id": "gen-34",
+  "term": "anticipate",
+  "meaning": "ummak, beklemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-35",
+  "term": "apologize",
+  "meaning": "özür dilemek (apologize to someone for something)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-36",
+  "term": "appalling",
+  "meaning": "korkunç (= dreadful, horrendous)",
+  "wordType": "general",
+  "synonyms": [
+   "Dreadful",
+   "Horrendous"
+  ]
+ },
+ {
+  "id": "gen-37",
+  "term": "appointment",
+  "meaning": "(1) atama, tayin (2) randevu (= rendezvous)",
+  "wordType": "general",
+  "synonyms": [
+   "Rendezvous"
+  ]
+ },
+ {
+  "id": "gen-38",
+  "term": "approach",
+  "meaning": "(1) (zaman/ mesafe bakımından birine/bir şeye) yaklaşmak (* Do not approach with fire! (2) (bankaya/yüksek bir mevkiye vb) müracaatta bulunmak, ricada bulunmak (* She approached the bank for a loan)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-39",
+  "term": "appropriately",
+  "meaning": "uygun olarak (= suitably)",
+  "wordType": "general",
+  "synonyms": [
+   "Suitably"
+  ]
+ },
+ {
+  "id": "gen-40",
+  "term": "approve of",
+  "meaning": "onaylamak, uygun bulmak, tasvip etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-41",
+  "term": "arrange",
+  "meaning": "düzenlemek, ayarlamak (toplantı, randevu vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-42",
+  "term": "artefact",
+  "meaning": "insan eliyle yapılmış (sanat)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-43",
+  "term": "ascend",
+  "meaning": "yukarı çıkmak, yükselmek, tırmanmak (= go up / climb up)",
+  "wordType": "general",
+  "synonyms": [
+   "Go up / climb up"
+  ]
+ },
+ {
+  "id": "gen-44",
+  "term": "ask for",
+  "meaning": "ricada bulunmak, bir şey istemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-45",
+  "term": "aspire",
+  "meaning": "şiddetle arzu etmek, çok istemek (* I’ve always aspired to be a singer)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-46",
+  "term": "assemble",
+  "meaning": "(1) bir araya getirmek, toplamak (= gather) (2) monte etmek (= put up)",
+  "wordType": "general",
+  "synonyms": [
+   "Gather",
+   "Put up"
+  ]
+ },
+ {
+  "id": "gen-47",
+  "term": "assign",
+  "meaning": "atamak, tayin etmek, görevlendirmek (= appoint)",
+  "wordType": "general",
+  "synonyms": [
+   "Appoint"
+  ]
+ },
+ {
+  "id": "gen-48",
+  "term": "assist somebody in something",
+  "meaning": "birine bir konuda yardım etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-49",
+  "term": "associate",
+  "meaning": "(zihninde insanlar/eşyalar arasında) çağrışım yapmak, çağrıştırmak * I always associate the smell of baking with my childhood.) (2) (kötü yolda olan veya kötü alışkanlıkları olan insanlarla) arkadaşlık yapmak, düşüp kalkmak (* Don’t associate with those glue-sniffers.)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-50",
+  "term": "assume",
+  "meaning": "(1) elinde delil olmadan bir şeyin doğru olduğunu düşünmek veya kabul etmek, farz etmek (= conclude) (2) (sorumluluk/vebal vb) üstlenmek, üzerine almak (= take on) (* I temporarily assumed the responsibility for her)",
+  "wordType": "general",
+  "synonyms": [
+   "Conclude",
+   "Take on"
+  ]
+ },
+ {
+  "id": "gen-51",
+  "term": "assure",
+  "meaning": "birine teminat vermek, emin kılmak, garanti vermek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-52",
+  "term": "astonishment",
+  "meaning": "şaşırtmak, şaşırmak (= amazement, bewilderment)",
+  "wordType": "general",
+  "synonyms": [
+   "Amazement",
+   "Bewilderment"
+  ]
+ },
+ {
+  "id": "gen-53",
+  "term": "attack",
+  "meaning": "saldırmak, saldırı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-54",
+  "term": "attainment",
+  "meaning": "ulaşmak, erişmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-55",
+  "term": "attend",
+  "meaning": "iştirak etmek, katılmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-56",
+  "term": "auditorium",
+  "meaning": "dinlenme/izleme salonu, seyircilerin oturduğu bölüm",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-57",
+  "term": "avert",
+  "meaning": "(1) olmasını önlemek (2) başka yöne çevirmek (trafik akışını vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-58",
+  "term": "award",
+  "meaning": "ödül",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-59",
+  "term": "backward",
+  "meaning": "geri kalmış, geriye doğru",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-60",
+  "term": "badly in need of",
+  "meaning": "bir şeye/birine çok muhtaç olmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-61",
+  "term": "barely",
+  "meaning": "(1) hemen hemen hiç, neredeyse hiç (2) güçlükle (= hardly, scarcely)",
+  "wordType": "general",
+  "synonyms": [
+   "Hardly",
+   "Scarcely"
+  ]
+ },
+ {
+  "id": "gen-62",
+  "term": "bargain",
+  "meaning": "(1) pazarlık, anlaşma (2) pazarlık etmek (3) kelepir, ucuz eşya",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-63",
+  "term": "barren",
+  "meaning": "kurak, verimsiz (= infertile, arid)",
+  "wordType": "general",
+  "synonyms": [
+   "Infertile",
+   "Arid"
+  ]
+ },
+ {
+  "id": "gen-64",
+  "term": "basic",
+  "meaning": "temel (= essential, fundamental)",
+  "wordType": "general",
+  "synonyms": [
+   "Essential",
+   "Fundamental"
+  ]
+ },
+ {
+  "id": "gen-65",
+  "term": "bazaar",
+  "meaning": "pazar, alışveriş yeri",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-66",
+  "term": "behave",
+  "meaning": "davranmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-67",
+  "term": "believe",
+  "meaning": "inanmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-68",
+  "term": "belongings",
+  "meaning": "birinin kişisel eşyaları (= possessions)",
+  "wordType": "general",
+  "synonyms": [
+   "Possessions"
+  ]
+ },
+ {
+  "id": "gen-69",
+  "term": "beloved",
+  "meaning": "sevgili, hazret",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-70",
+  "term": "bitingly satirical",
+  "meaning": "aşırı alaycı, insafsızca eleştirme",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-71",
+  "term": "blanket",
+  "meaning": "battaniye",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-72",
+  "term": "blaze",
+  "meaning": "(1) ateş, alev, yangın (2) parlamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-73",
+  "term": "bolt",
+  "meaning": "fırlayıp kaçmak, tabanları yağlamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-74",
+  "term": "branch",
+  "meaning": "dal, branş",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-75",
+  "term": "break off",
+  "meaning": "(nişan, nikah vb) bozmak, ayrılmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-76",
+  "term": "breed",
+  "meaning": "(1) (hayvan için) doğurmak, yavrulamak (2) hayvan yetiştirmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-77",
+  "term": "bribery",
+  "meaning": "rüşvet",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-78",
+  "term": "bride",
+  "meaning": "gelin",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-79",
+  "term": "brief",
+  "meaning": "kısa, öz",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-80",
+  "term": "broadcast",
+  "meaning": "(radyo, televizyon, hava durumu için) yayın",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-81",
+  "term": "Broadly speaking",
+  "meaning": "Genel konuşmak gerekirse (= generally, mostly)",
+  "wordType": "general",
+  "synonyms": [
+   "Generally",
+   "Mostly"
+  ]
+ },
+ {
+  "id": "gen-82",
+  "term": "broil",
+  "meaning": "ızgara yapmak, kavurmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-83",
+  "term": "bullfight",
+  "meaning": "boğa güreşi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-84",
+  "term": "bully",
+  "meaning": "(1) kabadayı, zorba (2) kabadayılık yapmak, zorbalık yapmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-85",
+  "term": "burial",
+  "meaning": "gömü, gömme",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-86",
+  "term": "burn",
+  "meaning": "(1) yakmak (2) yanmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-87",
+  "term": "button",
+  "meaning": "düğme",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-88",
+  "term": "calculator",
+  "meaning": "hesap makinesi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-89",
+  "term": "can’t take one’s eyes off",
+  "meaning": "gözlerini birinden veya bir şeyden alamamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-90",
+  "term": "cancel",
+  "meaning": "iptal etmek (= call off)",
+  "wordType": "general",
+  "synonyms": [
+   "Call off"
+  ]
+ },
+ {
+  "id": "gen-91",
+  "term": "captivating",
+  "meaning": "büyüleyici (= enchanting, fascinating)",
+  "wordType": "general",
+  "synonyms": [
+   "Enchanting",
+   "Fascinating"
+  ]
+ },
+ {
+  "id": "gen-92",
+  "term": "captive",
+  "meaning": "tutsak, esir",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-93",
+  "term": "captivity",
+  "meaning": "tutsaklık, esaret",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-94",
+  "term": "careless",
+  "meaning": "dikkatsiz",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-95",
+  "term": "carve",
+  "meaning": "(1) (tahta vb) oymak (2) (et vb) kesmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-96",
+  "term": "casually",
+  "meaning": "günlük, sıradan, havadan sudan",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-97",
+  "term": "caution",
+  "meaning": "uyarı, dikkat",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-98",
+  "term": "cease",
+  "meaning": "sona erdirmek, durdurmak ( cease-fire= ateşkes)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-99",
+  "term": "celebration",
+  "meaning": "kutlama",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-100",
+  "term": "celebrity",
+  "meaning": "ünlü",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-101",
+  "term": "census",
+  "meaning": "nüfus sayımı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-102",
+  "term": "ceremony",
+  "meaning": "tören",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-103",
+  "term": "charge (with)",
+  "meaning": "--- ile yargılamak (mahkemede) (= try)",
+  "wordType": "general",
+  "synonyms": [
+   "Try"
+  ]
+ },
+ {
+  "id": "gen-104",
+  "term": "circulation",
+  "meaning": "(1) dolaşım (2) gazete tirajı, günlük satış oranı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-105",
+  "term": "cite",
+  "meaning": "örneklemek, adından bahsetmek, değinmek (= refer to, mention)",
+  "wordType": "general",
+  "synonyms": [
+   "Refer to",
+   "Mention"
+  ]
+ },
+ {
+  "id": "gen-106",
+  "term": "citizen",
+  "meaning": "vatandaş",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-107",
+  "term": "clarify",
+  "meaning": "açıklamak (= explain)",
+  "wordType": "general",
+  "synonyms": [
+   "Explain"
+  ]
+ },
+ {
+  "id": "gen-108",
+  "term": "claw",
+  "meaning": "pençe, hayvan pençesindeki kıvrık tırnak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-109",
+  "term": "clearance",
+  "meaning": "(1) mağazayı boşaltma, malları elden çıkarma, tasfiye (2) izin, yeşil ışık",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-110",
+  "term": "closed",
+  "meaning": "kapalı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-111",
+  "term": "closure",
+  "meaning": "(1) kapanış (2) iflas",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-112",
+  "term": "coincide with",
+  "meaning": "aynı zamana denk gelmek/tesadüf etmek (= fall on the same date)",
+  "wordType": "general",
+  "synonyms": [
+   "Fall on the same date"
+  ]
+ },
+ {
+  "id": "gen-113",
+  "term": "collapse",
+  "meaning": "(1) (bina vb için) çökmek (2) bayılmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-114",
+  "term": "collapsible",
+  "meaning": "katlanabilir (kanepe vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-115",
+  "term": "collar",
+  "meaning": "(1) yaka (2) tasma",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-116",
+  "term": "colleague",
+  "meaning": "iş arkadaşı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-117",
+  "term": "collide with",
+  "meaning": "çarpışmak (= crash into)",
+  "wordType": "general",
+  "synonyms": [
+   "Crash into"
+  ]
+ },
+ {
+  "id": "gen-118",
+  "term": "commence",
+  "meaning": "başlamak (= start)",
+  "wordType": "general",
+  "synonyms": [
+   "Start"
+  ]
+ },
+ {
+  "id": "gen-119",
+  "term": "comment on",
+  "meaning": "yorum yapmak (= interpret)",
+  "wordType": "general",
+  "synonyms": [
+   "Interpret"
+  ]
+ },
+ {
+  "id": "gen-120",
+  "term": "commercial",
+  "meaning": "ticari",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-121",
+  "term": "common",
+  "meaning": "(1) ortak (2) sıradan, yaygın",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-122",
+  "term": "commonplace",
+  "meaning": "yaygın, sıradan (= ordinary, usual)",
+  "wordType": "general",
+  "synonyms": [
+   "Ordinary",
+   "Usual"
+  ]
+ },
+ {
+  "id": "gen-123",
+  "term": "commuter",
+  "meaning": "ev ile iş arasında mekik dokuyan/gidip gelen",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-124",
+  "term": "companion",
+  "meaning": "dost, arkadaş",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-125",
+  "term": "company",
+  "meaning": "(1) arkadaşlık, dostluk (2) şirket",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-126",
+  "term": "compel",
+  "meaning": "zorlamak, mecbur bırakmak (= force, oblige)",
+  "wordType": "general",
+  "synonyms": [
+   "Force",
+   "Oblige"
+  ]
+ },
+ {
+  "id": "gen-127",
+  "term": "compensation for",
+  "meaning": "(1) tazminat ödemek (2) telafi etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-128",
+  "term": "compete against",
+  "meaning": "başkasıyla yarışmak, rekabet etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-129",
+  "term": "compete with",
+  "meaning": "başkasıyla aynı yerden beslenmek/geçim sağlamak (kangurular koyunların otlaklarından otlanan rakip hayvanlar olması gibi)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-130",
+  "term": "competition",
+  "meaning": "(1) rekabet (2) müsabaka, yarış",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-131",
+  "term": "complain to somebody about something",
+  "meaning": "şikayet etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-132",
+  "term": "completely",
+  "meaning": "tamamen, bütünüyle (= entirely)",
+  "wordType": "general",
+  "synonyms": [
+   "Entirely"
+  ]
+ },
+ {
+  "id": "gen-133",
+  "term": "comply (with)",
+  "meaning": "--- e uymak,--- e itaat etmek (= abide by)",
+  "wordType": "general",
+  "synonyms": [
+   "Abide by"
+  ]
+ },
+ {
+  "id": "gen-134",
+  "term": "compose",
+  "meaning": "oluşturmak, meydana getirmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-135",
+  "term": "compound",
+  "meaning": "bir sürü binanın bulunduğu etrafı çevrili mekan",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-136",
+  "term": "compute",
+  "meaning": "hesap yapmak, bir notu bilgisayara girmek(= calculate )",
+  "wordType": "general",
+  "synonyms": [
+   "Calculate"
+  ]
+ },
+ {
+  "id": "gen-137",
+  "term": "conceive as",
+  "meaning": "(1) --- olarak algılamak/düşünmek (2) conceive of = bir şeyi ilk kendisi akıl etmek (= senaryonun konusu vb) (3) gebe kalmak",
+  "wordType": "general",
+  "synonyms": [
+   "Senaryonun konusu vb"
+  ]
+ },
+ {
+  "id": "gen-138",
+  "term": "conclude",
+  "meaning": "sonuç çıkarmak (= assume)",
+  "wordType": "general",
+  "synonyms": [
+   "Assume"
+  ]
+ },
+ {
+  "id": "gen-139",
+  "term": "conclusion",
+  "meaning": "sonuç, netice, yargı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-140",
+  "term": "condition",
+  "meaning": "durum, hal / koşul,şart",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-141",
+  "term": "conditionally",
+  "meaning": "şartlı olarak, belli şartlara bağlı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-142",
+  "term": "confess",
+  "meaning": "itiraf etmek (= speak out)",
+  "wordType": "general",
+  "synonyms": [
+   "Speak out"
+  ]
+ },
+ {
+  "id": "gen-143",
+  "term": "confident (of)",
+  "meaning": "emin",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-144",
+  "term": "confine to",
+  "meaning": "(1) sınırlamak, bir yere mahkum etmek (2) hapse atmak (= imprison)",
+  "wordType": "general",
+  "synonyms": [
+   "Imprison"
+  ]
+ },
+ {
+  "id": "gen-145",
+  "term": "conflict",
+  "meaning": "(1) çatışma, savaş (2) anlaşamama, tartışma",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-146",
+  "term": "conflict with",
+  "meaning": "çatışmak, çarpışmak, savaşmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-147",
+  "term": "conform to",
+  "meaning": "uymak, uyuşmak (= obey the rules)",
+  "wordType": "general",
+  "synonyms": [
+   "Obey the rules"
+  ]
+ },
+ {
+  "id": "gen-148",
+  "term": "consent",
+  "meaning": "(1) razı olmak (2) izin,rıza (= permission)",
+  "wordType": "general",
+  "synonyms": [
+   "Permission"
+  ]
+ },
+ {
+  "id": "gen-149",
+  "term": "consent to",
+  "meaning": "razı olmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-150",
+  "term": "consequence",
+  "meaning": "sonuç, netice (= result)",
+  "wordType": "general",
+  "synonyms": [
+   "Result"
+  ]
+ },
+ {
+  "id": "gen-151",
+  "term": "conserve",
+  "meaning": "korumak, muhafaza etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-152",
+  "term": "considerably",
+  "meaning": "önemli ölçüde, oldukça",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-153",
+  "term": "considerately",
+  "meaning": "düşünceli/nazik bir şekilde",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-154",
+  "term": "consideration",
+  "meaning": "göz önünde bulundurma/düşünme",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-155",
+  "term": "conspire against",
+  "meaning": "birine komplo kurmak (= plot against)",
+  "wordType": "general",
+  "synonyms": [
+   "Plot against"
+  ]
+ },
+ {
+  "id": "gen-156",
+  "term": "constantly",
+  "meaning": "1-sürekli 2- aralıksız",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-157",
+  "term": "consume",
+  "meaning": "tüketmek (= use up)",
+  "wordType": "general",
+  "synonyms": [
+   "Use up"
+  ]
+ },
+ {
+  "id": "gen-158",
+  "term": "contact with",
+  "meaning": "birisi ile kontak/temas kurmak, irtibata geçmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-159",
+  "term": "contemporary",
+  "meaning": "çağdaş, aynı çağda yaşayan",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-160",
+  "term": "content with",
+  "meaning": "--- den memnun",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-161",
+  "term": "contest",
+  "meaning": "yarışma, müsabaka",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-162",
+  "term": "continent",
+  "meaning": "kıta",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-163",
+  "term": "contract",
+  "meaning": "(1) sözleşme yapmak (2) küçülmek, büzülmek (= shrink) (3) hastalık kapmak",
+  "wordType": "general",
+  "synonyms": [
+   "Shrink"
+  ]
+ },
+ {
+  "id": "gen-164",
+  "term": "contradictory",
+  "meaning": "çelişkili, tutarsız, kendini yalancı çıkaran (= inconsistent)",
+  "wordType": "general",
+  "synonyms": [
+   "Inconsistent"
+  ]
+ },
+ {
+  "id": "gen-165",
+  "term": "contribute to",
+  "meaning": "katkıda bulunmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-166",
+  "term": "controversy",
+  "meaning": "anlaşmazlık, fikir ayrılığı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-167",
+  "term": "conventional",
+  "meaning": "geleneksel, alışılagelen",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-168",
+  "term": "converse",
+  "meaning": "(1) karşıt, zıt (2) konuşmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-169",
+  "term": "convert into",
+  "meaning": "dönüştürmek (= change)",
+  "wordType": "general",
+  "synonyms": [
+   "Change"
+  ]
+ },
+ {
+  "id": "gen-170",
+  "term": "convict",
+  "meaning": "mahkum, tutuklu",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-171",
+  "term": "correctly",
+  "meaning": "doğru bir şekilde, düzgünce (= accurately, precisely)",
+  "wordType": "general",
+  "synonyms": [
+   "Accurately",
+   "Precisely"
+  ]
+ },
+ {
+  "id": "gen-172",
+  "term": "correspond to",
+  "meaning": "bir şeyle uymak, uygun düşmek, tekabül etmek (= agree, match)",
+  "wordType": "general",
+  "synonyms": [
+   "Agree",
+   "Match"
+  ]
+ },
+ {
+  "id": "gen-173",
+  "term": "correspond with",
+  "meaning": "birisi ile yazışmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-174",
+  "term": "counterpart",
+  "meaning": "karşılığı, dengi (“Sultan” kelimesinin counterpart’ı “Kral” dır)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-175",
+  "term": "couple",
+  "meaning": "çift",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-176",
+  "term": "course",
+  "meaning": "(1) gidişat, ilerleme (zaman/mekan içinde)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-177",
+  "term": "cramped",
+  "meaning": "hijyenik olmayan",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-178",
+  "term": "crash",
+  "meaning": "(1) kaza, şiddetli ses, iflas (2) yere düşme , çarpma",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-179",
+  "term": "crawl",
+  "meaning": "emeklemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-180",
+  "term": "credibly",
+  "meaning": "inanılır bir şekilde (= believably)",
+  "wordType": "general",
+  "synonyms": [
+   "Believably"
+  ]
+ },
+ {
+  "id": "gen-181",
+  "term": "criminal",
+  "meaning": "ciddi bir suç/cürüm işlemiş,suçlu",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-182",
+  "term": "crippled",
+  "meaning": "felçli, kötürüm (= paralysed) (2) engellenmiş, gerilemiş (ekonomi vb)",
+  "wordType": "general",
+  "synonyms": [
+   "Paralysed"
+  ]
+ },
+ {
+  "id": "gen-183",
+  "term": "crocodile",
+  "meaning": "timsah (= alligator)",
+  "wordType": "general",
+  "synonyms": [
+   "Alligator"
+  ]
+ },
+ {
+  "id": "gen-184",
+  "term": "cross out",
+  "meaning": "üstünü çizmek, silmek (= delete)",
+  "wordType": "general",
+  "synonyms": [
+   "Delete"
+  ]
+ },
+ {
+  "id": "gen-185",
+  "term": "crumble",
+  "meaning": "ufalanmak, parçalanmak (= disintegrate, fall apart)",
+  "wordType": "general",
+  "synonyms": [
+   "Disintegrate",
+   "Fall apart"
+  ]
+ },
+ {
+  "id": "gen-186",
+  "term": "curator",
+  "meaning": "sanat galerisi/müze/kütüphane görevlisi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-187",
+  "term": "currency",
+  "meaning": "döviz",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-188",
+  "term": "curve",
+  "meaning": "eğim, eğmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-189",
+  "term": "custom",
+  "meaning": "gelenek, görenek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-190",
+  "term": "customary",
+  "meaning": "geleneksel (= traditional",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-191",
+  "term": "debate",
+  "meaning": "tartışmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-192",
+  "term": "debt",
+  "meaning": "borç",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-193",
+  "term": "deceit",
+  "meaning": "kandırmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-194",
+  "term": "deceive",
+  "meaning": "kandırmak, kafaya almak (= take in)",
+  "wordType": "general",
+  "synonyms": [
+   "Take in"
+  ]
+ },
+ {
+  "id": "gen-195",
+  "term": "decipher",
+  "meaning": "şifresini çözmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-196",
+  "term": "decline",
+  "meaning": "(1) azalmak, gerilemek (2) kibarca reddetmek (= turn down)",
+  "wordType": "general",
+  "synonyms": [
+   "Turn down"
+  ]
+ },
+ {
+  "id": "gen-197",
+  "term": "dedicate to",
+  "meaning": "kendini adamak (= devote to)",
+  "wordType": "general",
+  "synonyms": [
+   "Devote to"
+  ]
+ },
+ {
+  "id": "gen-198",
+  "term": "deduce",
+  "meaning": "sonuç çıkarmak (= conclude, assume)",
+  "wordType": "general",
+  "synonyms": [
+   "Conclude",
+   "Assume"
+  ]
+ },
+ {
+  "id": "gen-199",
+  "term": "deduction",
+  "meaning": "tümevarım, sonuç (= conclusion)",
+  "wordType": "general",
+  "synonyms": [
+   "Conclusion"
+  ]
+ },
+ {
+  "id": "gen-200",
+  "term": "deepen",
+  "meaning": "derinleştirmek, derinleşmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-201",
+  "term": "defect",
+  "meaning": "bozukluk, kusur, hata, sakatlık",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-202",
+  "term": "define",
+  "meaning": "tanımlamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-203",
+  "term": "degeneration",
+  "meaning": "yozlaşma, aslını kaybetme",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-204",
+  "term": "delightful",
+  "meaning": "zevkli, hoş",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-205",
+  "term": "demobilize",
+  "meaning": "askerden terhis etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-206",
+  "term": "demolish",
+  "meaning": "yıkmak, parçalamak (= do away with)",
+  "wordType": "general",
+  "synonyms": [
+   "Do away with"
+  ]
+ },
+ {
+  "id": "gen-207",
+  "term": "depress",
+  "meaning": "(1) üzmek (= sadden, upset) (2) bastırmak (= press down)",
+  "wordType": "general",
+  "synonyms": [
+   "Sadden",
+   "Upset",
+   "Press down"
+  ]
+ },
+ {
+  "id": "gen-208",
+  "term": "desert",
+  "meaning": "çöl",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-209",
+  "term": "deserve",
+  "meaning": "hak etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-210",
+  "term": "design",
+  "meaning": "plan çizmek, tasarlamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-211",
+  "term": "desire",
+  "meaning": "(1) istek, arzu (2) istemek, arzu etmek (= wish)",
+  "wordType": "general",
+  "synonyms": [
+   "Wish"
+  ]
+ },
+ {
+  "id": "gen-212",
+  "term": "desolate",
+  "meaning": "mutsuz, kederli (= depressed) (2) terkedilmiş (= deserted)",
+  "wordType": "general",
+  "synonyms": [
+   "Depressed",
+   "Deserted"
+  ]
+ },
+ {
+  "id": "gen-213",
+  "term": "dessert",
+  "meaning": "tatlı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-214",
+  "term": "destination",
+  "meaning": "hedef, varılacak yer",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-215",
+  "term": "destiny",
+  "meaning": "kader, kısmet",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-216",
+  "term": "detain",
+  "meaning": "alıkoymak, göz altında tutmak (= take into custody)",
+  "wordType": "general",
+  "synonyms": [
+   "Take into custody"
+  ]
+ },
+ {
+  "id": "gen-217",
+  "term": "detection",
+  "meaning": "teşhis etmek, belirlemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-218",
+  "term": "deter (someone) from",
+  "meaning": "caydırmak, engel olmak (= discourage)",
+  "wordType": "general",
+  "synonyms": [
+   "Discourage"
+  ]
+ },
+ {
+  "id": "gen-219",
+  "term": "determination",
+  "meaning": "(1) azim, kararlılık (= ambition) (2) inat (= stubbornness, obstinacy)",
+  "wordType": "general",
+  "synonyms": [
+   "Ambition",
+   "Stubbornness",
+   "Obstinacy"
+  ]
+ },
+ {
+  "id": "gen-220",
+  "term": "devastate",
+  "meaning": "yıkmak, tahrip etmek (= destroy)",
+  "wordType": "general",
+  "synonyms": [
+   "Destroy"
+  ]
+ },
+ {
+  "id": "gen-221",
+  "term": "develop",
+  "meaning": "(1) geliş(tir)mek, genişle(t)mek, ortaya atmak (teori, fakir vb) (2) (foto) film banyo ettirmek (3) (vücudun ürettiği bir hastalığa) yakalanmak “develop cancer”",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-222",
+  "term": "devote",
+  "meaning": "adamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-223",
+  "term": "diagnose as",
+  "meaning": "teşhis etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-224",
+  "term": "direct",
+  "meaning": "(1) yönetmek (2) (turiste vb) yol göstermek (guide)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-225",
+  "term": "disappearance",
+  "meaning": "ortadan/gözden kaybolmak (= vanish)",
+  "wordType": "general",
+  "synonyms": [
+   "Vanish"
+  ]
+ },
+ {
+  "id": "gen-226",
+  "term": "disclose",
+  "meaning": "açığa çıkarmak, gün ışığına çıkarmak (= reveal, display)",
+  "wordType": "general",
+  "synonyms": [
+   "Reveal",
+   "Display"
+  ]
+ },
+ {
+  "id": "gen-227",
+  "term": "discriminate (against)",
+  "meaning": "(ırk, yaş, cinsiyet vb) ayrımcılık yapmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-228",
+  "term": "discriminate against",
+  "meaning": "ayrımcılık yapmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-229",
+  "term": "discuss about",
+  "meaning": "tartışmak (= argue)",
+  "wordType": "general",
+  "synonyms": [
+   "Argue"
+  ]
+ },
+ {
+  "id": "gen-230",
+  "term": "disease",
+  "meaning": "hastalık, maraz (= illness, ailment)",
+  "wordType": "general",
+  "synonyms": [
+   "Illness",
+   "Ailment"
+  ]
+ },
+ {
+  "id": "gen-231",
+  "term": "dismissal",
+  "meaning": "kovma, başından savma",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-232",
+  "term": "dispatch",
+  "meaning": "göndermek, yollamak (= send, submit)",
+  "wordType": "general",
+  "synonyms": [
+   "Send",
+   "Submit"
+  ]
+ },
+ {
+  "id": "gen-233",
+  "term": "displeased",
+  "meaning": "hoşnut kalmamış, memnun olmayan (= discontented, unsatisfied)",
+  "wordType": "general",
+  "synonyms": [
+   "Discontented",
+   "Unsatisfied"
+  ]
+ },
+ {
+  "id": "gen-234",
+  "term": "dispute",
+  "meaning": "(1) tartışmak, anlaşamamak (= disagree) (2) anlaşmazlık (= controversy)",
+  "wordType": "general",
+  "synonyms": [
+   "Disagree",
+   "Controversy"
+  ]
+ },
+ {
+  "id": "gen-235",
+  "term": "disqualify",
+  "meaning": "diskalifiye etmek, elemek, yetersiz görmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-236",
+  "term": "disseminate",
+  "meaning": "(bilgi, fakir vb) yaymak, dağıtmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-237",
+  "term": "distort",
+  "meaning": "(1) (olayın aslını) çarpıtmak, farklı bir anlam yüklemek (=misrepresent) (2) (şeklini/biçimini vb) bozmak, tahrif etmek (= disfigure)",
+  "wordType": "general",
+  "synonyms": [
+   "Misrepresent",
+   "Disfigure"
+  ]
+ },
+ {
+  "id": "gen-238",
+  "term": "distress",
+  "meaning": "(1) tehlike (2) acı, ıstırap",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-239",
+  "term": "distribute",
+  "meaning": "dağıtmak (= deliver, hand out)",
+  "wordType": "general",
+  "synonyms": [
+   "Deliver",
+   "Hand out"
+  ]
+ },
+ {
+  "id": "gen-240",
+  "term": "divert",
+  "meaning": "(trafik yönünü vb) saptırmak, başka yöne çevirmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-241",
+  "term": "dizzy",
+  "meaning": "başı dönen, kendini bayılacak gibi hisseden (= giddy)",
+  "wordType": "general",
+  "synonyms": [
+   "Giddy"
+  ]
+ },
+ {
+  "id": "gen-242",
+  "term": "docile (dosayl)",
+  "meaning": "uysal, evcil",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-243",
+  "term": "dominate",
+  "meaning": "egemen/baskın olmak, hakim olmak, idaresi altına almak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-244",
+  "term": "donate",
+  "meaning": "(para, kan vb) bağış yapmak (= contribute)",
+  "wordType": "general",
+  "synonyms": [
+   "Contribute"
+  ]
+ },
+ {
+  "id": "gen-245",
+  "term": "donation",
+  "meaning": "(para, kan vb) bağış yapmak (= contribution)",
+  "wordType": "general",
+  "synonyms": [
+   "Contribution"
+  ]
+ },
+ {
+  "id": "gen-246",
+  "term": "dowry",
+  "meaning": "çeyiz",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-247",
+  "term": "draw",
+  "meaning": "(1) (resim vb) çizmek (2) (perde vb) çekmek, kenara almak (3) (sonuç) çıkarmak (***draw a conclusion) (4) bir maçın berabere bitmesi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-248",
+  "term": "dress code",
+  "meaning": "(bir işyerinde veya okulda) kıyafet genelgesi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-249",
+  "term": "drug addict",
+  "meaning": "eroin bağımlısı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-250",
+  "term": "drug dealer",
+  "meaning": "eroin ticareti yapan kişi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-251",
+  "term": "dustbin",
+  "meaning": "çöp kutusu (= trash can)",
+  "wordType": "general",
+  "synonyms": [
+   "Trash can"
+  ]
+ },
+ {
+  "id": "gen-252",
+  "term": "earth*****",
+  "meaning": "deprem",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-253",
+  "term": "edit",
+  "meaning": "bir kitabı basılabilir hale getirmek, editörlük yapmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-254",
+  "term": "edition",
+  "meaning": "(kitap için) basım, baskı, yayın",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-255",
+  "term": "educate",
+  "meaning": "eğitmek (= train)",
+  "wordType": "general",
+  "synonyms": [
+   "Train"
+  ]
+ },
+ {
+  "id": "gen-256",
+  "term": "effect",
+  "meaning": "etki (= influence, impact) *have an effect on = üzerinde etkisi olmak",
+  "wordType": "general",
+  "synonyms": [
+   "Influence",
+   "Impact"
+  ]
+ },
+ {
+  "id": "gen-257",
+  "term": "elect",
+  "meaning": "seçmek (= vote for)",
+  "wordType": "general",
+  "synonyms": [
+   "Vote for"
+  ]
+ },
+ {
+  "id": "gen-258",
+  "term": "elimination",
+  "meaning": "(1) ortadan kaldırma, yok etme, bertaraf etme (2) hesaba katmama",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-259",
+  "term": "embarrass",
+  "meaning": "utandırma (= humiliate)",
+  "wordType": "general",
+  "synonyms": [
+   "Humiliate"
+  ]
+ },
+ {
+  "id": "gen-260",
+  "term": "embrace",
+  "meaning": "(1) kucaklamak (= hug, cuddle) (2) (fikir, din vb) benimsemek",
+  "wordType": "general",
+  "synonyms": [
+   "Hug",
+   "Cuddle"
+  ]
+ },
+ {
+  "id": "gen-261",
+  "term": "emerge",
+  "meaning": "ortaya çıkmak (= come out)",
+  "wordType": "general",
+  "synonyms": [
+   "Come out"
+  ]
+ },
+ {
+  "id": "gen-262",
+  "term": "emphasize",
+  "meaning": "vurgulamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-263",
+  "term": "empty",
+  "meaning": "(1) boşaltmak (2) boş",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-264",
+  "term": "emulate",
+  "meaning": "taklit etmek,(= imitate, copy)",
+  "wordType": "general",
+  "synonyms": [
+   "Imitate",
+   "Copy"
+  ]
+ },
+ {
+  "id": "gen-265",
+  "term": "enable",
+  "meaning": "olanaklı kılmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-266",
+  "term": "enclose",
+  "meaning": "çevresini sarmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-267",
+  "term": "encounter",
+  "meaning": "karşılaşmak ( to face)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-268",
+  "term": "encourage",
+  "meaning": "teşvik etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-269",
+  "term": "enhancement",
+  "meaning": "yükseltme, artırma, çoğaltma (= improvement, enrichment)",
+  "wordType": "general",
+  "synonyms": [
+   "Improvement",
+   "Enrichment"
+  ]
+ },
+ {
+  "id": "gen-270",
+  "term": "enlarge",
+  "meaning": "büyütmek, genişletmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-271",
+  "term": "enquire",
+  "meaning": "soruşturmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-272",
+  "term": "enslave",
+  "meaning": "köleleştirmek, esir etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-273",
+  "term": "entirely",
+  "meaning": "tamamen (= completely)",
+  "wordType": "general",
+  "synonyms": [
+   "Completely"
+  ]
+ },
+ {
+  "id": "gen-274",
+  "term": "entrance",
+  "meaning": "giriş",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-275",
+  "term": "envy",
+  "meaning": "kıskanmak, imrenmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-276",
+  "term": "epic",
+  "meaning": "destan",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-277",
+  "term": "equal",
+  "meaning": "eşit, adil",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-278",
+  "term": "equality",
+  "meaning": "eşitlik (= parity, fairness)",
+  "wordType": "general",
+  "synonyms": [
+   "Parity",
+   "Fairness"
+  ]
+ },
+ {
+  "id": "gen-279",
+  "term": "equate",
+  "meaning": "eşitlemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-280",
+  "term": "equip",
+  "meaning": "donatmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-281",
+  "term": "erode",
+  "meaning": "yıpratmak, aşınmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-282",
+  "term": "erupt",
+  "meaning": "patlamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-283",
+  "term": "establish",
+  "meaning": "kurmak, doğruluğunu kanıtlamak, kabul etttirmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-284",
+  "term": "eternal",
+  "meaning": "kalıcı, ebedi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-285",
+  "term": "evaluate",
+  "meaning": "değerlendirmek (= assess)",
+  "wordType": "general",
+  "synonyms": [
+   "Assess"
+  ]
+ },
+ {
+  "id": "gen-286",
+  "term": "evaluation",
+  "meaning": "değerlendirme (= assessment)",
+  "wordType": "general",
+  "synonyms": [
+   "Assessment"
+  ]
+ },
+ {
+  "id": "gen-287",
+  "term": "evidently",
+  "meaning": "açık ve şüphe götürmez bir şekilde, delillere dayanarak (= obviously)",
+  "wordType": "general",
+  "synonyms": [
+   "Obviously"
+  ]
+ },
+ {
+  "id": "gen-288",
+  "term": "evolve",
+  "meaning": "(1) geliş(tir)mek (= develop) (2) (Biyolojide) evrim geçirmek",
+  "wordType": "general",
+  "synonyms": [
+   "Develop"
+  ]
+ },
+ {
+  "id": "gen-289",
+  "term": "exaggerated",
+  "meaning": "abartılı, mübalağalı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-290",
+  "term": "exclusive to",
+  "meaning": "herkese açık olmayan, özel (otel, tatil yeri vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-291",
+  "term": "exclusively",
+  "meaning": "sadece, yalnızca",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-292",
+  "term": "excursion",
+  "meaning": "keşif gezisi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-293",
+  "term": "exhibit",
+  "meaning": "sergilemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-294",
+  "term": "existence",
+  "meaning": "var oluş, mevcut olma",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-295",
+  "term": "expect",
+  "meaning": "ummak, beklemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-296",
+  "term": "expectation",
+  "meaning": "umut, beklenti",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-297",
+  "term": "expense",
+  "meaning": "masraf",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-298",
+  "term": "experience",
+  "meaning": "(1) tecrübe (2) tecrübe etmek, yaşamak (3) olay, vukuat",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-299",
+  "term": "Expiry Date",
+  "meaning": "Son Kullanma Tarihi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-300",
+  "term": "explode",
+  "meaning": "patlamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-301",
+  "term": "explore",
+  "meaning": "keşfetmek,araştırmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-302",
+  "term": "export",
+  "meaning": "ithal etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-303",
+  "term": "express",
+  "meaning": "(1) ifade etmek, iletmek (2) çabuk, hızlı (= fast)",
+  "wordType": "general",
+  "synonyms": [
+   "Fast"
+  ]
+ },
+ {
+  "id": "gen-304",
+  "term": "extraordinary",
+  "meaning": "(1) fevkalade, olağanüstü (= exceptional) (2) tuhaf, alışılmadık",
+  "wordType": "general",
+  "synonyms": [
+   "Exceptional"
+  ]
+ },
+ {
+  "id": "gen-305",
+  "term": "fabricate",
+  "meaning": "(1) uydurmak (= make up) (2) (raf vb) monte etmek (= put up)",
+  "wordType": "general",
+  "synonyms": [
+   "Make up",
+   "Put up"
+  ]
+ },
+ {
+  "id": "gen-306",
+  "term": "fade",
+  "meaning": "(1) solmak (2) solgun",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-307",
+  "term": "failure",
+  "meaning": "başarısızlık",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-308",
+  "term": "faint",
+  "meaning": "(1) bayılmak (= pass out) (2) solgun (ses, renk vb)",
+  "wordType": "general",
+  "synonyms": [
+   "Pass out"
+  ]
+ },
+ {
+  "id": "gen-309",
+  "term": "fairly",
+  "meaning": "oldukça (= quite, rather)",
+  "wordType": "general",
+  "synonyms": [
+   "Quite",
+   "Rather"
+  ]
+ },
+ {
+  "id": "gen-310",
+  "term": "falsify",
+  "meaning": "(1) hesaplar üzerinde oynamak (2) sahtekarlık yapmak (= fake)",
+  "wordType": "general",
+  "synonyms": [
+   "Fake"
+  ]
+ },
+ {
+  "id": "gen-311",
+  "term": "familiar (with)",
+  "meaning": "aşina, tanıdık",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-312",
+  "term": "famish",
+  "meaning": "aç kalmak, açlıktan ölmek (= starve)",
+  "wordType": "general",
+  "synonyms": [
+   "Starve"
+  ]
+ },
+ {
+  "id": "gen-313",
+  "term": "fare",
+  "meaning": "(otobüs, uçak vb için) fiyat",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-314",
+  "term": "fatal",
+  "meaning": "ölümcül ***fatally injured = ağır yaralı, ölümcül yarası olan",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-315",
+  "term": "favourable",
+  "meaning": "olumlu, yapıcı (= positive, constructive) (2) uğurlu (=auspicious)",
+  "wordType": "general",
+  "synonyms": [
+   "Positive",
+   "Constructive",
+   "Auspicious"
+  ]
+ },
+ {
+  "id": "gen-316",
+  "term": "fearful for",
+  "meaning": "--- için korkan/endişelenen",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-317",
+  "term": "fertilize",
+  "meaning": "(toprağı vb) verimli hale getirmek, verimli kılmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-318",
+  "term": "fetch",
+  "meaning": "gidip getirmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-319",
+  "term": "fiancé",
+  "meaning": "(erkek) nişanlı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-320",
+  "term": "fiancée",
+  "meaning": "(kız) nişanlı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-321",
+  "term": "field trip",
+  "meaning": "kır gezisi, arazi gezisi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-322",
+  "term": "figure",
+  "meaning": "(1) şekil, figür (2) rakam, sayı (3) figure out = anlamak (= make out)",
+  "wordType": "general",
+  "synonyms": [
+   "Make out"
+  ]
+ },
+ {
+  "id": "gen-323",
+  "term": "filthy",
+  "meaning": "(1) pis, kirli (2) dayanıksız, sağlam olmayan",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-324",
+  "term": "finance",
+  "meaning": "finanse etmek, paraca desteklemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-325",
+  "term": "fine",
+  "meaning": "(1) ince ince/küçük doğranmış (et, patates vb) (2) iyi, güzel (3) para cezası",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-326",
+  "term": "firework",
+  "meaning": "havai fişek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-327",
+  "term": "fit",
+  "meaning": "(1) sağlıklı, zinde, sıhhati yerinde (= robust, healthy) (2) (bir kıyafetin şıklık bakımından değil de bedene oturması anlamında) yakışmak (3) sara nöbeti (= seizure)",
+  "wordType": "general",
+  "synonyms": [
+   "Robust",
+   "Healthy",
+   "Seizure"
+  ]
+ },
+ {
+  "id": "gen-328",
+  "term": "flatmate",
+  "meaning": "ev arkadaşı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-329",
+  "term": "flattery",
+  "meaning": "birine yağ çekme",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-330",
+  "term": "flee",
+  "meaning": "kaçmak (= escape)",
+  "wordType": "general",
+  "synonyms": [
+   "Escape"
+  ]
+ },
+ {
+  "id": "gen-331",
+  "term": "fleece",
+  "meaning": "koyun postu (yünlü)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-332",
+  "term": "flight",
+  "meaning": "(1) uçuş (2) uçak (= airplane = aeroplane)",
+  "wordType": "general",
+  "synonyms": [
+   "Airplane = aeroplane"
+  ]
+ },
+ {
+  "id": "gen-333",
+  "term": "flow",
+  "meaning": "(nehir vb için) akmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-334",
+  "term": "focus on",
+  "meaning": "odaklanmak, yoğunlaşmak (= concentrate on, centre on)",
+  "wordType": "general",
+  "synonyms": [
+   "Concentrate on",
+   "Centre on"
+  ]
+ },
+ {
+  "id": "gen-335",
+  "term": "fold",
+  "meaning": "(1) katlamak, kıvırmak, bükmek (2) bir şeyin --- katı, --- misli (twofold, tenfold = iki katı/misli, on katı/misli)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-336",
+  "term": "forceful",
+  "meaning": "(1) güçlü, zorlu (2) etkili, ikna edici",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-337",
+  "term": "forecast",
+  "meaning": "önceden tahmin etmek (= predict)",
+  "wordType": "general",
+  "synonyms": [
+   "Predict"
+  ]
+ },
+ {
+  "id": "gen-338",
+  "term": "forge",
+  "meaning": "taklidini yapmak, sahtesini çıkarmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-339",
+  "term": "forgery",
+  "meaning": "sahtekarlık (= counterfeit, fake)",
+  "wordType": "general",
+  "synonyms": [
+   "Counterfeit",
+   "Fake"
+  ]
+ },
+ {
+  "id": "gen-340",
+  "term": "former",
+  "meaning": "önceki (iki şeyden bahsederken ilk söylenen kişi veya şey)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-341",
+  "term": "formerly",
+  "meaning": "evvelki, önceki",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-342",
+  "term": "formulate",
+  "meaning": "formülleştirmek, formüle dökmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-343",
+  "term": "forthcoming",
+  "meaning": "yakınlaşmakta olan, gelmekte olan ( Christmas vb.)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-344",
+  "term": "fracture",
+  "meaning": "kırılmak, çatlamak ( kemik, kolon vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-345",
+  "term": "frail",
+  "meaning": "zayıf, cılız (= feeble)",
+  "wordType": "general",
+  "synonyms": [
+   "Feeble"
+  ]
+ },
+ {
+  "id": "gen-346",
+  "term": "frame",
+  "meaning": "çerçeve",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-347",
+  "term": "freed",
+  "meaning": "serbest kalmış, özgür (= at liberty, at large)",
+  "wordType": "general",
+  "synonyms": [
+   "At liberty",
+   "At large"
+  ]
+ },
+ {
+  "id": "gen-348",
+  "term": "fulfil",
+  "meaning": "(görev, sorumluluk vb) yerine getirmek, icra etmek (= carry out)",
+  "wordType": "general",
+  "synonyms": [
+   "Carry out"
+  ]
+ },
+ {
+  "id": "gen-349",
+  "term": "fundamental",
+  "meaning": "esas, temel, zorunlu (= essential)",
+  "wordType": "general",
+  "synonyms": [
+   "Essential"
+  ]
+ },
+ {
+  "id": "gen-350",
+  "term": "funeral",
+  "meaning": "cenaze töreni",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-351",
+  "term": "fussy",
+  "meaning": "aşırı titiz (= fastidious, meticulous, diligent)",
+  "wordType": "general",
+  "synonyms": [
+   "Fastidious",
+   "Meticulous",
+   "Diligent"
+  ]
+ },
+ {
+  "id": "gen-352",
+  "term": "fuzzy",
+  "meaning": "tüylü",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-353",
+  "term": "gather",
+  "meaning": "(1) toplamak, bir araya getirmek (2) bir araya gelmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-354",
+  "term": "gender",
+  "meaning": "cinsiyet (= ***)",
+  "wordType": "general",
+  "synonyms": [
+   "***"
+  ]
+ },
+ {
+  "id": "gen-355",
+  "term": "generate",
+  "meaning": "(1) (ısı, elektrik vb) üretmek (2) (tartışma vb) ortaya atmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-356",
+  "term": "genre (",
+  "meaning": "canr) = tür, çeşit, nevi (= type, sort)",
+  "wordType": "general",
+  "synonyms": [
+   "Type",
+   "Sort"
+  ]
+ },
+ {
+  "id": "gen-357",
+  "term": "giant",
+  "meaning": "dev X dwarf",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-358",
+  "term": "glance",
+  "meaning": "göz atmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-359",
+  "term": "gloom",
+  "meaning": "karanlık ***gloomy = üzüntülü, hüzünlü",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-360",
+  "term": "glorify",
+  "meaning": "yüceltmek, övmek (= praise)",
+  "wordType": "general",
+  "synonyms": [
+   "Praise"
+  ]
+ },
+ {
+  "id": "gen-361",
+  "term": "goal",
+  "meaning": "amaç, gaye (= aim)",
+  "wordType": "general",
+  "synonyms": [
+   "Aim"
+  ]
+ },
+ {
+  "id": "gen-362",
+  "term": "govern",
+  "meaning": "yönetmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-363",
+  "term": "government",
+  "meaning": "hükümet",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-364",
+  "term": "grab",
+  "meaning": "kapmak, el koymak (= snatch)",
+  "wordType": "general",
+  "synonyms": [
+   "Snatch"
+  ]
+ },
+ {
+  "id": "gen-365",
+  "term": "gradually",
+  "meaning": "yavaş yavaş, kademeli olarak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-366",
+  "term": "grant",
+  "meaning": "vermek, bahşetmek (burs, bağış vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-367",
+  "term": "grasp",
+  "meaning": "(1) (bir nesneyi) kavramak (2) (bir konuyu) kavramak, anlamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-368",
+  "term": "graveyard",
+  "meaning": "mezarlık (= cemetery)",
+  "wordType": "general",
+  "synonyms": [
+   "Cemetery"
+  ]
+ },
+ {
+  "id": "gen-369",
+  "term": "groom",
+  "meaning": "damat",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-370",
+  "term": "grow tired of",
+  "meaning": "--- den yorulmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-371",
+  "term": "growl",
+  "meaning": "köpek ve benzeri hayvanların çıkardığı hırlama sesi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-372",
+  "term": "guide",
+  "meaning": "rehber, rehberlik etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-373",
+  "term": "harass",
+  "meaning": "saldırmak, taciz etmek ******ual harassment = cinsel taciz",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-374",
+  "term": "harbour",
+  "meaning": "(1) liman (2) barındırmak, sağlamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-375",
+  "term": "hardship",
+  "meaning": "zorluk",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-376",
+  "term": "harshly",
+  "meaning": "(1) sert bir şekilde (2) kabaca",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-377",
+  "term": "hasten",
+  "meaning": "acele etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-378",
+  "term": "havoc",
+  "meaning": "hasar, yıkım (= destruction)",
+  "wordType": "general",
+  "synonyms": [
+   "Destruction"
+  ]
+ },
+ {
+  "id": "gen-379",
+  "term": "hazard",
+  "meaning": "tehlike",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-380",
+  "term": "hesitate",
+  "meaning": "duraklama",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-381",
+  "term": "highly",
+  "meaning": "oldukça, epey (= extremely)",
+  "wordType": "general",
+  "synonyms": [
+   "Extremely"
+  ]
+ },
+ {
+  "id": "gen-382",
+  "term": "hire",
+  "meaning": "(1) kiralamak (2) işe almak (= employ)",
+  "wordType": "general",
+  "synonyms": [
+   "Employ"
+  ]
+ },
+ {
+  "id": "gen-383",
+  "term": "hitchhiker",
+  "meaning": "otostopçu",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-384",
+  "term": "hollow",
+  "meaning": "oyuk, boşluk (ağaç kovuğu vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-385",
+  "term": "hopefully",
+  "meaning": "inşallah (= with any luck)",
+  "wordType": "general",
+  "synonyms": [
+   "With any luck"
+  ]
+ },
+ {
+  "id": "gen-386",
+  "term": "horrible",
+  "meaning": "korkunç",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-387",
+  "term": "huge",
+  "meaning": "iri, büyük (= enormous, immense)",
+  "wordType": "general",
+  "synonyms": [
+   "Enormous",
+   "Immense"
+  ]
+ },
+ {
+  "id": "gen-388",
+  "term": "humiliate",
+  "meaning": "aşağılamak, rezil etmek, utandırmak (= embarrass)",
+  "wordType": "general",
+  "synonyms": [
+   "Embarrass"
+  ]
+ },
+ {
+  "id": "gen-389",
+  "term": "hunter",
+  "meaning": "avcı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-390",
+  "term": "hurricane (hörikeyn)",
+  "meaning": "kasırga",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-391",
+  "term": "iceberg",
+  "meaning": "buz dağı (= glacier)",
+  "wordType": "general",
+  "synonyms": [
+   "Glacier"
+  ]
+ },
+ {
+  "id": "gen-392",
+  "term": "idle",
+  "meaning": "tembel (= lazy, indolent) X (= hardworking)",
+  "wordType": "general",
+  "synonyms": [
+   "Lazy",
+   "Indolent",
+   "Hardworking"
+  ]
+ },
+ {
+  "id": "gen-393",
+  "term": "illusion",
+  "meaning": "hayal,hülya, kuruntu",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-394",
+  "term": "illustrate",
+  "meaning": "örneklemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-395",
+  "term": "imagine",
+  "meaning": "hayal etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-396",
+  "term": "imitate",
+  "meaning": "taklit etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-397",
+  "term": "immediate",
+  "meaning": "(1) derhal, acele, çabuk (2) (akraba için) en yakın",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-398",
+  "term": "immobilize (immmobilayz)",
+  "meaning": "hareketsiz/sabit kılmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-399",
+  "term": "impact",
+  "meaning": "çarpmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-400",
+  "term": "impeach",
+  "meaning": "suçlamak, itham etmek (= accuse)",
+  "wordType": "general",
+  "synonyms": [
+   "Accuse"
+  ]
+ },
+ {
+  "id": "gen-401",
+  "term": "implicate",
+  "meaning": "bulaştırmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-402",
+  "term": "impose",
+  "meaning": "zorla kabul ettirmek, koymak( vergi), yük olmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-403",
+  "term": "imprisonment",
+  "meaning": "hapse atmak (= incarceration)",
+  "wordType": "general",
+  "synonyms": [
+   "Incarceration"
+  ]
+ },
+ {
+  "id": "gen-404",
+  "term": "inaudible",
+  "meaning": "duyulamaz, işitilemez (ses vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-405",
+  "term": "incapable of (inkepıbıl)",
+  "meaning": "kabiliyetsiz, yeteneksiz (= unskillful)",
+  "wordType": "general",
+  "synonyms": [
+   "Unskillful"
+  ]
+ },
+ {
+  "id": "gen-406",
+  "term": "incapacitate",
+  "meaning": "yetersiz bırakmak, olanak tanımamak, aciz bırakmak (= debilitate)",
+  "wordType": "general",
+  "synonyms": [
+   "Debilitate"
+  ]
+ },
+ {
+  "id": "gen-407",
+  "term": "incline",
+  "meaning": "eğmek, eğilimi olmak, fikrini vermek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-408",
+  "term": "incorporate into",
+  "meaning": "dahil etmek (= include, integrate)",
+  "wordType": "general",
+  "synonyms": [
+   "Include",
+   "Integrate"
+  ]
+ },
+ {
+  "id": "gen-409",
+  "term": "incredible",
+  "meaning": "inanılmaz ( = unbelievable)",
+  "wordType": "general",
+  "synonyms": [
+   "Unbelievable"
+  ]
+ },
+ {
+  "id": "gen-410",
+  "term": "indicate",
+  "meaning": "göstermek, belirtisi olmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-411",
+  "term": "indifference to",
+  "meaning": "kayıtsız, ilgisiz olmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-412",
+  "term": "infer",
+  "meaning": "anlamak, sonucunu çıkarmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-413",
+  "term": "influential (influwenşıl)",
+  "meaning": "nüfuzlu, sözü geçer, çevresi geniş (=well-connected)",
+  "wordType": "general",
+  "synonyms": [
+   "Well-connected"
+  ]
+ },
+ {
+  "id": "gen-414",
+  "term": "initially",
+  "meaning": "başlangıçta, ilk etapta (= at first)",
+  "wordType": "general",
+  "synonyms": [
+   "At first"
+  ]
+ },
+ {
+  "id": "gen-415",
+  "term": "initiate (inişiyeyt)",
+  "meaning": "başlatmak (= start, commence)",
+  "wordType": "general",
+  "synonyms": [
+   "Start",
+   "Commence"
+  ]
+ },
+ {
+  "id": "gen-416",
+  "term": "injure",
+  "meaning": "incitmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-417",
+  "term": "injustice",
+  "meaning": "eşitsizlik, adaletsizlik (= inequality, unfairness)",
+  "wordType": "general",
+  "synonyms": [
+   "Inequality",
+   "Unfairness"
+  ]
+ },
+ {
+  "id": "gen-418",
+  "term": "innovate",
+  "meaning": "yeni bir şey icat etmek, yenilik getirmek (= invent)",
+  "wordType": "general",
+  "synonyms": [
+   "Invent"
+  ]
+ },
+ {
+  "id": "gen-419",
+  "term": "innovation",
+  "meaning": "yenilik, yeni bir şey icad etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-420",
+  "term": "innovative",
+  "meaning": "yenilikçi, icatçı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-421",
+  "term": "insatiable (inseyşıbıl)",
+  "meaning": "(1) gözü doymaz, doyumsuz, aç gözlü (2) obur, pisboğaz",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-422",
+  "term": "insist (on)",
+  "meaning": "ısrar etmek (= persist in)",
+  "wordType": "general",
+  "synonyms": [
+   "Persist in"
+  ]
+ },
+ {
+  "id": "gen-423",
+  "term": "inspect",
+  "meaning": "incelemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-424",
+  "term": "instantaneously",
+  "meaning": "anlık, bir anda olan, aniden (= immediately, instantly)",
+  "wordType": "general",
+  "synonyms": [
+   "Immediately",
+   "Instantly"
+  ]
+ },
+ {
+  "id": "gen-425",
+  "term": "institute",
+  "meaning": "kurmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-426",
+  "term": "instruct",
+  "meaning": "talimat vermek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-427",
+  "term": "insulate (against)",
+  "meaning": "yalıtmak, (soğuğu/sesi vb) kesmek (hırkanın soğuğu kesmesi gibi)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-428",
+  "term": "integrate",
+  "meaning": "bütünleşmek, kaynaşmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-429",
+  "term": "intelligence",
+  "meaning": "(1) zeka, akıl (2) haber ajansı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-430",
+  "term": "intention (intenşın)",
+  "meaning": "niyet",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-431",
+  "term": "interaction (with)",
+  "meaning": "etkileşim",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-432",
+  "term": "interfere",
+  "meaning": "başkasının işine burnunu sokmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-433",
+  "term": "interpretation",
+  "meaning": "yorum, çeviri",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-434",
+  "term": "interrogate",
+  "meaning": "sorguya çekmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-435",
+  "term": "interview",
+  "meaning": "(1) röportaj, röportaj yapmak (2) mülakat, mülakat yapmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-436",
+  "term": "intimate",
+  "meaning": "(1) samimi (2) tanıdık, aşina (alışılan plaj, trafik manzaraları vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-437",
+  "term": "invade",
+  "meaning": "işgal etmek, istila etmek (= attck, occupy)",
+  "wordType": "general",
+  "synonyms": [
+   "Attck",
+   "Occupy"
+  ]
+ },
+ {
+  "id": "gen-438",
+  "term": "invent",
+  "meaning": "icat etmek (= make up)",
+  "wordType": "general",
+  "synonyms": [
+   "Make up"
+  ]
+ },
+ {
+  "id": "gen-439",
+  "term": "invest (in)",
+  "meaning": "para yatırımı yapmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-440",
+  "term": "investigate",
+  "meaning": "araştırmak, incelemek (= search, look into)",
+  "wordType": "general",
+  "synonyms": [
+   "Search",
+   "Look into"
+  ]
+ },
+ {
+  "id": "gen-441",
+  "term": "invoke",
+  "meaning": "dilemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-442",
+  "term": "involvement",
+  "meaning": "dahil olma, karışma (= association, participation)",
+  "wordType": "general",
+  "synonyms": [
+   "Association",
+   "Participation"
+  ]
+ },
+ {
+  "id": "gen-443",
+  "term": "irregularity",
+  "meaning": "(1) yolsuzluk, hile (2) düzensizlik",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-444",
+  "term": "isolate",
+  "meaning": "izole etmek, (iki şeyi vb) birbirinden ayırmak, tecrit etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-445",
+  "term": "jeopardize (ciopidayz)",
+  "meaning": "tehlikeye atmak (= endanger, imperil)",
+  "wordType": "general",
+  "synonyms": [
+   "Endanger",
+   "Imperil"
+  ]
+ },
+ {
+  "id": "gen-446",
+  "term": "join",
+  "meaning": "katılmak, iştirak etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-447",
+  "term": "joint",
+  "meaning": "(1) eklem, mafsal (2) ortaklaşa yapılan (= mutual)",
+  "wordType": "general",
+  "synonyms": [
+   "Mutual"
+  ]
+ },
+ {
+  "id": "gen-448",
+  "term": "justify",
+  "meaning": "doğrulamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-449",
+  "term": "kennel",
+  "meaning": "köpek kulübesi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-450",
+  "term": "keyhole",
+  "meaning": "anahtar deliği",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-451",
+  "term": "kidnapper",
+  "meaning": "adam/çocuk kaçıran (= abductor)",
+  "wordType": "general",
+  "synonyms": [
+   "Abductor"
+  ]
+ },
+ {
+  "id": "gen-452",
+  "term": "knock",
+  "meaning": "(1) devirmek (2) (kapı vb) çalmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-453",
+  "term": "knowledge",
+  "meaning": "bilgi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-454",
+  "term": "label",
+  "meaning": "etiketlemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-455",
+  "term": "lamb",
+  "meaning": "(1) kuzu (2) kuzu eti",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-456",
+  "term": "latter",
+  "meaning": "sonraki x former = önceki",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-457",
+  "term": "lawyer",
+  "meaning": "avukat (= solicitor)",
+  "wordType": "general",
+  "synonyms": [
+   "Solicitor"
+  ]
+ },
+ {
+  "id": "gen-458",
+  "term": "leak",
+  "meaning": "(1) (su, yağ vb) sızmak (2) (bilgi, gizli sırlar vb) medyaya sızmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-459",
+  "term": "legend",
+  "meaning": "efsane (= myth)",
+  "wordType": "general",
+  "synonyms": [
+   "Myth"
+  ]
+ },
+ {
+  "id": "gen-460",
+  "term": "legislate",
+  "meaning": "yasamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-461",
+  "term": "leisure",
+  "meaning": "boş vakit",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-462",
+  "term": "lessen",
+  "meaning": "azaltmak (= diminish)",
+  "wordType": "general",
+  "synonyms": [
+   "Diminish"
+  ]
+ },
+ {
+  "id": "gen-463",
+  "term": "levy",
+  "meaning": "zorla toplama (haraç)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-464",
+  "term": "listless",
+  "meaning": "yorgun, bitkin (= exhausted)",
+  "wordType": "general",
+  "synonyms": [
+   "Exhausted"
+  ]
+ },
+ {
+  "id": "gen-465",
+  "term": "literacy",
+  "meaning": "okur yazarlık",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-466",
+  "term": "litter",
+  "meaning": "çöp (= trash, garbage, rubbish)",
+  "wordType": "general",
+  "synonyms": [
+   "Trash",
+   "Garbage",
+   "Rubbish"
+  ]
+ },
+ {
+  "id": "gen-467",
+  "term": "loathe",
+  "meaning": "nefret etmek (= abhor, hate)",
+  "wordType": "general",
+  "synonyms": [
+   "Abhor",
+   "Hate"
+  ]
+ },
+ {
+  "id": "gen-468",
+  "term": "locate",
+  "meaning": "yerleştirmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-469",
+  "term": "location",
+  "meaning": "mevki, yer",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-470",
+  "term": "loose",
+  "meaning": "gevşek, sıkıca bağlanmamış, gevşemiş X tight",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-471",
+  "term": "lovely",
+  "meaning": "sevecen, sevimli",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-472",
+  "term": "luggage (lagiç)",
+  "meaning": "bagaj",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-473",
+  "term": "magical (mecikıl)",
+  "meaning": "sihirli",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-474",
+  "term": "mainstream",
+  "meaning": "pek çok kişi tarafından kabul gören inanış veya düşünce",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-475",
+  "term": "make a decision",
+  "meaning": "karar vermek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-476",
+  "term": "manage",
+  "meaning": "(1) başarmak, üstesinden gelmek (2) yönetmek, idare etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-477",
+  "term": "management",
+  "meaning": "yönetim idare",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-478",
+  "term": "manner",
+  "meaning": "davranış, tutum (= attitude)",
+  "wordType": "general",
+  "synonyms": [
+   "Attitude"
+  ]
+ },
+ {
+  "id": "gen-479",
+  "term": "manufacture",
+  "meaning": "fabrikada üretmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-480",
+  "term": "march",
+  "meaning": "ilerleme, ilerleyiş, marşla yürümek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-481",
+  "term": "massacre (messekı",
+  "meaning": "r) = soykırım, katliam (= genocide)",
+  "wordType": "general",
+  "synonyms": [
+   "Genocide"
+  ]
+ },
+ {
+  "id": "gen-482",
+  "term": "master",
+  "meaning": "(1) efendi, sahip (2) hakim olmak, bir şeyi detaylarıyla bilmek (= govern)",
+  "wordType": "general",
+  "synonyms": [
+   "Govern"
+  ]
+ },
+ {
+  "id": "gen-483",
+  "term": "masterpiece",
+  "meaning": "şaheser, baş yapıt",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-484",
+  "term": "mature (maçu",
+  "meaning": ") = olgun",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-485",
+  "term": "meadow",
+  "meaning": "çayır, otlak, mera (= pasture)",
+  "wordType": "general",
+  "synonyms": [
+   "Pasture"
+  ]
+ },
+ {
+  "id": "gen-486",
+  "term": "meander",
+  "meaning": "(1) dolambaçlı yol (2) avare avare dolaşmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-487",
+  "term": "measure (mejı",
+  "meaning": "r) = (1) ölçü, ölçmek (2) tedbir, önlem (= precaution)",
+  "wordType": "general",
+  "synonyms": [
+   "Precaution"
+  ]
+ },
+ {
+  "id": "gen-488",
+  "term": "mediate between",
+  "meaning": "arabuluculuk etmek, arasını bulmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-489",
+  "term": "meet",
+  "meaning": "(1) (ihtiyaç, talep vb) karşılamak (2) tanışmak (3) (bir yolcuyu)karşılamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-490",
+  "term": "memorial",
+  "meaning": "anıt",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-491",
+  "term": "memory",
+  "meaning": "hafıza",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-492",
+  "term": "merge",
+  "meaning": "birleşmek, bir araya gelmek ( iki şirketin birleşmesi vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-493",
+  "term": "migrate",
+  "meaning": "göçmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-494",
+  "term": "minor",
+  "meaning": "(1) az (2) önemsiz, küçük",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-495",
+  "term": "miraculously",
+  "meaning": "mucize eseri",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-496",
+  "term": "misbehave",
+  "meaning": "terbiyesizlik yapmak, kötü davranışlar sergilemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-497",
+  "term": "mischief",
+  "meaning": "yaramazlık, haşarılık (= misbehaviour)",
+  "wordType": "general",
+  "synonyms": [
+   "Misbehaviour"
+  ]
+ },
+ {
+  "id": "gen-498",
+  "term": "misunderstanding",
+  "meaning": "yanlış anlaşılma (= misconception)",
+  "wordType": "general",
+  "synonyms": [
+   "Misconception"
+  ]
+ },
+ {
+  "id": "gen-499",
+  "term": "mix up",
+  "meaning": "aklını karıştırmak,karıştırmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-500",
+  "term": "mock at",
+  "meaning": "dalga geçmek, alay etmek (= tease, make fun of)",
+  "wordType": "general",
+  "synonyms": [
+   "Tease",
+   "Make fun of"
+  ]
+ },
+ {
+  "id": "gen-501",
+  "term": "modify",
+  "meaning": "değiştirmek (= change)",
+  "wordType": "general",
+  "synonyms": [
+   "Change"
+  ]
+ },
+ {
+  "id": "gen-502",
+  "term": "mood",
+  "meaning": "ruh hali, moral ***in a bad mood = morali bozuk olmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-503",
+  "term": "mourning",
+  "meaning": "yas, keder (= lamentation) ***mournful = yaslı, yas tutan",
+  "wordType": "general",
+  "synonyms": [
+   "Lamentation"
+  ]
+ },
+ {
+  "id": "gen-504",
+  "term": "move",
+  "meaning": "(1) hareket etmek, taşımak (2) (bir yerden bir başka yere) taşınmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-505",
+  "term": "movement",
+  "meaning": "(1) hareket (2) (edebiyatta vb) akım",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-506",
+  "term": "multinational",
+  "meaning": "çok uluslu",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-507",
+  "term": "municipality",
+  "meaning": "belediye",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-508",
+  "term": "murder",
+  "meaning": "(1) öldürmek, cinayet işlemek (= kill) (2) cinayet",
+  "wordType": "general",
+  "synonyms": [
+   "Kill"
+  ]
+ },
+ {
+  "id": "gen-509",
+  "term": "mystery",
+  "meaning": "gizem, sır (= enigma)",
+  "wordType": "general",
+  "synonyms": [
+   "Enigma"
+  ]
+ },
+ {
+  "id": "gen-510",
+  "term": "narrowly",
+  "meaning": "kıl payı (= She narrowly escaped death yesterday.)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-511",
+  "term": "native to",
+  "meaning": "yöreye has/özgü",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-512",
+  "term": "nervous",
+  "meaning": "gergin (sınav öncesi vb..)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-513",
+  "term": "neutrality (nötraliti)",
+  "meaning": "tarafsızlık (= impartiality)",
+  "wordType": "general",
+  "synonyms": [
+   "Impartiality"
+  ]
+ },
+ {
+  "id": "gen-514",
+  "term": "notice",
+  "meaning": "(1) ilan (2) fark etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-515",
+  "term": "obese",
+  "meaning": "şişman, obez",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-516",
+  "term": "obey",
+  "meaning": "uymak, itaat etmek ( kurallara vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-517",
+  "term": "objection",
+  "meaning": "itiraz",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-518",
+  "term": "obligation",
+  "meaning": "zorunluluk, mecburiyet",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-519",
+  "term": "observe",
+  "meaning": "gözlemlemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-520",
+  "term": "occasion",
+  "meaning": "(1) özel olay, önemli gün (2) durum, hal",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-521",
+  "term": "occasional",
+  "meaning": "ara sıra, nadiren (= infrequent)",
+  "wordType": "general",
+  "synonyms": [
+   "Infrequent"
+  ]
+ },
+ {
+  "id": "gen-522",
+  "term": "occurrence",
+  "meaning": "vukuat, olay",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-523",
+  "term": "odd",
+  "meaning": "(1) tuhaf (=strange, weird *(wiyırd) (2) odd numbers = tek sayılar (1,3,5 ..)",
+  "wordType": "general",
+  "synonyms": [
+   "Strange",
+   "Weird *(wiyırd"
+  ]
+ },
+ {
+  "id": "gen-524",
+  "term": "Oddly enough!",
+  "meaning": "Ne tuhaftır ki …",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-525",
+  "term": "odour",
+  "meaning": "koku ***odourless = kokusuz X (aromatic = hoş kokulu)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-526",
+  "term": "officially",
+  "meaning": "resmen, resmi olarak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-527",
+  "term": "opportunity",
+  "meaning": "fırsat",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-528",
+  "term": "opposition",
+  "meaning": "karşıtlık, muhalefet,zıtlık",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-529",
+  "term": "ordinary",
+  "meaning": "sıradan, alışılagelmiş (= commonplace, mundane, average)",
+  "wordType": "general",
+  "synonyms": [
+   "Commonplace",
+   "Mundane",
+   "Average"
+  ]
+ },
+ {
+  "id": "gen-530",
+  "term": "originally",
+  "meaning": "ilk başta, ilk önceleri (= initially, at first)",
+  "wordType": "general",
+  "synonyms": [
+   "Initially",
+   "At first"
+  ]
+ },
+ {
+  "id": "gen-531",
+  "term": "ornament",
+  "meaning": "(1) süs, süs eşyası (2) süslemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-532",
+  "term": "orphan",
+  "meaning": "yetim bırakmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-533",
+  "term": "outcrop",
+  "meaning": "yeryüzüne çıkmış katman",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-534",
+  "term": "outcry",
+  "meaning": "feryat figan, çığlık",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-535",
+  "term": "outdo",
+  "meaning": "birini geride bırakmak, sollamak, ekarte etmek (= surpass)",
+  "wordType": "general",
+  "synonyms": [
+   "Surpass"
+  ]
+ },
+ {
+  "id": "gen-536",
+  "term": "outing",
+  "meaning": "gezi, gezinti",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-537",
+  "term": "outlet",
+  "meaning": "(sadece bir çeşit ürün veya sadece bir firmanın ürününü satan) şube",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-538",
+  "term": "overlap",
+  "meaning": "üstüste binmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-539",
+  "term": "partially",
+  "meaning": "kısmen",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-540",
+  "term": "participate in",
+  "meaning": "katılmak, iştirak etmek (= take part in, join, attend)",
+  "wordType": "general",
+  "synonyms": [
+   "Take part in",
+   "Join",
+   "Attend"
+  ]
+ },
+ {
+  "id": "gen-541",
+  "term": "participation",
+  "meaning": "iştirak, katılım ***participatory = katılımcı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-542",
+  "term": "particular (pıtik",
+  "meaning": "ulır) = özel, önemli",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-543",
+  "term": "particularly",
+  "meaning": "özellikle",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-544",
+  "term": "passenger",
+  "meaning": "toplu taşıt yolcusu",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-545",
+  "term": "passionately",
+  "meaning": "ihtirasla, tutkuyla",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-546",
+  "term": "patiently",
+  "meaning": "sabırla, sabırlı bir şekilde (= uncomplainingly)",
+  "wordType": "general",
+  "synonyms": [
+   "Uncomplainingly"
+  ]
+ },
+ {
+  "id": "gen-547",
+  "term": "pavement",
+  "meaning": "kaldırım (= side-walk)",
+  "wordType": "general",
+  "synonyms": [
+   "Side-walk"
+  ]
+ },
+ {
+  "id": "gen-548",
+  "term": "peace and quiet",
+  "meaning": "huzur ve sükunet",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-549",
+  "term": "peak",
+  "meaning": "doruk, zirve",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-550",
+  "term": "pedestrian",
+  "meaning": "yaya",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-551",
+  "term": "penalize",
+  "meaning": "ceza vermek, cezalandırmak (= punish)",
+  "wordType": "general",
+  "synonyms": [
+   "Punish"
+  ]
+ },
+ {
+  "id": "gen-552",
+  "term": "perceive",
+  "meaning": "algılamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-553",
+  "term": "permission",
+  "meaning": "izin, müsaade",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-554",
+  "term": "persevering",
+  "meaning": "sebatkar, gayretli",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-555",
+  "term": "persist",
+  "meaning": "ısrar etmek, sürüp gitmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-556",
+  "term": "pessimism",
+  "meaning": "kötümserlik ***pessimist = kötümser ***optimist = iyimser",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-557",
+  "term": "pet",
+  "meaning": "ev hayvanı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-558",
+  "term": "pioneer",
+  "meaning": "öncü, yol açan, öncülük eden (= forerunner)",
+  "wordType": "general",
+  "synonyms": [
+   "Forerunner"
+  ]
+ },
+ {
+  "id": "gen-559",
+  "term": "placement",
+  "meaning": "yerleştirme",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-560",
+  "term": "plague (pleyg)",
+  "meaning": "(1) veba (2) öldürücü salgın hastalık (3) (bela vb) musallat olmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-561",
+  "term": "plain",
+  "meaning": "(1) düz, sade (2) ova, düzlük",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-562",
+  "term": "plead",
+  "meaning": "yalvarmak , rica etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-563",
+  "term": "please",
+  "meaning": "(1) memnun etmek, tatmin etmek (= satisfy) (2) Lütfen",
+  "wordType": "general",
+  "synonyms": [
+   "Satisfy"
+  ]
+ },
+ {
+  "id": "gen-564",
+  "term": "pledge (plec)",
+  "meaning": "ciddi bir söz vermek, ciddi bir vaat",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-565",
+  "term": "poem",
+  "meaning": "şiir ***poetry = şiir",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-566",
+  "term": "point",
+  "meaning": "(1) anlam, mana ***pointless = anlamsız (2) (zamanda/mekanda vb)nokta",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-567",
+  "term": "policy",
+  "meaning": "tutum, kural, prensip, ilke",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-568",
+  "term": "polio",
+  "meaning": "çocuk felci",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-569",
+  "term": "pose",
+  "meaning": "ortaya çıkarmak, poz vermek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-570",
+  "term": "possess",
+  "meaning": "sahip olmak, etkilemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-571",
+  "term": "possession",
+  "meaning": "eşya, mal mülk",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-572",
+  "term": "post",
+  "meaning": "(1) vazife, görev, iş (2) posta",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-573",
+  "term": "practically",
+  "meaning": "1-hemen hemen 2-uygun olarak, pratik olarak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-574",
+  "term": "praise",
+  "meaning": "övmek (= glorify, compliment)",
+  "wordType": "general",
+  "synonyms": [
+   "Glorify",
+   "Compliment"
+  ]
+ },
+ {
+  "id": "gen-575",
+  "term": "present",
+  "meaning": "(1) sunmak, tanıtmak (2) mevcut, var olan (= existing)",
+  "wordType": "general",
+  "synonyms": [
+   "Existing"
+  ]
+ },
+ {
+  "id": "gen-576",
+  "term": "preserve",
+  "meaning": "korumak, muhafaza etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-577",
+  "term": "pressure",
+  "meaning": "baskı, basınç ***under pressure = baskı altında",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-578",
+  "term": "previously",
+  "meaning": "önceden, eskiden (= formerly)",
+  "wordType": "general",
+  "synonyms": [
+   "Formerly"
+  ]
+ },
+ {
+  "id": "gen-579",
+  "term": "prior (to)",
+  "meaning": "--- den önce, --- den evvel",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-580",
+  "term": "prison",
+  "meaning": "hapishane (= jail)",
+  "wordType": "general",
+  "synonyms": [
+   "Jail"
+  ]
+ },
+ {
+  "id": "gen-581",
+  "term": "probability",
+  "meaning": "olasılık",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-582",
+  "term": "process",
+  "meaning": "(bir malzemeyi) işlemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-583",
+  "term": "prompt",
+  "meaning": "çabuk, ivedi, acele, vakit geçirmeden (= punctual, immediate)",
+  "wordType": "general",
+  "synonyms": [
+   "Punctual",
+   "Immediate"
+  ]
+ },
+ {
+  "id": "gen-584",
+  "term": "promptly",
+  "meaning": "derhal, hemen",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-585",
+  "term": "proofread",
+  "meaning": "bir metni inceleyip üzerindeki yanlışları düzeltmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-586",
+  "term": "properly",
+  "meaning": "adam akıllı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-587",
+  "term": "property",
+  "meaning": "mal, mülk",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-588",
+  "term": "proportion",
+  "meaning": "oran ***in proportion to = ---e oranla",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-589",
+  "term": "protection against",
+  "meaning": "koruma",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-590",
+  "term": "publish",
+  "meaning": "(kitap, kaset vb) yayımlamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-591",
+  "term": "purchase (pö",
+  "meaning": "çıs) = (1) satın almak (2) satın alınan eşya",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-592",
+  "term": "purpose",
+  "meaning": "amaç, gaye",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-593",
+  "term": "pursue",
+  "meaning": "takip etmek (= follow, chase) ***in pursuit of = ---nın peşinde",
+  "wordType": "general",
+  "synonyms": [
+   "Follow",
+   "Chase"
+  ]
+ },
+ {
+  "id": "gen-594",
+  "term": "push",
+  "meaning": "itmek X pull = çekmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-595",
+  "term": "put forth",
+  "meaning": "öne sürmek, ortaya atmak (= put forward, bring up)",
+  "wordType": "general",
+  "synonyms": [
+   "Put forward",
+   "Bring up"
+  ]
+ },
+ {
+  "id": "gen-596",
+  "term": "queue",
+  "meaning": "sıra, kuyruk",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-597",
+  "term": "race",
+  "meaning": "(1) ırk (2) yarış",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-598",
+  "term": "racism",
+  "meaning": "ırkçılık, milliyetçilik (= nationalism)",
+  "wordType": "general",
+  "synonyms": [
+   "Nationalism"
+  ]
+ },
+ {
+  "id": "gen-599",
+  "term": "raid",
+  "meaning": "yasadışı işlere yapılan baskın (= seizure)",
+  "wordType": "general",
+  "synonyms": [
+   "Seizure"
+  ]
+ },
+ {
+  "id": "gen-600",
+  "term": "rate",
+  "meaning": "oran, hız",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-601",
+  "term": "reckless",
+  "meaning": "= dikkatsiz, pervasız (= irresponsible, thoughtless)",
+  "wordType": "general",
+  "synonyms": [
+   "Irresponsible",
+   "Thoughtless"
+  ]
+ },
+ {
+  "id": "gen-602",
+  "term": "recklessly",
+  "meaning": "dikkatsizce, pervasızca (= irresponsibly, thoughtlessly)",
+  "wordType": "general",
+  "synonyms": [
+   "Irresponsibly",
+   "Thoughtlessly"
+  ]
+ },
+ {
+  "id": "gen-603",
+  "term": "recognize",
+  "meaning": "(daha önce gördüğü birini veya bir şeyi gördüğünde) tanımak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-604",
+  "term": "recommendation",
+  "meaning": "tavsiye, öneri",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-605",
+  "term": "referee",
+  "meaning": "hakem (= arbitrator)",
+  "wordType": "general",
+  "synonyms": [
+   "Arbitrator"
+  ]
+ },
+ {
+  "id": "gen-606",
+  "term": "refreshing",
+  "meaning": "canlandırıcı, serinletici (aperatif yiyecek, temiz hava vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-607",
+  "term": "refugee",
+  "meaning": "mülteci",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-608",
+  "term": "refund",
+  "meaning": "parayı iade etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-609",
+  "term": "regional",
+  "meaning": "bölgesel",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-610",
+  "term": "register",
+  "meaning": "(1) sicil,kütük (2) kaydetmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-611",
+  "term": "regretful",
+  "meaning": "pişman, üzgün (= remorseful)",
+  "wordType": "general",
+  "synonyms": [
+   "Remorseful"
+  ]
+ },
+ {
+  "id": "gen-612",
+  "term": "regrettable",
+  "meaning": "üzücü, üzüntü/keder/esef verici",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-613",
+  "term": "regularly",
+  "meaning": "düzenli bir şekilde",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-614",
+  "term": "rehearse (rihörs)",
+  "meaning": "prova yapmak ***rehearsal = prova",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-615",
+  "term": "rejection",
+  "meaning": "ret, kabul etmeme (= refusal)",
+  "wordType": "general",
+  "synonyms": [
+   "Refusal"
+  ]
+ },
+ {
+  "id": "gen-616",
+  "term": "relate",
+  "meaning": "(1) rivayet etmek, anlatmak, aktarmak (2) ilişkili/alakalı olmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-617",
+  "term": "relentless",
+  "meaning": "(1) merhametsiz (2) amansız, hummalı, aralıksız devam eden",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-618",
+  "term": "relief",
+  "meaning": "rahatlama, ferahlama ***relief work = afet kurtarma ekibi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-619",
+  "term": "relocate",
+  "meaning": "yerini değiştirmek, yerinden etmek (= displace)",
+  "wordType": "general",
+  "synonyms": [
+   "Displace"
+  ]
+ },
+ {
+  "id": "gen-620",
+  "term": "reluctant (rilaktınt)",
+  "meaning": "isteksiz (= unwilling)",
+  "wordType": "general",
+  "synonyms": [
+   "Unwilling"
+  ]
+ },
+ {
+  "id": "gen-621",
+  "term": "remark",
+  "meaning": "(1) söylemek, belirtmek (2) düşünce, fikir",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-622",
+  "term": "remembrance",
+  "meaning": "anma, hatırlama, yad etme (= commemoration)",
+  "wordType": "general",
+  "synonyms": [
+   "Commemoration"
+  ]
+ },
+ {
+  "id": "gen-623",
+  "term": "reminiscent of",
+  "meaning": "andıran, hatırlatan, anımsatan (= suggestive of)",
+  "wordType": "general",
+  "synonyms": [
+   "Suggestive of"
+  ]
+ },
+ {
+  "id": "gen-624",
+  "term": "remote",
+  "meaning": "(1) uzak, ırak (2) ıssız, ücra ***remote control = uzaktan kumanda",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-625",
+  "term": "removal",
+  "meaning": "(1) (leke vb şeylerin) çıkarılması, sökülmesi (2) (evin vb) taşınması",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-626",
+  "term": "repeatedly",
+  "meaning": "defalarca, tekrar tekrar (= continually, constantly)",
+  "wordType": "general",
+  "synonyms": [
+   "Continually",
+   "Constantly"
+  ]
+ },
+ {
+  "id": "gen-627",
+  "term": "replace (with)",
+  "meaning": "(1) eski yerine koymak (2) --- ile değiştirmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-628",
+  "term": "replica",
+  "meaning": "aslına çok benzeyen kopya",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-629",
+  "term": "request",
+  "meaning": "rica etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-630",
+  "term": "requirement",
+  "meaning": "ihtiyaç, gereksinim",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-631",
+  "term": "resentful",
+  "meaning": "alıngan, darılmış",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-632",
+  "term": "reside",
+  "meaning": "ikamet etmek, yerleşmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-633",
+  "term": "resident",
+  "meaning": "bir yerde ikamet eden, halk (apartman, mahalle sakini vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-634",
+  "term": "resign from",
+  "meaning": "--- den istifa etmek ***resignation = istifa",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-635",
+  "term": "resort",
+  "meaning": "(1) son çare olarak bir şeye başvurmak (2) tatil yeri/beldesi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-636",
+  "term": "response",
+  "meaning": "karşılık, cevap",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-637",
+  "term": "restlessness",
+  "meaning": "huzursuzluk, içinin rahat olmaması X calmness",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-638",
+  "term": "result",
+  "meaning": "sonuç (= outcome)",
+  "wordType": "general",
+  "synonyms": [
+   "Outcome"
+  ]
+ },
+ {
+  "id": "gen-639",
+  "term": "revenge",
+  "meaning": "intikam, intikam almak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-640",
+  "term": "revolve",
+  "meaning": "(1) dönmek (2) döndürmek, çevirmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-641",
+  "term": "reward",
+  "meaning": "(1) ödül (2) ödüllendirmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-642",
+  "term": "ride",
+  "meaning": "(at, bisiklet vb) binmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-643",
+  "term": "rightfully",
+  "meaning": "haklı olarak, haklı yere X wantonly = durduk yere, sebepsiz yere",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-644",
+  "term": "rise",
+  "meaning": "ortaya çıkmak, artmak, yükselmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-645",
+  "term": "rob somebody of something",
+  "meaning": "birini soymak ***robbery = soygun",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-646",
+  "term": "robust (rıbast)",
+  "meaning": "turp gibi, sapasağlam",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-647",
+  "term": "rough (raf)",
+  "meaning": "(1) kaba pürüzlü (zemin, yüzey vb) (2) nazik olmayan, sakar bir şekilde (3) (deniz/okyanus için) dalgalı, fırtınalı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-648",
+  "term": "rubble",
+  "meaning": "enkaz, yığın (= wreckage)",
+  "wordType": "general",
+  "synonyms": [
+   "Wreckage"
+  ]
+ },
+ {
+  "id": "gen-649",
+  "term": "sacrifice",
+  "meaning": "adamak, kurban adamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-650",
+  "term": "salute",
+  "meaning": "selamlamak (= greet)",
+  "wordType": "general",
+  "synonyms": [
+   "Greet"
+  ]
+ },
+ {
+  "id": "gen-651",
+  "term": "satisfaction",
+  "meaning": "tatmin, memnuniyet",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-652",
+  "term": "savage",
+  "meaning": "vahşi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-653",
+  "term": "scald",
+  "meaning": "kaynar suyla yakmak/haşlamak (el, kol vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-654",
+  "term": "scalp",
+  "meaning": "kafa derisini yüzmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-655",
+  "term": "scatter",
+  "meaning": "saçmak, serpmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-656",
+  "term": "scratch",
+  "meaning": "(1) kazımak, tahriş etmek (2) tırmalamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-657",
+  "term": "sculpture",
+  "meaning": "heykel ***sculptor = heykeltırtaş",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-658",
+  "term": "seam",
+  "meaning": "(1) kıyafetlerin dikiş yerleri (2) (yara için) dikiş yeri",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-659",
+  "term": "seasonal",
+  "meaning": "mevsimine uygun",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-660",
+  "term": "secure",
+  "meaning": "güvenli, emniyetli (= safe)",
+  "wordType": "general",
+  "synonyms": [
+   "Safe"
+  ]
+ },
+ {
+  "id": "gen-661",
+  "term": "sedate",
+  "meaning": "(1) sakinleştirmek, yatıştırmak (2) sakin, soğukkanlı (= composed)",
+  "wordType": "general",
+  "synonyms": [
+   "Composed"
+  ]
+ },
+ {
+  "id": "gen-662",
+  "term": "seed",
+  "meaning": "tohum",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-663",
+  "term": "sense",
+  "meaning": "(1) duygu **sensitive = hassas, duygusal (2) mantık **sensible =mantıklı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-664",
+  "term": "sentimental",
+  "meaning": "duygusal (= emotional)",
+  "wordType": "general",
+  "synonyms": [
+   "Emotional"
+  ]
+ },
+ {
+  "id": "gen-665",
+  "term": "session",
+  "meaning": "toplantının her bir oturumu",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-666",
+  "term": "sewage",
+  "meaning": "lağım, kanalizasyon",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-667",
+  "term": "shade",
+  "meaning": "(1) gölgelik (2) renk tonu",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-668",
+  "term": "shortcoming",
+  "meaning": "kusur, eksik, noksan",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-669",
+  "term": "shorten",
+  "meaning": "kısaltmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-670",
+  "term": "shuffle",
+  "meaning": "karıştırmak ( iskambil kağıtlarını); ayak sürüyerek yürüme",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-671",
+  "term": "sigh",
+  "meaning": "iç çekmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-672",
+  "term": "silent",
+  "meaning": "sessiz, sakin",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-673",
+  "term": "simulate",
+  "meaning": "taklit etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-674",
+  "term": "sink",
+  "meaning": "(1) batmak (2) lavabo, musluk taşı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-675",
+  "term": "situate",
+  "meaning": "konuşlandırmak, yerleşmek, yerleştirmek (= locate)",
+  "wordType": "general",
+  "synonyms": [
+   "Locate"
+  ]
+ },
+ {
+  "id": "gen-676",
+  "term": "size",
+  "meaning": "(1) (insan için) kıyafet bedeni (2) ebat, boyut",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-677",
+  "term": "skill",
+  "meaning": "beceri, yeti, istidat (= talent, ability)",
+  "wordType": "general",
+  "synonyms": [
+   "Talent",
+   "Ability"
+  ]
+ },
+ {
+  "id": "gen-678",
+  "term": "slaughter",
+  "meaning": "(1) kurban etmek, kesmek (2) öldürmek, cinayet işlemek (= murder)",
+  "wordType": "general",
+  "synonyms": [
+   "Murder"
+  ]
+ },
+ {
+  "id": "gen-679",
+  "term": "slavery",
+  "meaning": "kölelik",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-680",
+  "term": "sleeve",
+  "meaning": "gömlek, gömlek kolu",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-681",
+  "term": "slight",
+  "meaning": "hafif, az",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-682",
+  "term": "slip",
+  "meaning": "kaymak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-683",
+  "term": "smash",
+  "meaning": "(cam, kapı vb) paramparça etmek, kırıp parçalamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-684",
+  "term": "smother (smadır)",
+  "meaning": "(1) (yastık vb ile) boğmak (2) üzerini örtmek, kamufle etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-685",
+  "term": "snap",
+  "meaning": "(fotoğrafçılıkta) poz",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-686",
+  "term": "soap",
+  "meaning": "sabun ****soap opera = pembe dizi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-687",
+  "term": "sociable",
+  "meaning": "sıcak kanlı, insanlarla çabuk kaynaşan",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-688",
+  "term": "soothing",
+  "meaning": "yatıştırıcı (= comforting, calming)",
+  "wordType": "general",
+  "synonyms": [
+   "Comforting",
+   "Calming"
+  ]
+ },
+ {
+  "id": "gen-689",
+  "term": "spectacular",
+  "meaning": "görkemli, harikulade",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-690",
+  "term": "spend",
+  "meaning": "harcamak ( para vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-691",
+  "term": "spillage",
+  "meaning": "(yere vb) dökülen şey, döküntü (su vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-692",
+  "term": "spin",
+  "meaning": "(1) fırıl fırıl dönmek (2) (ip için) eğirmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-693",
+  "term": "spine",
+  "meaning": "omurga, belkemiği",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-694",
+  "term": "spoiled",
+  "meaning": "şımarık (= mischievous (=misçivıs)",
+  "wordType": "general",
+  "synonyms": [
+   "Mischievous (=misçivıs"
+  ]
+ },
+ {
+  "id": "gen-695",
+  "term": "spouse",
+  "meaning": "eş (karı veya koca)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-696",
+  "term": "spring",
+  "meaning": "(1) bahar mevsimi (2) su kaynağı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-697",
+  "term": "stability",
+  "meaning": "istikrar, denge",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-698",
+  "term": "staff",
+  "meaning": "personel",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-699",
+  "term": "stage",
+  "meaning": "(1) sahne (tiyatro) (2) aşama, merhale",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-700",
+  "term": "startle",
+  "meaning": "(1) korkutmak, ürkütmek (2) şaşırtmak, affalatmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-701",
+  "term": "statement",
+  "meaning": "(1) söz, ifade (2) demeç",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-702",
+  "term": "statue (steyçu)",
+  "meaning": "heykel",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-703",
+  "term": "steadily",
+  "meaning": "sabit bir şekilde, istikrarla (= constantly)",
+  "wordType": "general",
+  "synonyms": [
+   "Constantly"
+  ]
+ },
+ {
+  "id": "gen-704",
+  "term": "steal",
+  "meaning": "çalmak, hırsızlık yapmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-705",
+  "term": "stealthily (steltili)",
+  "meaning": "hırsız gibi, sinsi bir şekilde (= sneakily (snikili)",
+  "wordType": "general",
+  "synonyms": [
+   "Sneakily (snikili"
+  ]
+ },
+ {
+  "id": "gen-706",
+  "term": "stir",
+  "meaning": "(1) karışıklık, kargaşa (2) karıştırmak ( çorba vb) ***Stir up = Kızıştırmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-707",
+  "term": "store",
+  "meaning": "depo, depolamak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-708",
+  "term": "storm",
+  "meaning": "fırtına ***blizzard = kar fırtınası",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-709",
+  "term": "stranger",
+  "meaning": "yabancı, ecnebi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-710",
+  "term": "stray",
+  "meaning": "(1) başıboş aylak kimse (2) sokakta yaşayan kedi, köpek vb",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-711",
+  "term": "stress",
+  "meaning": "(1) buhran, bunalım, stres (2) vurgulamak (= emphasize)",
+  "wordType": "general",
+  "synonyms": [
+   "Emphasize"
+  ]
+ },
+ {
+  "id": "gen-712",
+  "term": "strike",
+  "meaning": "(1) grev",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-713",
+  "term": "stroll",
+  "meaning": "ağır ağır dolaşmak (= go for a stroll = dolaşmaya çıkmak)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-714",
+  "term": "subject to",
+  "meaning": "(1) (ölüme, yalnız kalmaya vb) maruz kalmış (2) olası, muhtemel",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-715",
+  "term": "sue",
+  "meaning": "dava açmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-716",
+  "term": "sufficiently",
+  "meaning": "yeterli miktarda",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-717",
+  "term": "suffrage",
+  "meaning": "oy kullanma hakkı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-718",
+  "term": "suggestion",
+  "meaning": "öneri, tavsiye",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-719",
+  "term": "suggestive of",
+  "meaning": "manalı, imalı, insanın aklına bir şey getiren",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-720",
+  "term": "suit",
+  "meaning": "yakışmak (kıyafetin vb.)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-721",
+  "term": "supply",
+  "meaning": "(1) tedarik etmek,sağlamak (2) kaynak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-722",
+  "term": "support",
+  "meaning": "desteklemek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-723",
+  "term": "surrender",
+  "meaning": "teslim olmak X surround",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-724",
+  "term": "suspicion",
+  "meaning": "şüphe",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-725",
+  "term": "symptom",
+  "meaning": "semptom, belirti (hastalık vb için)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-726",
+  "term": "tame",
+  "meaning": "evcil hayvan (= docile, domesticated)",
+  "wordType": "general",
+  "synonyms": [
+   "Docile",
+   "Domesticated"
+  ]
+ },
+ {
+  "id": "gen-727",
+  "term": "tapestry",
+  "meaning": "duvar halısı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-728",
+  "term": "tasteful",
+  "meaning": "(1) zevkli, zevkine düşkün kişi (2) zevkle yapılan/hazırlanan (desen vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-729",
+  "term": "tasty",
+  "meaning": "lezzetli",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-730",
+  "term": "temple (tempıl)",
+  "meaning": "tapınak, mabet (= shrine, sanctuary)",
+  "wordType": "general",
+  "synonyms": [
+   "Shrine",
+   "Sanctuary"
+  ]
+ },
+ {
+  "id": "gen-731",
+  "term": "tenderness",
+  "meaning": "şefkat, merhamet, anlayış (= affection)",
+  "wordType": "general",
+  "synonyms": [
+   "Affection"
+  ]
+ },
+ {
+  "id": "gen-732",
+  "term": "terminal",
+  "meaning": "(1) ölümcül (hastalık) (= perishing) (2) uçta/sonda bulunan, son, nihai",
+  "wordType": "general",
+  "synonyms": [
+   "Perishing"
+  ]
+ },
+ {
+  "id": "gen-733",
+  "term": "terminate",
+  "meaning": "(1) (sözleşme, kontrat vb) sonlandırmak, bitirmek (2) yok etmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-734",
+  "term": "territory",
+  "meaning": "bölge, arazi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-735",
+  "term": "the rest of…",
+  "meaning": "--- nın geri kalanı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-736",
+  "term": "thoughtless",
+  "meaning": "düşüncesiz, patavatsız, kaba (= tactless, rude)",
+  "wordType": "general",
+  "synonyms": [
+   "Tactless",
+   "Rude"
+  ]
+ },
+ {
+  "id": "gen-737",
+  "term": "throw",
+  "meaning": "atmak, fırlatmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-738",
+  "term": "throw out",
+  "meaning": "(çöp vb) dışarı atmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-739",
+  "term": "thunderstorm",
+  "meaning": "yıldırımlı fırtına",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-740",
+  "term": "tomb",
+  "meaning": "mezar, kabir, türbe (= grave)",
+  "wordType": "general",
+  "synonyms": [
+   "Grave"
+  ]
+ },
+ {
+  "id": "gen-741",
+  "term": "trace",
+  "meaning": "iz, izini sürmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-742",
+  "term": "trade",
+  "meaning": "(1) ticaret yapmak, alım satım yapmak (2) ticaret",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-743",
+  "term": "traditional",
+  "meaning": "geleneksel",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-744",
+  "term": "trail",
+  "meaning": "iz, patika",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-745",
+  "term": "train",
+  "meaning": "(1) eğitmek, eğitim görmek (= educate) (2) idman/antrenman yapmak (3)stajyerlik/çıraklık yapmak",
+  "wordType": "general",
+  "synonyms": [
+   "Educate"
+  ]
+ },
+ {
+  "id": "gen-746",
+  "term": "trash",
+  "meaning": "çöp (= garbage)",
+  "wordType": "general",
+  "synonyms": [
+   "Garbage"
+  ]
+ },
+ {
+  "id": "gen-747",
+  "term": "treasure (trejı",
+  "meaning": ")= hazine",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-748",
+  "term": "trick",
+  "meaning": "hile, tuzak, çeldirme ***play a trick on = kandırmak, kötü şaka yapmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-749",
+  "term": "trim",
+  "meaning": "(1) (ağaç) budamak (2) (saç) kırpmak, kesmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-750",
+  "term": "tripe",
+  "meaning": "işkembe",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-751",
+  "term": "truthful about",
+  "meaning": "(1) sadece doğruyu söyleyen (2) gerçeklere uygun, doğru (söz)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-752",
+  "term": "unattended",
+  "meaning": "sahipsiz, sahibi ortada gözükmeyen (eşya, çocuk vb)",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-753",
+  "term": "uncultured",
+  "meaning": "kültürsüz, tahsilsiz, cahil (= uncultivated, boorish, unsophisticated)",
+  "wordType": "general",
+  "synonyms": [
+   "Uncultivated",
+   "Boorish",
+   "Unsophisticated"
+  ]
+ },
+ {
+  "id": "gen-754",
+  "term": "unfortunate",
+  "meaning": "talihsiz, şansız (= unlucky)",
+  "wordType": "general",
+  "synonyms": [
+   "Unlucky"
+  ]
+ },
+ {
+  "id": "gen-755",
+  "term": "untimely",
+  "meaning": "vakitsiz, yersiz, olmadık zamanda (= at an awkward time)",
+  "wordType": "general",
+  "synonyms": [
+   "At an awkward time"
+  ]
+ },
+ {
+  "id": "gen-756",
+  "term": "unusual",
+  "meaning": "sıra dışı, alışılmamış (= extraordinary, exceptional)",
+  "wordType": "general",
+  "synonyms": [
+   "Extraordinary",
+   "Exceptional"
+  ]
+ },
+ {
+  "id": "gen-757",
+  "term": "unwind",
+  "meaning": "(1) (özellikle işten sonra) rahatlamak, dinlenmek (2) düğüm/sargıçözmek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-758",
+  "term": "vacation",
+  "meaning": "tatil",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-759",
+  "term": "vague (veyg)",
+  "meaning": "(1) belirsiz, üstü kapalı (2) net hatırlanamayan şey X vivid",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-760",
+  "term": "valley",
+  "meaning": "vadi",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-761",
+  "term": "vanish",
+  "meaning": "1- ortadan kaybolmak 2-yok olmak",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-762",
+  "term": "variety",
+  "meaning": "değişiklik, çeşitlilik",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-763",
+  "term": "vast",
+  "meaning": "büyük, engin, muazzam (= immense, tremendous, huge)",
+  "wordType": "general",
+  "synonyms": [
+   "Immense",
+   "Tremendous",
+   "Huge"
+  ]
+ },
+ {
+  "id": "gen-764",
+  "term": "vet",
+  "meaning": "veteriner",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-765",
+  "term": "violate (vayoleyt)",
+  "meaning": "(kural, kanun, hak vb) ihlal etmek, çiğnemek (= abuse)",
+  "wordType": "general",
+  "synonyms": [
+   "Abuse"
+  ]
+ },
+ {
+  "id": "gen-766",
+  "term": "violent",
+  "meaning": "şiddetli, şiddet içerikli",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-767",
+  "term": "vocation",
+  "meaning": "meslek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-768",
+  "term": "volunteer",
+  "meaning": "gönüllü, ücret almadan yardım eden",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-769",
+  "term": "vote for/against",
+  "meaning": "(1) oy (2) oy vermek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-770",
+  "term": "voyage",
+  "meaning": "deniz yolculuğu",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-771",
+  "term": "wantonly",
+  "meaning": "(1) durduk yere, sebepsiz yere (2) ahlaksızca, şehvetle",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-772",
+  "term": "wear",
+  "meaning": "takınmak( gözlük, kolye, kıyafet),giymek",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-773",
+  "term": "weep",
+  "meaning": "ağlamak, sızlamak (= cry, sob)",
+  "wordType": "general",
+  "synonyms": [
+   "Cry",
+   "Sob"
+  ]
+ },
+ {
+  "id": "gen-774",
+  "term": "whirl",
+  "meaning": "(1) hızla dönmek (2) girdap",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-775",
+  "term": "wholly",
+  "meaning": "tamamen, tümüyle, bütünüyle (= entirely)",
+  "wordType": "general",
+  "synonyms": [
+   "Entirely"
+  ]
+ },
+ {
+  "id": "gen-776",
+  "term": "widely",
+  "meaning": "geniş çapta, oldukça",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-777",
+  "term": "widow",
+  "meaning": "kadın dul ***widower = erkek dul",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-778",
+  "term": "withdraw from",
+  "meaning": "(1) (savaştan,seçimlerden vb) geri çekilmek (= pull out of) (2) (bankadan, hesaptan vb) para çekmek",
+  "wordType": "general",
+  "synonyms": [
+   "Pull out of"
+  ]
+ },
+ {
+  "id": "gen-779",
+  "term": "withdrawn",
+  "meaning": "içine kapanık (= reserved, inhibited)",
+  "wordType": "general",
+  "synonyms": [
+   "Reserved",
+   "Inhibited"
+  ]
+ },
+ {
+  "id": "gen-780",
+  "term": "witness",
+  "meaning": "(1) şahit olmak (2) tanık, şahit, görgü tanığı",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-781",
+  "term": "worthless",
+  "meaning": "değersiz (= valueless)",
+  "wordType": "general",
+  "synonyms": [
+   "Valueless"
+  ]
+ },
+ {
+  "id": "gen-782",
+  "term": "yard",
+  "meaning": "avlu, bahçe",
+  "wordType": "general"
+ },
+ {
+  "id": "gen-783",
+  "term": "zip",
+  "meaning": "fermuar",
+  "wordType": "general"
+ }
+]

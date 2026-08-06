@@ -9,6 +9,9 @@ enum WordTypeStyle {
         case .adjective: return "sparkles"
         case .conjunction: return "arrow.triangle.branch"
         case .preposition: return "arrow.turn.down.right"
+        case .noun: return "cube.fill"
+        case .adverb: return "speedometer"
+        case .general: return "star.fill"
         }
     }
 
@@ -20,6 +23,9 @@ enum WordTypeStyle {
         case .adjective: return .purple
         case .conjunction: return .orange
         case .preposition: return .pink
+        case .noun: return .brown
+        case .adverb: return .green
+        case .general: return .yellow
         }
     }
 }

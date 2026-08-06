@@ -1,0 +1,316 @@
+[
+ {
+  "id": "adv-1",
+  "term": "Significantly",
+  "meaning": "Önemli ölçüde, kayda değer biçimde",
+  "wordType": "adverb",
+  "synonyms": [
+   "Considerably",
+   "Substantially",
+   "Remarkably"
+  ]
+ },
+ {
+  "id": "adv-2",
+  "term": "Adversely",
+  "meaning": "Olumsuz yönde, kötü bir şekilde",
+  "wordType": "adverb",
+  "synonyms": [
+   "Unfavorably",
+   "Negatively",
+   "Poorly"
+  ]
+ },
+ {
+  "id": "adv-3",
+  "term": "Drastically",
+  "meaning": "Şiddetle, radikal bir şekilde, aniden",
+  "wordType": "adverb",
+  "synonyms": [
+   "Radically",
+   "Severely",
+   "Sharply"
+  ]
+ },
+ {
+  "id": "adv-4",
+  "term": "Virtually",
+  "meaning": "Neredeyse, hemen hemen",
+  "wordType": "adverb",
+  "synonyms": [
+   "Almost",
+   "Nearly",
+   "Practically"
+  ]
+ },
+ {
+  "id": "adv-5",
+  "term": "Merely",
+  "meaning": "Sadece, yalnızca",
+  "wordType": "adverb",
+  "synonyms": [
+   "Only",
+   "Solely",
+   "Purely"
+  ]
+ },
+ {
+  "id": "adv-6",
+  "term": "Inherently",
+  "meaning": "Doğası gereği, özünde",
+  "wordType": "adverb",
+  "synonyms": [
+   "Intrinsically",
+   "Naturally",
+   "Innately"
+  ]
+ },
+ {
+  "id": "adv-7",
+  "term": "Simultaneously",
+  "meaning": "Eş zamanlı olarak, aynı anda",
+  "wordType": "adverb",
+  "synonyms": [
+   "Concurrently",
+   "At the same time"
+  ]
+ },
+ {
+  "id": "adv-8",
+  "term": "Profoundly",
+  "meaning": "Derinden, köklü bir biçimde",
+  "wordType": "adverb",
+  "synonyms": [
+   "Deeply",
+   "Thoroughly",
+   "Extensively"
+  ]
+ },
+ {
+  "id": "adv-9",
+  "term": "Relentlessly",
+  "meaning": "Amansızca, dur durak bilmeden",
+  "wordType": "adverb",
+  "synonyms": [
+   "Continuously",
+   "Persistently",
+   "Ruthlessly"
+  ]
+ },
+ {
+  "id": "adv-10",
+  "term": "Solely",
+  "meaning": "Yalnızca, sadece, tek başına",
+  "wordType": "adverb",
+  "synonyms": [
+   "Exclusively",
+   "Only",
+   "Merely"
+  ]
+ },
+ {
+  "id": "adv-11",
+  "term": "Unanimously",
+  "meaning": "Oy birliğiyle, tam bir mutabakatla",
+  "wordType": "adverb",
+  "synonyms": [
+   "Collectively",
+   "Without dissent"
+  ]
+ },
+ {
+  "id": "adv-12",
+  "term": "Arbitrarily",
+  "meaning": "Keyfi olarak, rastgele",
+  "wordType": "adverb",
+  "synonyms": [
+   "Randomly",
+   "Aimlessly",
+   "Haphazardly"
+  ]
+ },
+ {
+  "id": "adv-13",
+  "term": "Deliberately",
+  "meaning": "Kasten, bilerek, üzerinde düşünerek",
+  "wordType": "adverb",
+  "synonyms": [
+   "Intentionally",
+   "On purpose",
+   "Consciously"
+  ]
+ },
+ {
+  "id": "adv-14",
+  "term": "Radically",
+  "meaning": "Kökten, radikal biçimde",
+  "wordType": "adverb",
+  "synonyms": [
+   "Fundamentally",
+   "Completely",
+   "Drastically"
+  ]
+ },
+ {
+  "id": "adv-15",
+  "term": "Mutually",
+  "meaning": "Karşılıklı olarak",
+  "wordType": "adverb",
+  "synonyms": [
+   "Reciprocally",
+   "Jointly"
+  ]
+ },
+ {
+  "id": "adv-16",
+  "term": "Rigorously",
+  "meaning": "Titizlikle, kılı kırk yararak",
+  "wordType": "adverb",
+  "synonyms": [
+   "Meticulously",
+   "Strictly",
+   "Thoroughly"
+  ]
+ },
+ {
+  "id": "adv-17",
+  "term": "Inadvertently",
+  "meaning": "Yanlışlıkla, istemeden, kazara",
+  "wordType": "adverb",
+  "synonyms": [
+   "Unintentionally",
+   "Accidentally"
+  ]
+ },
+ {
+  "id": "adv-18",
+  "term": "Predominantly",
+  "meaning": "Ağırlıklı olarak, çoğunlukla",
+  "wordType": "adverb",
+  "synonyms": [
+   "Mainly",
+   "Chiefly",
+   "Primarily"
+  ]
+ },
+ {
+  "id": "adv-19",
+  "term": "Starkly",
+  "meaning": "Keskin bir biçimde, tüm çıplaklığıyla",
+  "wordType": "adverb",
+  "synonyms": [
+   "Sharply",
+   "Distinctly",
+   "Vividly"
+  ]
+ },
+ {
+  "id": "adv-20",
+  "term": "Adequately",
+  "meaning": "Yeterli düzeyde, uygun şekilde",
+  "wordType": "adverb",
+  "synonyms": [
+   "Sufficiently",
+   "Appropriately"
+  ]
+ },
+ {
+  "id": "adv-21",
+  "term": "Substantially",
+  "meaning": "Önemli ölçüde, hatırı sayılır derecede",
+  "wordType": "adverb",
+  "synonyms": [
+   "Significantly",
+   "Considerably",
+   "Remarkably"
+  ]
+ },
+ {
+  "id": "adv-22",
+  "term": "Precisely",
+  "meaning": "Tam olarak, kesinlikle, titizlikle",
+  "wordType": "adverb",
+  "synonyms": [
+   "Exactly",
+   "Accurately",
+   "Specifically"
+  ]
+ },
+ {
+  "id": "adv-23",
+  "term": "Inevitably",
+  "meaning": "Kaçınılmaz bir şekilde",
+  "wordType": "adverb",
+  "synonyms": [
+   "Unavoidably",
+   "Necessarily",
+   "Inescapably"
+  ]
+ },
+ {
+  "id": "adv-24",
+  "term": "Reluctantly",
+  "meaning": "Gönülsüzce, istemeyerek",
+  "wordType": "adverb",
+  "synonyms": [
+   "Unwillingly",
+   "Half-heartedly",
+   "Grudgingly"
+  ]
+ },
+ {
+  "id": "adv-25",
+  "term": "Persistently",
+  "meaning": "Israrla, sürekli olarak",
+  "wordType": "adverb",
+  "synonyms": [
+   "Constantly",
+   "Relentlessly",
+   "Continuously"
+  ]
+ },
+ {
+  "id": "adv-26",
+  "term": "Vigorously",
+  "meaning": "Enerjik bir şekilde, şiddetle, güçlüce",
+  "wordType": "adverb",
+  "synonyms": [
+   "Forcefully",
+   "Strenuously",
+   "Energetically"
+  ]
+ },
+ {
+  "id": "adv-27",
+  "term": "Scarcely",
+  "meaning": "Hemen hemen hiç, güçbela, neredeyse hiç",
+  "wordType": "adverb",
+  "synonyms": [
+   "Hardly",
+   "Barely",
+   "Rarely"
+  ]
+ },
+ {
+  "id": "adv-28",
+  "term": "Tentatively",
+  "meaning": "Geçici olarak, tereddütle, kesinleşmemiş bir şekilde",
+  "wordType": "adverb",
+  "synonyms": [
+   "Provisionally",
+   "Hesitantly",
+   "Cautiously"
+  ]
+ },
+ {
+  "id": "adv-29",
+  "term": "Conspicuously",
+  "meaning": "Göze çarpan bir şekilde, barizce",
+  "wordType": "adverb",
+  "synonyms": [
+   "Noticeably",
+   "Obviously",
+   "Prominently"
+  ]
+ }
+]
