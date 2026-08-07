@@ -3,6 +3,9 @@ import Foundation
 // Not: `allCases` bildirim sırasını izler ve Ezberle listesinin sırasını belirler.
 // Tür String tabanlı olduğundan sırayı değiştirmek kayıtlı ilerlemeyi etkilemez.
 enum WordType: String, Codable, CaseIterable, Identifiable, Hashable {
+    /// Gözde Hoca'nın muhtemel YÖKDİL listesi: isim/sıfat/zarf/fiil/phrasal verb
+    /// ayrılmadan tek başlık altında toplanır.
+    case yokdilLikely = "yokdil"
     case noun
     case verb
     case adjective
@@ -16,6 +19,7 @@ enum WordType: String, Codable, CaseIterable, Identifiable, Hashable {
 
     var displayName: String {
         switch self {
+        case .yokdilLikely: return "Muhtemel YÖKDİL Kelimeleri"
         case .verb: return "Fiil"
         case .phrasalVerb: return "Phrasal Verb"
         case .adjective: return "Sıfat"

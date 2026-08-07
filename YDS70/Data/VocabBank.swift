@@ -24,6 +24,7 @@ final class VocabBank {
         [
             "vocabulary", "conjunctions", "prepositions",
             "verbs50", "adjectives50", "nouns50", "adverbs30", "general1000",
+            "yokdil_likely",
         ].flatMap(loadResource)
     }
 
@@ -45,7 +46,13 @@ final class VocabBank {
     }
 
     func words(of type: WordType?) -> [VocabWord] {
-        guard let type else { return allWords }
+        guard let type else {
+            // Aynı kelime birden fazla listede geçebilir; "Tüm Kelimeler"de
+            // tekrar sorulmaması için terime göre teke indirilir. Kategori
+            // listeleri kendi içeriğini olduğu gibi korur.
+            var seen = Set<String>()
+            return allWords.filter { seen.insert($0.term.lowercased()).inserted }
+        }
         return allWords.filter { $0.wordType == type }
     }
 

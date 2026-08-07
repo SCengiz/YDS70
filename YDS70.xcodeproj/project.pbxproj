@@ -19,6 +19,7 @@
 		32E33A4477ECD237C23D7735 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84BED74718A08FD596045AB0 /* Assets.xcassets */; };
 		3B59F15CECA90E46CA9BDAE3 /* SolveRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0103CED90FF60BE4EEF6BD22 /* SolveRoute.swift */; };
 		3B7E400A0948560842F28708 /* MasteredWordsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027A214636D22C135437E16D /* MasteredWordsView.swift */; };
+		3ECBA047B29B775914C3E35E /* yokdil_likely.json in Resources */ = {isa = PBXBuildFile; fileRef = 925F3EF6FA671111BF892D3A /* yokdil_likely.json */; };
 		437CBAA9D0A4773FCBA552B9 /* CategoryStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13B56E190D83E09A689BA88A /* CategoryStyle.swift */; };
 		441E1F161AEF452D6A0CC381 /* conjunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = C71C8CB2D64F4EA9A2259BBA /* conjunctions.json */; };
 		445BEA1B0033C7CD36E1809A /* StudyRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 973EA958AA393EE1666CB57D /* StudyRoute.swift */; };
@@ -96,6 +97,7 @@
 		84BED74718A08FD596045AB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BC4246E5B6BE4C56504E9A4 /* reduction_konu_anlatimi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = reduction_konu_anlatimi.pdf; sourceTree = "<group>"; };
 		90247A09A0F3868A68128D1D /* GeminiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeminiService.swift; sourceTree = "<group>"; };
+		925F3EF6FA671111BF892D3A /* yokdil_likely.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = yokdil_likely.json; sourceTree = "<group>"; };
 		973EA958AA393EE1666CB57D /* StudyRoute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyRoute.swift; sourceTree = "<group>"; };
 		97B89FB203A8B2C0630E792D /* VocabBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabBank.swift; sourceTree = "<group>"; };
 		996CCE43FCB51458FC31FD11 /* vocabulary.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = vocabulary.json; sourceTree = "<group>"; };
@@ -171,6 +173,7 @@
 				093C9CD572039F7EDD6ED14C /* VocabImporter.swift */,
 				F78A73918DF4E94A245EC5D9 /* VocabProgressStore.swift */,
 				996CCE43FCB51458FC31FD11 /* vocabulary.json */,
+				925F3EF6FA671111BF892D3A /* yokdil_likely.json */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -301,6 +304,7 @@
 				954E239E2F4584BC09D64AFE /* seed_questions.json in Resources */,
 				9AB841AFB44DB992BD63CBE3 /* verbs50.json in Resources */,
 				18DCD6AD8BC5D9ACCAA8C957 /* vocabulary.json in Resources */,
+				3ECBA047B29B775914C3E35E /* yokdil_likely.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

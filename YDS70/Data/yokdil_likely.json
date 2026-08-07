@@ -1,0 +1,902 @@
+[
+ {
+  "id": "yokdil-1",
+  "term": "Proliferation",
+  "meaning": "Çoğalma, üreme, yayılma",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-2",
+  "term": "Surveillance",
+  "meaning": "Gözetim, yakın takip, izleme",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-3",
+  "term": "Obstacle",
+  "meaning": "Engel, mani",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-4",
+  "term": "Incidence",
+  "meaning": "Görülme sıklığı, vaka oranı",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-5",
+  "term": "Determinant",
+  "meaning": "Belirleyici faktör",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-6",
+  "term": "Inclination",
+  "meaning": "Eğilim, meyil, yatkınlık",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-7",
+  "term": "Prevalence",
+  "meaning": "Yaygınlık, görülme oranı",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-8",
+  "term": "Proximity",
+  "meaning": "Yakınlık (zaman veya mekan olarak)",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-9",
+  "term": "Dissemination",
+  "meaning": "(Bilgi, haber vb.) Yayma, dağıtma",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-10",
+  "term": "Adherence",
+  "meaning": "Bağlılık, sadakat; (kurala) uyma",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-11",
+  "term": "Interference",
+  "meaning": "Müdahale, araya girme",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-12",
+  "term": "Reciprocity",
+  "meaning": "Karşılıklılık, mütekabiliyet",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-13",
+  "term": "Repercussion",
+  "meaning": "Olumsuz sonuç, geri tepme, yankı",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-14",
+  "term": "Disparity",
+  "meaning": "Farklılık, eşitsizlik, uçurum",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-15",
+  "term": "Inspection",
+  "meaning": "Denetleme, teftiş, inceleme",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-16",
+  "term": "Extinction",
+  "meaning": "Nesli tükenme, yok olma",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-17",
+  "term": "Identification",
+  "meaning": "Kimlik tespiti, tanımlama",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-18",
+  "term": "Inclusion",
+  "meaning": "Dahil etme, kapsama",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-19",
+  "term": "Discrepancy",
+  "meaning": "Tutarsızlık, çelişki",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-20",
+  "term": "Constrain",
+  "meaning": "Kısıtlamak, sınırlamak, zorlamak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-21",
+  "term": "Stagnation",
+  "meaning": "Durgunluk, yerinde sayma",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-22",
+  "term": "Alienation",
+  "meaning": "Yabancılaşma, dışlanmışlık hissi",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-23",
+  "term": "Deterrence",
+  "meaning": "Caydırıcılık",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-24",
+  "term": "Sanction",
+  "meaning": "1. Yaptırım (Ekonomik/Siyasi) 2. Onay",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-25",
+  "term": "Compensation",
+  "meaning": "1. Tazminat 2. Telafi.",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-26",
+  "term": "Mitigation",
+  "meaning": "Hafifletme, (acıyı/sorunu) dindirme",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-27",
+  "term": "Eradication",
+  "meaning": "Kökünü kazıma, yok etme, ortadan kaldırma",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-28",
+  "term": "Disruption",
+  "meaning": "Aksama, bozulma, kesinti",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-29",
+  "term": "Shortage",
+  "meaning": "Kıtlık, eksiklik, yetersizlik",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-30",
+  "term": "Cultivation",
+  "meaning": "Tarım/Ekme; geliştirme (yetenek vb.)",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-31",
+  "term": "Unprecedented",
+  "meaning": "Eşi benzeri görülmemiş",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-32",
+  "term": "Indispensable",
+  "meaning": "Vazgeçilmez, elzem",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-33",
+  "term": "Insurmountable",
+  "meaning": "Başa çıkılamaz, aşılamaz, yenilemez",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-34",
+  "term": "Intricate",
+  "meaning": "Karmaşık, detaylı",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-35",
+  "term": "Tumultuous",
+  "meaning": "Çalkantılı, gürültülü, karmaşık",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-36",
+  "term": "Ubiquitous",
+  "meaning": "Her yerde bulunan, yaygın",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-37",
+  "term": "Ambiguous",
+  "meaning": "Belirsiz",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-38",
+  "term": "Revitalising",
+  "meaning": "Canlandırıcı, hayat verici",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-39",
+  "term": "Subtle",
+  "meaning": "Hemen göze çarpmayan, ince, nüanslı",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-40",
+  "term": "Elaborate",
+  "meaning": "Ayrıntılı, detaylı",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-41",
+  "term": "Overt",
+  "meaning": "Açık, gizli olmayan, meydanda",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-42",
+  "term": "Compulsory",
+  "meaning": "Zorunlu, mecburi",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-43",
+  "term": "Reversible",
+  "meaning": "Tersine çevrilebilir, geri dönüşü olan",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-44",
+  "term": "Vulnerable",
+  "meaning": "Savunmasız, hassas, (zarara) açık",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-45",
+  "term": "Persistent",
+  "meaning": "Israrcı, kalıcı, süregelen",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-46",
+  "term": "Comprehensive",
+  "meaning": "Kapsamlı, detaylı",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-47",
+  "term": "Abrupt",
+  "meaning": "Ani, bekli olmayan",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-48",
+  "term": "Relentless",
+  "meaning": "Amansız, acımasız, aralıksız",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-49",
+  "term": "Inherent",
+  "meaning": "Doğasında olan, doğuştan gelen",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-50",
+  "term": "Profound",
+  "meaning": "Derin, köklü, çok büyük etki yapan",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-51",
+  "term": "Elusive",
+  "meaning": "Ele geçmez, anlaşılması veya tanımlanması zor",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-52",
+  "term": "Abundant",
+  "meaning": "Bol, bereketli, çok fazla",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-53",
+  "term": "Scarce",
+  "meaning": "Nadir, yetersiz, kıt",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-54",
+  "term": "Devastating",
+  "meaning": "Yıkıcı, tahrip edici, mahveden",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-55",
+  "term": "Negligible",
+  "meaning": "İhmal edilebilir, çok küçük",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-56",
+  "term": "Plausible",
+  "meaning": "Makul, akla yatkın",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-57",
+  "term": "Redundant",
+  "meaning": "Gereksiz, ihtiyaç fazlası",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-58",
+  "term": "Appropriate",
+  "meaning": "Uygun, yerinde",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-59",
+  "term": "Visible",
+  "meaning": "Görünür, belirgin",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-60",
+  "term": "Confidential",
+  "meaning": "Gizli, mahrem",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-61",
+  "term": "Extensively",
+  "meaning": "Kapsamlı bir şekilde, yaygın olarak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-62",
+  "term": "Accurately",
+  "meaning": "Doğru bir şekilde, tam olarak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-63",
+  "term": "Strictly",
+  "meaning": "Sıkı bir şekilde, kesinlikle",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-64",
+  "term": "Thoroughly",
+  "meaning": "Titizlikle, en ince ayrıntısına kadar, tamamen",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-65",
+  "term": "Simultaneously",
+  "meaning": "Eş zamanlı olarak, aynı anda",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-66",
+  "term": "Deliberately",
+  "meaning": "Kasten, bilerek, mahsus",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-67",
+  "term": "Reluctantly",
+  "meaning": "İsteksizce, gönülsüzce",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-68",
+  "term": "Instantaneously",
+  "meaning": "Anında, o saniyede",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-69",
+  "term": "Severely",
+  "meaning": "Şiddetli bir şekilde, ciddi derecede, sertçe",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-70",
+  "term": "Suspiciously",
+  "meaning": "Şüpheli bir şekilde",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-71",
+  "term": "Intuitively",
+  "meaning": "Sezgisel olarak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-72",
+  "term": "Permanently",
+  "meaning": "Kalıcı olarak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-73",
+  "term": "Haphazardly",
+  "meaning": "Gelişigüzel, darmadağınık bir şekilde",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-74",
+  "term": "Coincidentally",
+  "meaning": "Tesadüfen",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-75",
+  "term": "Inextricably",
+  "meaning": "Ayrılmaz bir şekilde",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-76",
+  "term": "Explicitly",
+  "meaning": "Açıkça, net bir şekilde, belirtilerek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-77",
+  "term": "Evenly",
+  "meaning": "eşit olarak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-78",
+  "term": "Exponentially",
+  "meaning": "Katlanarak, çok hızlı bir şekilde",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-79",
+  "term": "Seemingly",
+  "meaning": "Görünüşe bakılırsa, görünürde",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-80",
+  "term": "Fundamentally",
+  "meaning": "Esasen, temelinden",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-81",
+  "term": "Slightly",
+  "meaning": "Hafifçe, azıcık",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-82",
+  "term": "Smoothly",
+  "meaning": "Sorunsuzca, pürüzsüzce",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-83",
+  "term": "Enormously",
+  "meaning": "Muazzam derecede",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-84",
+  "term": "Sparsely",
+  "meaning": "Seyrek olarak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-85",
+  "term": "Respectively",
+  "meaning": "Sırasıyla",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-86",
+  "term": "Successively",
+  "meaning": "Art arda, birbirini izleyen şekilde",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-87",
+  "term": "Relatively",
+  "meaning": "Nispeten, oranla",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-88",
+  "term": "Adversely",
+  "meaning": "Olumsuz yönde, kötü bir şekilde",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-89",
+  "term": "Arbitrarily",
+  "meaning": "Keyfi olarak, rastgele",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-90",
+  "term": "Primarily",
+  "meaning": "Esas olarak, öncelikle, başlıca",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-91",
+  "term": "Sacrifice",
+  "meaning": "Feda etmek, kurban etmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-92",
+  "term": "Inhibit",
+  "meaning": "Engel olmak, engellemek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-93",
+  "term": "Aggravate",
+  "meaning": "Kötüleştirmek, şiddetlendirmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-94",
+  "term": "Exploit",
+  "meaning": "Sömürmek, faydalanmak, kendi çıkarına kullanmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-95",
+  "term": "Scatter",
+  "meaning": "Dağıtmak, saçmak, darmadağın etmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-96",
+  "term": "Enforce",
+  "meaning": "Uygulamak, zorla yürütlüğe koymak (kanun vb.)",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-97",
+  "term": "Refute",
+  "meaning": "Çürütmek (bir iddiayı)",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-98",
+  "term": "Ascertain",
+  "meaning": "Aslını öğrenmek, belirlemek, kesinleştirmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-99",
+  "term": "Undermine",
+  "meaning": "Baltalamak, zayıflatmak, temelini sarsmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-100",
+  "term": "Curb",
+  "meaning": "Kontrol altına almak, dizginlemek, azaltmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-101",
+  "term": "Advocate",
+  "meaning": "Savunmak, desteklemek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-102",
+  "term": "Induce",
+  "meaning": "Sebep olmak, ikna etmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-103",
+  "term": "Envisage",
+  "meaning": "Öngörmek, zihninde canlandırmak, planlamak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-104",
+  "term": "Scrutinize",
+  "meaning": "Dikkatle incelemek, ince eleyip sık dokumak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-105",
+  "term": "Allocate",
+  "meaning": "Ayırmak, tahsis etmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-106",
+  "term": "Amplify",
+  "meaning": "Artırmak, güçlendirmek, detaylandırmak.",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-107",
+  "term": "Diverge",
+  "meaning": "Sapmak, farklılaşmak, ayrılmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-108",
+  "term": "Embrace",
+  "meaning": "Kucaklamak, benimsemek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-109",
+  "term": "Decipher",
+  "meaning": "Şifresini çözmek, anlamını sökmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-110",
+  "term": "Persuade",
+  "meaning": "İkna etmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-111",
+  "term": "Surrender",
+  "meaning": "Teslim olmak, pes etmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-112",
+  "term": "Admit",
+  "meaning": "Kabul etmek, itiraf etmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-113",
+  "term": "Perplex",
+  "meaning": "Kafasını karıştırmak, şaşırtmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-114",
+  "term": "Endevaour",
+  "meaning": "Çabalamak, gayret etmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-115",
+  "term": "Accelerate",
+  "meaning": "Hızlandırmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-116",
+  "term": "Escalate",
+  "meaning": "Tırmanmak, şiddetlenmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-117",
+  "term": "Compel",
+  "meaning": "Zorlamak, mecbur bırakmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-118",
+  "term": "Illuminate",
+  "meaning": "Aydınlatmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-119",
+  "term": "Fluctuate",
+  "meaning": "Dalgalanmak, istikrarsız olmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-120",
+  "term": "Evoke",
+  "meaning": "Anımsatmak, uyandırmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-121",
+  "term": "Prevail over",
+  "meaning": "-e galip gelmek, üstün gelmek, hakim olmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-122",
+  "term": "Dispose of",
+  "meaning": "Başından atmak, imha etmek, kurtulmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-123",
+  "term": "Ward off",
+  "meaning": "Savuşturmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-124",
+  "term": "Lay down",
+  "meaning": "(Kural/Yasa) Koymak, şart koşmak; bırakmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-125",
+  "term": "Interfere with",
+  "meaning": "Müdahale etmek, engel olmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-126",
+  "term": "Descend from",
+  "meaning": "-den gelmek, soyundan gelmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-127",
+  "term": "Align with",
+  "meaning": "-ile hizalamak, uyumlu hale getirmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-128",
+  "term": "Pass down",
+  "meaning": "(nesilden nesile) devretmek/aktarmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-129",
+  "term": "Embark on",
+  "meaning": "(Yeni, önemli veya zor bir işe) Başlamak, girişmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-130",
+  "term": "Pertain to",
+  "meaning": "-ile ilgili olmak, -e ait olmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-131",
+  "term": "Delve into",
+  "meaning": "Derinlemesine araştırmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-132",
+  "term": "Account for",
+  "meaning": "Açıklamak; (bir kısmını/oranını) oluşturmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-133",
+  "term": "Get through",
+  "meaning": "(Zor bir süreci) Bitirmek, tamamlamak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-134",
+  "term": "Revert to",
+  "meaning": "(Eski bir duruma/alışkanlığa) Geri dönmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-135",
+  "term": "Go against",
+  "meaning": "-e karşı gelmek, aykırı düşmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-136",
+  "term": "Convert into",
+  "meaning": "-e dönüştürmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-137",
+  "term": "Rule out",
+  "meaning": "Göz ardı etmek, elemek, olasılık dışı bırakmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-138",
+  "term": "Root out",
+  "meaning": "Kökünü kazımak, bulup yok etmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-139",
+  "term": "Deprive of",
+  "meaning": "-den yoksun bırakmak, mahrum etmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-140",
+  "term": "Lie in",
+  "meaning": "-de yatmak (Sebep, çözüm vb.)",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-141",
+  "term": "Settle down",
+  "meaning": "Yerleşmek, durulmak, sakinleşmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-142",
+  "term": "Pin down",
+  "meaning": "Tam olarak belirlemek, (bilgiye) ulaşmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-143",
+  "term": "Take on",
+  "meaning": "(Sorumluluk, iş vb.) üstlenmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-144",
+  "term": "Divert from",
+  "meaning": "-den başka yöne çevirmek, saptırmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-145",
+  "term": "Get by",
+  "meaning": "Kıt kanaat geçinmek, idare etmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-146",
+  "term": "Figure out",
+  "meaning": "Anlamak, çözmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-147",
+  "term": "Give up",
+  "meaning": "Bırakmak, vazgeçmek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-148",
+  "term": "Come across",
+  "meaning": "Rastlamak, karşılaşmak",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-149",
+  "term": "Wind down",
+  "meaning": "Rahatlamak, yavaş yavaş sona ermek",
+  "wordType": "yokdil"
+ },
+ {
+  "id": "yokdil-150",
+  "term": "Keep off",
+  "meaning": "Uzak durmak, yaklaştırmamak",
+  "wordType": "yokdil"
+ }
+]
